@@ -1,0 +1,303 @@
+You are working inside my existing project:
+C:\Users\afsal\OneDrive\Desktop\AI JobHunt
+PROJECT GOAL
+This project is a Job Hunting system. For now, we are ONLY building Stage 1A:
+collecting the complete public company/startup list from the Kerala Startup Mission (KSUM) startup directory.
+DO NOT build the entire Job Hunting system yet.
+DO NOT collect recruiter emails yet.
+DO NOT scrape LinkedIn yet.
+DO NOT scrape contact pages yet.
+DO NOT build the dashboard yet.
+DO NOT add Go, Node.js, databases, APIs, or unnecessary frameworks.
+CURRENT PYTHON VERSION
+Python 3.11.9
+TARGET WEBSITE
+https://startups.startupmission.in/startups
+IMPORTANT
+The KSUM startup directory uses pagination.
+Direct public URLs such as:
+https://startups.startupmission.in/startups?page=1
+https://startups.startupmission.in/startups?page=2
+https://startups.startupmission.in/startups?page=3
+are accessible.
+We want to use normal public HTTP GET requests rather than reproducing the browser's Livewire POST request.
+TECHNOLOGY
+Use only:
+- Python 3.11+
+- requests
+- beautifulsoup4
+- Python standard library
+The required packages are:
+pip install requests beautifulsoup4
+PROJECT STRUCTURE
+Create/use:
+AI JobHunt/
+└── ksum-scraper/
+    ├── scraper.py
+    ├── ksum_test.csv
+    ├── ksum_companies.csv
+    └── README.md
+If ksum-scraper does not exist, create it.
+Do not modify unrelated files in the parent project.
+==================================================
+STAGE 1A — INITIAL 3-PAGE TEST
+==================================================
+First implement a TEST mode that requests only:
+page 1
+page 2
+page 3
+For every startup card, extract ONLY:
+1. Company Full Name
+2. Location
+3. KSUM Profile URL
+4. Source Page
+Expected CSV columns:
+id
+company_name
+location
+ksum_url
+source_page
+Example:
+id,company_name,location,ksum_url,source_page
+1,KALCEND TECHNOLOGIES PRIVATE LIMITED,Thiruvananthapuram,https://startups.startupmission.in/startups/05W3n,1
+Do not assume that every page contains exactly 20 companies.
+The scraper must count what it actually finds.
+==================================================
+HTML EXTRACTION
+==================================================
+Inspect the actual KSUM HTML before finalizing selectors.
+The startup profile links appear as links pointing to individual startup URLs under:
+/startups/<startup-id>
+The company name and location are contained inside the startup card.
+Use robust selectors based on the actual HTML.
+Do NOT rely on fragile CSS classes if a more stable relationship/structure can be used.
+Normalize extracted text:
+- remove unnecessary whitespace
+- collapse repeated spaces
+- preserve the actual company name
+- preserve the actual location
+- preserve the full KSUM URL
+Convert relative startup URLs into absolute URLs.
+==================================================
+DUPLICATE HANDLING
+==================================================
+Use the KSUM profile URL as the primary unique identifier.
+If the same startup URL appears more than once:
+- keep only one record
+- do not create duplicate rows
+Do not deduplicate companies solely by company name because different companies could potentially have similar names.
+IDs should be assigned AFTER deduplication so they remain sequential:
+1
+2
+3
+...
+==================================================
+REQUEST BEHAVIOR
+==================================================
+Use requests.Session().
+Use a reasonable User-Agent identifying the scraper as a normal research/data-collection script.
+Use a short timeout, e.g. 20–30 seconds.
+Add a polite delay between page requests, approximately 1 second.
+Do NOT:
+- send requests concurrently
+- flood the website
+- bypass rate limits
+- bypass authentication
+- bypass anti-bot systems
+- attempt to evade website restrictions
+This is only public-page collection.
+Handle common failures cleanly:
+- connection errors
+- timeout
+- HTTP errors
+- unexpected HTML
+- empty results
+Print clear progress such as:
+Fetching page 1...
+Found 20 companies.
+Fetching page 2...
+Found 20 companies.
+Fetching page 3...
+Found 20 companies.
+Then print:
+Total records found before deduplication: X
+Unique companies: Y
+Saved to: ksum_test.csv
+==================================================
+TEST OUTPUT
+==================================================
+After running pages 1–3, save:
+ksum_test.csv
+with UTF-8 encoding suitable for Excel.
+Do not overwrite an existing CSV silently if that could destroy previous results.
+Either explain the overwrite behavior clearly or use a safe approach.
+==================================================
+STAGE 1A — FULL SCRAPER
+==================================================
+After the 3-page test implementation is working, structure the code so it can easily switch to full collection.
+The full scraper should:
+1. Start at page 1.
+2. Request each page sequentially.
+3. Extract startup cards.
+4. Deduplicate using KSUM profile URL.
+5. Continue until the actual last page is detected.
+6. Stop safely if there are no startup records.
+7. Avoid infinite loops.
+8. Save the final dataset to:
+ksum_companies.csv
+Do not hard-code a guessed number of pages.
+Prefer detecting the pagination state from the actual HTML if possible.
+As a safety mechanism, include a reasonable maximum-page guard so a website change cannot cause an infinite loop.
+==================================================
+DATA QUALITY
+==================================================
+Before saving, validate each record:
+company_name must not be empty
+location must not be empty
+ksum_url must be a valid KSUM startup URL
+source_page must be an integer
+If a record cannot be extracted reliably:
+- skip it
+- print a warning
+- do not invent missing information
+NEVER guess company names, URLs, locations, or other data.
+==================================================
+README
+==================================================
+Create a short README.md explaining:
+1. Purpose of the scraper
+2. Python version
+3. Installation:
+pip install requests beautifulsoup4
+4. How to run the 3-page test
+5. Where ksum_test.csv is created
+6. How to run the full scraper
+7. What each CSV column means
+8. That the scraper collects publicly accessible KSUM startup information
+9. That it uses a polite request delay and sequential requests
+==================================================
+FUTURE STAGES — DO NOT IMPLEMENT NOW
+==================================================
+The project will eventually have these stages:
+STAGE 1A:
+KSUM pages
+→ company name
+→ location
+→ KSUM profile URL
+STAGE 1B:
+KSUM individual profile
+→ website
+→ sector
+→ technology
+→ founders/team
+STAGE 1C:
+Filter relevant companies:
+→ Thiruvananthapuram
+→ IT/ITeS
+→ Software
+→ SaaS
+→ AI/ML
+→ Web
+→ Mobile
+→ Cybersecurity
+→ other relevant technology companies
+STAGE 2:
+Official company website
+→ contact page
+→ careers page
+→ about/team page
+→ publicly listed business/recruitment contact details
+STAGE 3:
+Verification and Job Hunting database
+→ company
+→ website
+→ careers
+→ public email
+→ contact person
+→ designation
+→ LinkedIn
+→ source
+→ verification
+→ outreach status
+→ follow-up
+DO NOT IMPLEMENT STAGES 1B–3 YET.
+==================================================
+CODING STYLE
+==================================================
+Keep the implementation simple and beginner-friendly.
+Prefer:
+- clear functions
+- descriptive variable names
+- comments only where useful
+- no unnecessary architecture
+- no unnecessary classes
+- no external frameworks
+- no over-engineering
+Suggested functions:
+fetch_page(page_number)
+parse_startups(html, page_number)
+normalize_text(text)
+deduplicate_records(records)
+save_csv(records, filename)
+scrape_test_pages()
+scrape_all_pages()
+You may adjust the function structure if the actual implementation is cleaner.
+==================================================
+IMPORTANT WORKFLOW
+==================================================
+Before writing the final scraper:
+1. Inspect the existing project structure.
+2. Check whether ksum-scraper already exists.
+3. Do not overwrite unrelated existing work.
+4. Inspect the KSUM HTML structure.
+5. Implement the 3-page test first.
+6. Run the test.
+7. Inspect the generated CSV.
+8. Only after the test works, prepare the full-page mode.
+Do not claim the scraper works without actually testing it.
+At the end, report:
+- files created/modified
+- packages required
+- number of records found on pages 1–3
+- number of unique records
+- CSV location
+- any issues encountered
+- exact command I should run next
+IMPORTANT:
+Do not proceed into email/contact scraping.
+Do not build Stage 1B yet.
+The current objective is ONLY a reliable KSUM company-list collector.
+
+One important improvement I made
+
+I changed the plan slightly from the original:
+
+Don’t immediately make the full scraper.
+
+Codex should first:
+
+KSUM
+ ↓
+Pages 1–3
+ ↓
+~60 records
+ ↓
+ksum_test.csv
+ ↓
+You inspect it
+ ↓
+Only then
+ ↓
+ALL KSUM pages
+
+That is safer because if KSUM changes its HTML structure, we’ll discover the problem with 3 pages instead of potentially producing a huge incorrect CSV.
+
+And your project location is correctly specified as:
+
+C:\Users\afsal\OneDrive\Desktop\AI JobHunt
+
+So Codex should create:
+
+C:\Users\afsal\OneDrive\Desktop\AI JobHunt\ksum-scraper\
+
+After Codex finishes the 3-page test, don’t ask it to continue blindly. Show me its output/CSV results first, and we can verify whether the extracted company names, locations, and KSUM URLs are correct before moving to the full collection.
