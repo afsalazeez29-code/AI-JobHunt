@@ -86,3 +86,59 @@ information, or data from external websites. As with the Stage 1A CSVs, it
 uses sequential requests with a polite delay. The five-company test output is
 never silently overwritten; the full-run checkpoint is safely updated in place
 only after each successful profile is saved.
+
+## Stage 1C - Kerala software/IT target filter
+
+Run the Stage 1C filter from this folder:
+
+```powershell
+python filter_targets.py
+```
+
+It reads `ksum_companies_enriched.csv` and creates
+`ksum_kerala_software_it_targets.csv`. The master dataset is read only and is
+never modified. The filter retains explicit Kerala locations and applies
+explainable sector, industry, technology, and business-model signals to identify
+companies that are plausible software/IT developer job targets. The output adds
+`target_relevance` and `target_reason` after the preserved Stage 1B columns.
+
+Stage 1C does not visit company websites, search the web, or collect contact,
+email, LinkedIn, careers, or recruitment information.
+
+## Stage 1C.1 - Medium-target review
+
+Run the review from this folder:
+
+```powershell
+python review_medium_targets.py
+```
+
+It reviews only the Stage 1C rows marked `Medium`, using the existing local
+KSUM CSV fields. It creates `ksum_kerala_software_it_targets_refined.csv` with
+the preserved Stage 1C High records plus reviewed High and Medium records, and
+`ksum_kerala_software_it_review.csv` with every Medium decision, including
+excluded records and the factual reason. The Stage 1B master and Stage 1C source
+CSV are read only and never modified. No external sources are accessed.
+
+## Stage 1D - Final target audit and freeze
+
+Run the final KSUM-data-only audit from this folder:
+
+```powershell
+python final_target_audit.py
+```
+
+It reads the Stage 1B master, Stage 1C target list, Stage 1C.1 refined list,
+and Stage 1C.1 review audit without modifying them. It confirms the 57 current
+Medium targets and 15 exclusions against their existing KSUM fields, then creates:
+
+- `ksum_final_targets.csv`: frozen Stage 2 input, containing 457 High-priority
+  (`A`) and 57 Medium-priority (`B`) targets.
+- `ksum_final_target_audit.csv`: the 72 final Medium/Exclude audit decisions.
+- `ksum_final_exclusions.csv`: the 15 permanently excluded companies and reasons.
+
+The script validates unique profile URLs, valid KSUM URLs, priority values,
+field preservation, no exclusion leakage, and unchanged reference datasets.
+Stage 1 target selection is now frozen. Stage 2 will use
+`ksum_final_targets.csv` as its authoritative input. No external website,
+contact, email, LinkedIn, or careers-page research occurs in Stage 1D.
