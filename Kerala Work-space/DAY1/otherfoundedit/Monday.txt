@@ -93,7 +93,7 @@ C:\Users\afsal\OneDrive\Desktop\AI JobHunt\JOB-HUNT\ Afsal_A_Azeez_NF -> Node Fu
 
 
 Company Name: Naga Info Solutions (P) Ltd
-Roles: Full stack; Frontend Dev
+Roles: Frontend Dev , Full stack
 
 Company Name: GxP Technologies India (P) Ltd
 Roles: Node Backend; Full Stack

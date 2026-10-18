@@ -1,0 +1,356 @@
+Company ID: COMP001
+Company Name: Naga Info Solutions (P) Ltd
+Called Name: Naga
+Website: http://www.nagainfo.com
+Recruitment Email:
+Job Role: Frontend Dev
+
+--------------------------------------------------
+
+Company ID: COMP002
+Company Name: GxP Technologies India (P) Ltd
+Called Name: GxP
+Website: https://www.gxp-technologies-india.com
+Recruitment Email:
+Job Role: Node Backend
+
+--------------------------------------------------
+
+Company ID: COMP003
+Company Name: OptioLogic Technologies (P) Ltd
+Called Name: OptioLogic
+Website: http://www.optiologic.com
+Recruitment Email:
+Job Role: Node Full Stack
+
+--------------------------------------------------
+
+Company ID: COMP004
+Company Name: ALVERSTONE HEALTHCARE GLOBAL INNOVATION CENTRE
+Called Name: ALVERSTONE
+Website:
+Recruitment Email:
+Job Role: Web Dev
+
+--------------------------------------------------
+
+Company ID: COMP005
+Company Name: Xtra G CLUB PRIVATE LIMITED
+Called Name: Xtra G CLUB
+Website: http://www.xtragclub.com
+Recruitment Email:
+Job Role: Full Stack
+
+--------------------------------------------------
+
+Company ID: COMP006
+Company Name: NilaSoft (P) Ltd
+Called Name: NilaSoft
+Website: https://nila-soft.com
+Recruitment Email: hr@nila-soft.com
+Job Role: Full stack
+
+--------------------------------------------------
+
+Company ID: COMP007
+Company Name: Mibiz Cyber Forensics Laboratory
+Called Name: Mibiz
+Website: http://www.mibizsys.com
+Recruitment Email:
+Job Role: Full Stack
+
+--------------------------------------------------
+
+Company ID: COMP008
+Company Name: UpBuff Technologies Private Limited
+Called Name: UpBuff
+Website: https://upbuff.com
+Recruitment Email:
+Job Role: Python
+
+--------------------------------------------------
+
+Company ID: COMP009
+Company Name: BOXOP SOLUTIONS India (P) Ltd
+Called Name: BOXOP
+Website: http://www.boxop.in
+Recruitment Email:
+Job Role: Full Stack
+
+--------------------------------------------------
+
+Company ID: COMP010
+Company Name: InfoForte (P) Ltd
+Called Name: InfoForte
+Website: https://infoforte.com
+Recruitment Email:
+Job Role: Python
+
+--------------------------------------------------
+
+Company ID: COMP011
+Company Name: BuildNext Construction Solutions (P) Ltd
+Called Name: BuildNext
+Website: http://www.buildnext.in
+Recruitment Email: careers@buildnext.in
+Job Role: Fullstack
+
+--------------------------------------------------
+
+Company ID: COMP012
+Company Name: Innovatise Technology (P) Ltd
+Called Name: Innovatise
+Website: http://www.innovatise.com
+Recruitment Email:
+Job Role: Full-Stack
+
+--------------------------------------------------
+
+Company ID: COMP013
+Company Name: ELEMENTZ IT SOLUTIONS (P) Ltd
+Called Name: ELEMENTZ
+Website: https://www.elementzit.com
+Recruitment Email:
+Job Role: Full-stack
+
+--------------------------------------------------
+
+Company ID: COMP014
+Company Name: Foxdale (P) Ltd
+Called Name: Foxdale
+Website: http://www.foxdale.in
+Recruitment Email:
+Job Role: Web Dev
+
+--------------------------------------------------
+
+Company ID: COMP015
+Company Name: PromptTech Global (P) Ltd
+Called Name: PromptTech
+Website: https://prompttechsolutions.com
+Recruitment Email: careers@prompttechglobal.com
+Job Role: Full-stack dev
+
+--------------------------------------------------
+
+Company ID: COMP016
+Company Name: iTraitz IT Solutions (P) Ltd
+Called Name: iTraitz
+Website: http://www.itraitz.com
+Recruitment Email:
+Job Role: Web Dev
+
+--------------------------------------------------
+
+Company ID: COMP017
+Company Name: Orient CDS Private Limited
+Called Name: Orient CDS
+Website: https://www.orientcds.com
+Recruitment Email:
+Job Role: Node Fullstack dev
+
+--------------------------------------------------
+
+Company ID: COMP018
+Company Name: ShellSquare Softwares (P) Ltd
+Called Name: ShellSquare
+Website: http://www.shellsquare.com
+Recruitment Email: careers@shellsquare.com
+Job Role: Full stack Dev
+
+--------------------------------------------------
+
+Company ID: COMP019
+Company Name: Alamy Images India (P) Ltd
+Called Name: Alamy
+Website: http://www.alamy.com
+Recruitment Email:
+Job Role: Frontend Dev
+
+--------------------------------------------------
+
+Company ID: COMP020
+Company Name: Elementz Engineers Guild (P) Ltd
+Called Name: Elementz Engineers Guild
+Website: http://www.elementzonline.com
+Recruitment Email:
+Job Role: Web Dev
+
+--------------------------------------------------
+
+Company ID: COMP021
+Company Name: HybCloud Technologies (P) Ltd (Cloud Control)
+Called Name: HybCloud
+Website: http://www.ecloudcontrol.com
+Recruitment Email:
+Job Role: node Backend Dev
+
+--------------------------------------------------
+
+Company ID: COMP022
+Company Name: OrisysIndia
+Called Name: OrisysIndia
+Website:
+Recruitment Email:
+Job Role: Full-Stack Dev
+
+--------------------------------------------------
+
+Company ID: COMP023
+Company Name: Infolitz
+Called Name: Infolitz
+Website: https://www.infolitz.com
+Recruitment Email: hr@infolitz.com
+Job Role: React Dev
+
+--------------------------------------------------
+
+Company ID: COMP024
+Company Name: Links4engg
+Called Name: Links4engg
+Website: https://www.links4engg.com
+Recruitment Email:
+Job Role: React Dev
+
+--------------------------------------------------
+
+Company ID: COMP025
+Company Name: Leadmetrics
+Called Name: Leadmetrics
+Website: https://leadmetrics.ai
+Recruitment Email: careers@leadmetrics.ai
+Job Role: React Dev
+
+--------------------------------------------------
+
+Company ID: COMP026
+Company Name: Techversant Infotech
+Called Name: Techversant
+Website: https://techversantinfotech.com
+Recruitment Email: careers@techversantinfotech.com
+Job Role: React Dev
+
+--------------------------------------------------
+
+Company ID: COMP027
+Company Name: Softnotions
+Called Name: Softnotions
+Website: https://softnotions.com
+Recruitment Email: recruitment@softnotions.com
+Job Role: MERN Dev
+
+--------------------------------------------------
+
+Company ID: COMP028
+Company Name: RichInnovations plc
+Called Name: RichInnovations
+Website: https://richinnovationsplc.com
+Recruitment Email: hr@richinnovations.in
+Job Role: Full-Stack Dev
+
+--------------------------------------------------
+
+Company ID: COMP029
+Company Name: Immiworks India Private Limited
+Called Name: Immiworks
+Website: http://www.immiworks.com/
+Recruitment Email: hr@immiworks.com
+Job Role: Frontend Dev
+
+--------------------------------------------------
+
+Company ID: COMP030
+Company Name: DBiz AI Solutions Pvt. Ltd.
+Called Name: DBiz AI
+Website: dbiz.ai
+Recruitment Email:
+Job Role: Python Dev
+
+--------------------------------------------------
+
+Company ID: COMP031
+Company Name: Dot In Technologies
+Called Name: Dot In
+Website: https://www.dotintech.com
+Recruitment Email:
+Job Role: Frontend Dev
+
+--------------------------------------------------
+
+Company ID: COMP032
+Company Name: Sofdia Technologies Pvt Ltd
+Called Name: Sofdia
+Website: sofdia.in
+Recruitment Email:
+Job Role: Full Stack Dev
+
+==================================================
+DATA QUALITY REVIEW
+==================================================
+
+1. COMPANY COUNT SUMMARY:
+   - Expected count: 32
+   - Actual distinct company count: 32
+   - Discrepancy: None (0)
+
+2. COMPANIES MISSING WEBSITES (2):
+   - COMP004: ALVERSTONE HEALTHCARE GLOBAL INNOVATION CENTRE (Website missing in source)
+   - COMP022: OrisysIndia (Website not recorded in Monday.txt)
+
+3. COMPANIES MISSING VERIFIED RECRUITMENT EMAILS (22):
+   - COMP001: Naga Info Solutions (P) Ltd (Only unverified general mail recorded)
+   - COMP002: GxP Technologies India (P) Ltd (Only unverified contact email recorded)
+   - COMP003: OptioLogic Technologies (P) Ltd (Only unverified enquiries email recorded)
+   - COMP004: ALVERSTONE HEALTHCARE GLOBAL INNOVATION CENTRE (Only unverified general mail recorded)
+   - COMP005: Xtra G CLUB PRIVATE LIMITED (Only unverified info email recorded)
+   - COMP007: Mibiz Cyber Forensics Laboratory (Only unverified info email recorded)
+   - COMP008: UpBuff Technologies Private Limited (Only unverified info email recorded)
+   - COMP009: BOXOP SOLUTIONS India (P) Ltd (Only unverified personal/general email recorded)
+   - COMP010: InfoForte (P) Ltd (Only unverified info email recorded)
+   - COMP012: Innovatise Technology (P) Ltd (Only unverified info email recorded)
+   - COMP013: ELEMENTZ IT SOLUTIONS (P) Ltd (Only unverified sales email recorded)
+   - COMP014: Foxdale (P) Ltd (Only unverified support email recorded)
+   - COMP016: iTraitz IT Solutions (P) Ltd (Only unverified info email recorded)
+   - COMP017: Orient CDS Private Limited (Only unverified bookings email recorded)
+   - COMP019: Alamy Images India (P) Ltd (Only unverified support email recorded)
+   - COMP020: Elementz Engineers Guild (P) Ltd (Only unverified sales email recorded)
+   - COMP021: HybCloud Technologies (P) Ltd (Cloud Control) (Only unverified info email recorded)
+   - COMP022: OrisysIndia (No email recorded in Monday.txt)
+   - COMP024: Links4engg (Only unverified info email recorded)
+   - COMP030: DBiz AI Solutions Pvt. Ltd. (Only unverified info email recorded)
+   - COMP031: Dot In Technologies (Only unverified generic gmail recorded)
+   - COMP032: Sofdia Technologies Pvt Ltd (Only unverified info email recorded)
+
+4. UNVERIFIED EMAIL ADDRESSES REQUIRING RECRUITMENT VERIFICATION (21):
+   - COMP001: Naga Info Solutions (P) Ltd -> mail@nagainfo.com
+   - COMP002: GxP Technologies India (P) Ltd -> contact@gxp-technologies-india.com
+   - COMP003: OptioLogic Technologies (P) Ltd -> enquiries@optiologic.com
+   - COMP004: ALVERSTONE HEALTHCARE GLOBAL INNOVATION CENTRE -> mail@alverstones.com
+   - COMP005: Xtra G CLUB PRIVATE LIMITED -> info@xtragclub.com
+   - COMP007: Mibiz Cyber Forensics Laboratory -> info@mibizsys.com
+   - COMP008: UpBuff Technologies Private Limited -> info@upbuff.com
+   - COMP009: BOXOP SOLUTIONS India (P) Ltd -> manoj@boxop.in
+   - COMP010: InfoForte (P) Ltd -> info@infoforte.com
+   - COMP012: Innovatise Technology (P) Ltd -> info@innovatise.com
+   - COMP013: ELEMENTZ IT SOLUTIONS (P) Ltd -> sales@elementzit.com
+   - COMP014: Foxdale (P) Ltd -> support@foxdale.in
+   - COMP016: iTraitz IT Solutions (P) Ltd -> info@itraitz.com
+   - COMP017: Orient CDS Private Limited -> bookings@orientcds.com
+   - COMP019: Alamy Images India (P) Ltd -> customersupport@alamy.com
+   - COMP020: Elementz Engineers Guild (P) Ltd -> sales@elementzonline.com
+   - COMP021: HybCloud Technologies (P) Ltd (Cloud Control) -> info@ecloudcontrol.com
+   - COMP024: Links4engg -> info@links4engg.com
+   - COMP030: DBiz AI Solutions Pvt. Ltd. -> info@dbizsolution.com
+   - COMP031: Dot In Technologies -> dotintechnologies@gmail.com
+   - COMP032: Sofdia Technologies Pvt Ltd -> info@sofdia.in
+
+5. COMPANIES MISSING JOB ROLES (0):
+   - None. All 32 companies have at least one explicit job role.
+
+6. CALLED NAMES REQUIRING MANUAL REVIEW (3):
+   - COMP020: Elementz Engineers Guild (P) Ltd -> Called Name set to 'Elementz Engineers Guild' to distinguish from COMP013 'ELEMENTZ'.
+   - COMP021: HybCloud Technologies (P) Ltd (Cloud Control) -> Called Name set to 'HybCloud' (alternative candidate: 'Cloud Control').
+   - COMP030: DBiz AI Solutions Pvt. Ltd. -> Called Name set to 'DBiz AI'.
+
+7. DUPLICATE AND CONFLICTING RECORDS ENCOUNTERED (0):
+   - Source records in Monday.txt were organized across separate sections (contacts in lines 1-86, roles in lines 95-189). All 32 entities were consolidated into distinct sequential records without conflicting identities.
