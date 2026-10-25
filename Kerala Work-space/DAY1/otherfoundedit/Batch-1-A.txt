@@ -1,3 +1,194 @@
+Infolitz - https://www.infolitz.com - hr@infolitz.com
+Links4engg - https://www.links4engg.com - info@links4engg.com
+Leadmetrics - https://leadmetrics.ai - careers@leadmetrics.ai
+Naga Info Solutions (P) Ltd,http://www.nagainfo.com ->mail@nagainfo.com
+Techversant Infotech - https://techversantinfotech.com - careers@techversantinfotech.com
+Softnotions -  https://softnotions.com - recruitment@softnotions.com
+RichInnovations plc- https://richinnovationsplc.com - hr@richinnovations.in
+Immiworks India Private Limited - http://www.immiworks.com/ - hr@immiworks.com
+GxP Technologies India (P) Ltd,https://www.gxp-technologies-india.com ->contact@gxp-technologies-india.com
+OptioLogic Technologies (P) Ltd,http://www.optiologic.com -> enquiries@optiologic.com
+
+Company Name: ALVERSTONE HEALTHCARE GLOBAL INNOVATION CENTRE
+Website: [FLAGGED FOR REVIEW: Missing]
+Email: mail@alverstones.com
+
+Company Name: Xtra G CLUB PRIVATE LIMITED
+Website: http://www.xtragclub.com
+Email: info@xtragclub.com
+
+Company Name: NilaSoft (P) Ltd
+Website: https://nila-soft.com
+Email: hr@nila-soft.com
+
+Company Name: Mibiz Cyber Forensics Laboratory
+Website: http://www.mibizsys.com
+Email: info@mibizsys.com
+
+Company Name: UpBuff Technologies Private Limited
+Website: https://upbuff.com
+Email: info@upbuff.com
+
+Company Name: BOXOP SOLUTIONS India (P) Ltd
+Website: http://www.boxop.in
+Email: manoj@boxop.in
+
+Company Name: InfoForte (P) Ltd
+Website: https://infoforte.com
+Email: info@infoforte.com
+
+Company Name: BuildNext Construction Solutions (P) Ltd
+Website: http://www.buildnext.in
+Email: careers@buildnext.in
+
+Company Name: Innovatise Technology (P) Ltd
+Website: http://www.innovatise.com
+Email: info@innovatise.com
+
+Company Name: ELEMENTZ IT SOLUTIONS (P) Ltd
+Website: https://www.elementzit.com
+Email: sales@elementzit.com
+
+Company Name: Foxdale (P) Ltd
+Website: http://www.foxdale.in
+Email: support@foxdale.in
+
+Company Name: PromptTech Global (P) Ltd
+Website: https://prompttechsolutions.com
+Email: careers@prompttechglobal.com
+
+Company Name: iTraitz IT Solutions (P) Ltd
+Website: http://www.itraitz.com
+Email: info@itraitz.com
+
+Company Name: Orient CDS Private Limited
+Website: https://www.orientcds.com
+Email: bookings@orientcds.com
+
+Company Name: ShellSquare Softwares (P) Ltd
+Website: http://www.shellsquare.com
+Email: careers@shellsquare.com
+
+Company Name: Alamy Images India (P) Ltd
+Website: http://www.alamy.com
+Email: customersupport@alamy.com
+
+Company Name: Elementz Engineers Guild (P) Ltd
+Website: http://www.elementzonline.com
+Email: sales@elementzonline.com
+
+Company Name: HybCloud Technologies (P) Ltd (Cloud Control)
+Website: http://www.ecloudcontrol.com
+Email: info@ecloudcontrol.com
+
+DBiz AI Solutions Pvt. Ltd.,dbiz.ai ->info@dbizsolution.com
+Dot In Technologies,https://www.dotintech.com ->dotintechnologies@gmail.com
+Sofdia Technologies Pvt Ltd,sofdia.in ->info@sofdia.in
+
+"C:\Users\afsal\OneDrive\Desktop\RolResumes\JOB-HUNT\Afsal_A_Azeez_R&F" -> React Dev & Frontend Dev
+"C:\Users\afsal\OneDrive\Desktop\RolResumes\JOB-HUNT\Afsal_A_Azeez_M" -> MERN Dev
+"C:\Users\afsal\OneDrive\Desktop\RolResumes\JOB-HUNT\Afsal_A_Azeez_FS" -> Full Stack Dev
+c:\Users\afsal\OneDrive\Desktop\RolResumes\Node Backend Dev\Afsal_A_Azeez_NB" -> Node Backend Dev
+C:\Users\afsal\OneDrive\Desktop\AI JobHunt\JOB-HUNT\ Afsal_A_Azeez_NF -> Node Fullstack Dev
+
+
+Company Name: Naga Info Solutions (P) Ltd
+Roles: Frontend Dev , Full stack
+
+Company Name: GxP Technologies India (P) Ltd
+Roles: Node Backend; Full Stack
+
+Company Name: OptioLogic Technologies (P) Ltd
+Roles: Node Full Stack; Web Dev; Full Stack
+
+Company Name: ALVERSTONE HEALTHCARE GLOBAL INNOVATION CENTRE
+Roles: Web Dev
+
+Company Name: Xtra G CLUB PRIVATE LIMITED
+Roles: Full Stack
+
+Company Name: NilaSoft (P) Ltd
+Roles: Full stack
+
+Company Name: Mibiz Cyber Forensics Laboratory
+Roles: Full Stack; JAVA
+
+Company Name: UpBuff Technologies Private Limited
+Roles: Python; Full Stack
+
+Company Name: BOXOP SOLUTIONS India (P) Ltd
+Roles: Full Stack
+
+Company Name: InfoForte (P) Ltd
+Roles: Python; Full Stack
+
+Company Name: BuildNext Construction Solutions (P) Ltd
+Roles: Fullstack; Web Dev
+
+Company Name: Innovatise Technology (P) Ltd
+Roles: Full-Stack
+
+Company Name: ELEMENTZ IT SOLUTIONS (P) Ltd
+Roles: Full-stack; Web Dev
+
+Company Name: Foxdale (P) Ltd
+Roles: Web Dev; Frontend Dev
+
+Company Name: PromptTech Global (P) Ltd
+Roles: Full-stack dev; Frontend Dev
+
+Company Name: iTraitz IT Solutions (P) Ltd
+Roles: Web Dev; Full-stack Dev
+
+Company Name: Orient CDS Private Limited
+Roles: Node Fullstack dev
+
+Company Name: ShellSquare Softwares (P) Ltd
+Roles: Full stack Dev; Node Backend Dev; Python Dev
+
+Company Name: Alamy Images India (P) Ltd
+Roles: Frontend Dev
+
+Company Name: Elementz Engineers Guild (P) Ltd
+Roles: Web Dev; Full-Stack Dev; Frontend Dev
+
+Company Name: HybCloud Technologies (P) Ltd (Cloud Control)
+Roles: node Backend Dev; node Full stack
+
+Company Name: OrisysIndia
+Roles: Full-Stack Dev; Web Dev
+
+Company Name: Infolitz
+Roles: React Dev; Full-Stack Dev; Node-Backend Dev
+
+Company Name: Links4engg
+Roles: React Dev; Web Dev
+
+Company Name: Leadmetrics
+Roles: React Dev; MERN Dev; Web Dev; Frontend Dev
+
+Company Name: Techversant Infotech
+Roles: React Dev; Web Dev; NodeFullstack
+
+Company Name: Softnotions
+Roles: MERN Dev; Full-Stack Dev; Frontend Dev
+
+Company Name: RichInnovations plc
+Roles: Full-Stack Dev; Frontend Dev; MERN Dev
+
+Company Name: Immiworks India Private Limited
+Roles: Frontend Dev; SD Dev
+
+Company Name: DBiz AI Solutions Pvt. Ltd.
+Roles: Python Dev; Frontend Dev
+
+Company Name: Dot In Technologies
+Roles: Frontend Dev; Node.js Backend Dev
+
+Company Name: Sofdia Technologies Pvt Ltd
+Roles: Full Stack Dev; Frontend Dev
+
+
 Company ID: COMP001
 Company Name: Naga Info Solutions (P) Ltd
 Called Name: Naga

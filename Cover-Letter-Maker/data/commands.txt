@@ -1,0 +1,3 @@
+cd "C:\Users\afsal\OneDrive\Desktop\AI JobHunt\Cover-Letter-Maker" -> CD Commant
+
+py -3 scripts\generate_cover_letters.py --input data\applications.json --batch-name Batch1 -> Cover-Letter Craeating Command
