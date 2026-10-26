@@ -1,0 +1,452 @@
+{
+  "current_page": 4,
+  "data": [
+    {
+      "id": 33746,
+      "job_listing_id": "JOB-65-33746",
+      "job_title": "Senior Director-Marketing",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33745,
+      "job_listing_id": "JOB-26-33745",
+      "job_title": "Node JS Technical Architect",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33744,
+      "job_listing_id": "JOB-89-33744",
+      "job_title": "Accounts Payable Analyst",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33743,
+      "job_listing_id": "JOB-91-33743",
+      "job_title": "Digital Marketing Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33742,
+      "job_listing_id": "JOB-41-33742",
+      "job_title": "Senior DevOps Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33741,
+      "job_listing_id": "JOB-99-33741",
+      "job_title": "Full Stack Production Support Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33740,
+      "job_listing_id": "JOB-92-33740",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33739,
+      "job_listing_id": "JOB-94-33739",
+      "job_title": "MERN STACK TRAINEE",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33738,
+      "job_listing_id": "JOB-54-33738",
+      "job_title": "JAVA FullStack Developer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33737,
+      "job_listing_id": "JOB-34-33737",
+      "job_title": "Junior HR & Admin Executive",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5677,
+      "promoted": 0,
+      "company": {
+        "id": 5677,
+        "company": "IBIL Solutions (P) Ltd",
+        "logo": "/storage/company/16669285751028049741_IBIL Solutions.png"
+      }
+    },
+    {
+      "id": 33735,
+      "job_listing_id": "JOB-38-33735",
+      "job_title": "PCB Designer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6310,
+      "promoted": 0,
+      "company": {
+        "id": 6310,
+        "company": "Zybo Tech Lab (P) Ltd",
+        "logo": "/storage/images/3671.png"
+      }
+    },
+    {
+      "id": 33734,
+      "job_listing_id": "JOB-39-33734",
+      "job_title": "Female Customer Enablement Associate",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5886,
+      "promoted": 0,
+      "company": {
+        "id": 5886,
+        "company": "Integrated Order Automated Solutions (P) Ltd",
+        "logo": "/storage/company/16013789562942870243_Integrated_.JPG"
+      }
+    },
+    {
+      "id": 33733,
+      "job_listing_id": "JOB-22-33733",
+      "job_title": "Junior Financial Analyst",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33732,
+      "job_listing_id": "JOB-42-33732",
+      "job_title": "Videographer cum Editor ( immediate joiners)",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6522,
+      "promoted": 0,
+      "company": {
+        "id": 6522,
+        "company": "TRAINONEX SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/2729.jpg"
+      }
+    },
+    {
+      "id": 33730,
+      "job_listing_id": "JOB-47-33730",
+      "job_title": "Business Analyst",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33729,
+      "job_listing_id": "JOB-52-33729",
+      "job_title": "Automation Engineer / Senior Automation Engineer (3–7 Years)",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5894,
+      "promoted": 0,
+      "company": {
+        "id": 5894,
+        "company": "Simplogics Solutions (P) Ltd",
+        "logo": "/storage/company/14606935661498411077_Simplogics.jpg"
+      }
+    },
+    {
+      "id": 33728,
+      "job_listing_id": "JOB-18-33728",
+      "job_title": "Salesforce Associate Solution Architect",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33727,
+      "job_listing_id": "JOB-74-33727",
+      "job_title": "Salesforce Functional Consultant",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33726,
+      "job_listing_id": "JOB-77-33726",
+      "job_title": "Technical Program Manager (TPM)",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33725,
+      "job_listing_id": "JOB-70-33725",
+      "job_title": "ColdFusion Developer",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 61,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "label": "3",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=4",
+      "label": "4",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "label": "5",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=6",
+      "label": "6",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=5",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=3",
+  "to": 80,
+  "total": 317
+}

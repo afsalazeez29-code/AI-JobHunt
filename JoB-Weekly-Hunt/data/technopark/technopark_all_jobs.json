@@ -1,0 +1,5867 @@
+{
+  "collection_metadata": {
+    "collection_started_at": "2026-10-25T23:05:25.201819+00:00",
+    "collection_completed_at": "2026-10-25T23:05:37.875548+00:00",
+    "official_api_endpoint": "https://technopark.in/api/paginated-jobs",
+    "collection_status": "COMPLETE",
+    "raw_records_received": 317,
+    "unique_records_exported": 317,
+    "pagination_observed": [
+      {
+        "requested_page": 1,
+        "current_page": 1,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=2",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 2,
+        "current_page": 2,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=3",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 3,
+        "current_page": 3,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=4",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 4,
+        "current_page": 4,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=5",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 5,
+        "current_page": 5,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=6",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 6,
+        "current_page": 6,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=7",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 7,
+        "current_page": 7,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=8",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 8,
+        "current_page": 8,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=9",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 9,
+        "current_page": 9,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=10",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 10,
+        "current_page": 10,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=11",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 11,
+        "current_page": 11,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=12",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 12,
+        "current_page": 12,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=13",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 13,
+        "current_page": 13,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=14",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 14,
+        "current_page": 14,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=15",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 15,
+        "current_page": 15,
+        "last_page": 16,
+        "next_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+        "total": 317,
+        "per_page": 20
+      },
+      {
+        "requested_page": 16,
+        "current_page": 16,
+        "last_page": 16,
+        "next_page_url": null,
+        "total": 317,
+        "per_page": 20
+      }
+    ],
+    "job_details_url_validation": {
+      "pattern": "https://technopark.in/job-details/<numeric job id>",
+      "validated": true,
+      "samples": [
+        {
+          "job_id": 33810,
+          "url": "https://technopark.in/job-details/33810",
+          "status_code": 200,
+          "matches_source_record": true
+        },
+        {
+          "job_id": 33809,
+          "url": "https://technopark.in/job-details/33809",
+          "status_code": 200,
+          "matches_source_record": true
+        }
+      ],
+      "reason": "Two representative official detail pages returned the matching source job ID and title."
+    }
+  },
+  "jobs": [
+    {
+      "id": 33810,
+      "job_listing_id": "JOB-67-33810",
+      "job_title": "DIGITAL MARKETER",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6522,
+      "promoted": 0,
+      "company": {
+        "id": 6522,
+        "company": "TRAINONEX SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/2729.jpg"
+      }
+    },
+    {
+      "id": 33809,
+      "job_listing_id": "JOB-45-33809",
+      "job_title": "Faculty – Animation & Design",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33808,
+      "job_listing_id": "JOB-77-33808",
+      "job_title": "Junior Copywriter – Design & Marketing Team",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33807,
+      "job_listing_id": "JOB-69-33807",
+      "job_title": "Marketing Coordinator - Feature Film Division",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33806,
+      "job_listing_id": "JOB-60-33806",
+      "job_title": "Head of Finance",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33805,
+      "job_listing_id": "JOB-39-33805",
+      "job_title": "Senior Graphic Designer",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33804,
+      "job_listing_id": "JOB-61-33804",
+      "job_title": "Market Research Analyst Intern (Remote)",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-11",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6744,
+      "promoted": 0,
+      "company": {
+        "id": 6744,
+        "company": "AppSaas AI Technologies Pvt.Ltd.",
+        "logo": "/storage/images/3747.png"
+      }
+    },
+    {
+      "id": 33803,
+      "job_listing_id": "JOB-47-33803",
+      "job_title": "Digital Marketing Executive Intern (Remote)",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6744,
+      "promoted": 0,
+      "company": {
+        "id": 6744,
+        "company": "AppSaas AI Technologies Pvt.Ltd.",
+        "logo": "/storage/images/3747.png"
+      }
+    },
+    {
+      "id": 33802,
+      "job_listing_id": "JOB-35-33802",
+      "job_title": "DevOps Lead Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5757,
+      "promoted": 0,
+      "company": {
+        "id": 5757,
+        "company": "DeviceDriven (India) Pvt. Ltd",
+        "logo": "/storage/company/1436965935023_DeviceDriven.jpg"
+      }
+    },
+    {
+      "id": 33801,
+      "job_listing_id": "JOB-87-33801",
+      "job_title": "Senior Security Analyst",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5757,
+      "promoted": 0,
+      "company": {
+        "id": 5757,
+        "company": "DeviceDriven (India) Pvt. Ltd",
+        "logo": "/storage/company/1436965935023_DeviceDriven.jpg"
+      }
+    },
+    {
+      "id": 33800,
+      "job_listing_id": "JOB-67-33800",
+      "job_title": "Customer Success Associate",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6036,
+      "promoted": 0,
+      "company": {
+        "id": 6036,
+        "company": "Waybeo Technology Solutions (P) Ltd",
+        "logo": "/storage/company/15284555186519863695_waybeo logo.jpg"
+      }
+    },
+    {
+      "id": 33799,
+      "job_listing_id": "JOB-98-33799",
+      "job_title": "Junior Data Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6341,
+      "promoted": 0,
+      "company": {
+        "id": 6341,
+        "company": "Innovation Incubator Advisory (P) Ltd",
+        "logo": "/storage/images/2048.jpg"
+      }
+    },
+    {
+      "id": 33798,
+      "job_listing_id": "JOB-23-33798",
+      "job_title": "Senior .NET Developer - AI",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33797,
+      "job_listing_id": "JOB-98-33797",
+      "job_title": "Senior QA Automation Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 1,
+      "walk_in_start_date": "2026-10-29",
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": "09:30:00",
+      "walk_in_end_time": "16:00:00",
+      "company_id": 5756,
+      "promoted": 0,
+      "company": {
+        "id": 5756,
+        "company": "Appfabs Innovation (P) Ltd",
+        "logo": "/storage/images/479.jpg"
+      }
+    },
+    {
+      "id": 33794,
+      "job_listing_id": "JOB-62-33794",
+      "job_title": "Solution Architect - .Net",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33793,
+      "job_listing_id": "JOB-93-33793",
+      "job_title": "Engagement Manager / Senior Delivery Manager - Shift 6 PM to 4 AM IST",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33792,
+      "job_listing_id": "JOB-33-33792",
+      "job_title": "Delivery Head",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33791,
+      "job_listing_id": "JOB-81-33791",
+      "job_title": "Senior Project Manager",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33789,
+      "job_listing_id": "JOB-26-33789",
+      "job_title": "Technical Project Manager",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33788,
+      "job_listing_id": "JOB-75-33788",
+      "job_title": "Delivery Manager",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33787,
+      "job_listing_id": "JOB-38-33787",
+      "job_title": "Associate, Business Development",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5864,
+      "promoted": 0,
+      "company": {
+        "id": 5864,
+        "company": "Zyxware Technologies (P) Ltd",
+        "logo": "/storage/company/1437488625205_Zyxware_logo(web).png"
+      }
+    },
+    {
+      "id": 33786,
+      "job_listing_id": "JOB-72-33786",
+      "job_title": "Finance Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6598,
+      "promoted": 0,
+      "company": {
+        "id": 6598,
+        "company": "Atticube Technology Solutions Pvt Ltd",
+        "logo": "/storage/images/3145.png"
+      }
+    },
+    {
+      "id": 33785,
+      "job_listing_id": "JOB-94-33785",
+      "job_title": "Academic Counsellor / Student Mentor (Females Only)",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 1,
+      "walk_in_start_date": "2026-10-27",
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": "11:30:00",
+      "walk_in_end_time": "15:30:00",
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33784,
+      "job_listing_id": "JOB-75-33784",
+      "job_title": "Junior Customer Success Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5873,
+      "promoted": 0,
+      "company": {
+        "id": 5873,
+        "company": "SequoiaAT India (P) Ltd",
+        "logo": "/storage/company/14640015841228194063_Sequoia_logo.jpg"
+      }
+    },
+    {
+      "id": 33783,
+      "job_listing_id": "JOB-57-33783",
+      "job_title": "Lead/Senior Performance Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33782,
+      "job_listing_id": "JOB-64-33782",
+      "job_title": "Solution Architect",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33781,
+      "job_listing_id": "JOB-32-33781",
+      "job_title": "Enterprise Architect",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33780,
+      "job_listing_id": "JOB-74-33780",
+      "job_title": "Odoo Trainee",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-02",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5715,
+      "promoted": 0,
+      "company": {
+        "id": 5715,
+        "company": "Klystron Technologies",
+        "logo": "/storage/company/16393737540334182103_Klystron_brand identity.jpg"
+      }
+    },
+    {
+      "id": 33779,
+      "job_listing_id": "JOB-56-33779",
+      "job_title": "Technical Sales Specialist | Freshers : Btech: non-IT/MBA",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-12-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33778,
+      "job_listing_id": "JOB-44-33778",
+      "job_title": "Inside Sales ( Revenue Operations )",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33777,
+      "job_listing_id": "JOB-41-33777",
+      "job_title": "React JS Training Freshers Welcome",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6267,
+      "promoted": 0,
+      "company": {
+        "id": 6267,
+        "company": "RELAXPLZZ TECHNOLOGIES",
+        "logo": "/storage/images/770.png"
+      }
+    },
+    {
+      "id": 33776,
+      "job_listing_id": "JOB-87-33776",
+      "job_title": "Senior Marketing Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5676,
+      "promoted": 0,
+      "company": {
+        "id": 5676,
+        "company": "Prayan Animation Studio (P) Ltd",
+        "logo": "/storage/company/15070981257841464899_Prayan-Animation.jpeg.png"
+      }
+    },
+    {
+      "id": 33775,
+      "job_listing_id": "JOB-16-33775",
+      "job_title": "BackGround Colouring Artist",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5676,
+      "promoted": 0,
+      "company": {
+        "id": 5676,
+        "company": "Prayan Animation Studio (P) Ltd",
+        "logo": "/storage/company/15070981257841464899_Prayan-Animation.jpeg.png"
+      }
+    },
+    {
+      "id": 33774,
+      "job_listing_id": "JOB-87-33774",
+      "job_title": "Senior Full Stack - Dot Net with AWS & AI",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33773,
+      "job_listing_id": "JOB-82-33773",
+      "job_title": "Marketing Lead Generation_ Internship",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33772,
+      "job_listing_id": "JOB-73-33772",
+      "job_title": "Marketing & Lead Generation Intern",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33771,
+      "job_listing_id": "JOB-10-33771",
+      "job_title": "IT Recruiter - 2 to 5 years",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33770,
+      "job_listing_id": "JOB-92-33770",
+      "job_title": "Digital Marketing Executive - 3 to 6 years",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33769,
+      "job_listing_id": "JOB-35-33769",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5946,
+      "promoted": 0,
+      "company": {
+        "id": 5946,
+        "company": "4Labs Technologies (P) Ltd",
+        "logo": "/storage/company/16461925124258480296_4Labs.jpg"
+      }
+    },
+    {
+      "id": 33768,
+      "job_listing_id": "JOB-96-33768",
+      "job_title": "NetScaler Engineer L3",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5946,
+      "promoted": 0,
+      "company": {
+        "id": 5946,
+        "company": "4Labs Technologies (P) Ltd",
+        "logo": "/storage/company/16461925124258480296_4Labs.jpg"
+      }
+    },
+    {
+      "id": 33767,
+      "job_listing_id": "JOB-49-33767",
+      "job_title": "Junior SEO, AEO & GEO Specialist",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    },
+    {
+      "id": 33766,
+      "job_listing_id": "JOB-28-33766",
+      "job_title": "Junior GTM Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    },
+    {
+      "id": 33765,
+      "job_listing_id": "JOB-44-33765",
+      "job_title": "Digital Marketing Specialist (DMS)",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5672,
+      "promoted": 0,
+      "company": {
+        "id": 5672,
+        "company": "Crayo Tech Business Solutions (P) Ltd",
+        "logo": "/storage/company/16315961671431582664_Crayotech.JPG"
+      }
+    },
+    {
+      "id": 33764,
+      "job_listing_id": "JOB-43-33764",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6310,
+      "promoted": 0,
+      "company": {
+        "id": 6310,
+        "company": "Zybo Tech Lab (P) Ltd",
+        "logo": "/storage/images/3671.png"
+      }
+    },
+    {
+      "id": 33762,
+      "job_listing_id": "JOB-15-33762",
+      "job_title": "PeopleSoft Functional Lead – Financials (FSCM)",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5946,
+      "promoted": 0,
+      "company": {
+        "id": 5946,
+        "company": "4Labs Technologies (P) Ltd",
+        "logo": "/storage/company/16461925124258480296_4Labs.jpg"
+      }
+    },
+    {
+      "id": 33761,
+      "job_listing_id": "JOB-92-33761",
+      "job_title": "Senior QA Automation Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5756,
+      "promoted": 0,
+      "company": {
+        "id": 5756,
+        "company": "Appfabs Innovation (P) Ltd",
+        "logo": "/storage/images/479.jpg"
+      }
+    },
+    {
+      "id": 33760,
+      "job_listing_id": "JOB-69-33760",
+      "job_title": "Manager - Social Media Marketing",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33759,
+      "job_listing_id": "JOB-22-33759",
+      "job_title": "Job Posting Sales Operations & Lead Research Analyst",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33758,
+      "job_listing_id": "JOB-23-33758",
+      "job_title": "AI/ML Associate Architect",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33757,
+      "job_listing_id": "JOB-21-33757",
+      "job_title": "Senior Marketing Operations Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33756,
+      "job_listing_id": "JOB-59-33756",
+      "job_title": "Microsoft 365-Security Solution Specialist",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-18",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6239,
+      "promoted": 0,
+      "company": {
+        "id": 6239,
+        "company": "Gruppozenit India (P) Ltd",
+        "logo": "/storage/company/1524209867449_gruppo_zenit.png"
+      }
+    },
+    {
+      "id": 33755,
+      "job_listing_id": "JOB-38-33755",
+      "job_title": "HR & Sales Administrator",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6073,
+      "promoted": 0,
+      "company": {
+        "id": 6073,
+        "company": "Akira Software Solutions (P) Ltd",
+        "logo": "/storage/company/1436786138291_akiralogo.png"
+      }
+    },
+    {
+      "id": 33754,
+      "job_listing_id": "JOB-90-33754",
+      "job_title": "Team Lead - Email Marketing",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33753,
+      "job_listing_id": "JOB-16-33753",
+      "job_title": "Senior Database Administrator (MySQL & MongoDB)",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33752,
+      "job_listing_id": "JOB-60-33752",
+      "job_title": "Senior Operations Executive - Airport Parking",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33751,
+      "job_listing_id": "JOB-94-33751",
+      "job_title": "JAVA Solution Architect",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33750,
+      "job_listing_id": "JOB-68-33750",
+      "job_title": "Content Writer - B2B",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33749,
+      "job_listing_id": "JOB-63-33749",
+      "job_title": "QA Automation Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33748,
+      "job_listing_id": "JOB-95-33748",
+      "job_title": "Accounts Payable Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33747,
+      "job_listing_id": "JOB-50-33747",
+      "job_title": "Product Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33746,
+      "job_listing_id": "JOB-65-33746",
+      "job_title": "Senior Director-Marketing",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33745,
+      "job_listing_id": "JOB-26-33745",
+      "job_title": "Node JS Technical Architect",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33744,
+      "job_listing_id": "JOB-89-33744",
+      "job_title": "Accounts Payable Analyst",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33743,
+      "job_listing_id": "JOB-91-33743",
+      "job_title": "Digital Marketing Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33742,
+      "job_listing_id": "JOB-41-33742",
+      "job_title": "Senior DevOps Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33741,
+      "job_listing_id": "JOB-99-33741",
+      "job_title": "Full Stack Production Support Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33740,
+      "job_listing_id": "JOB-92-33740",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33739,
+      "job_listing_id": "JOB-94-33739",
+      "job_title": "MERN STACK TRAINEE",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33738,
+      "job_listing_id": "JOB-54-33738",
+      "job_title": "JAVA FullStack Developer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33737,
+      "job_listing_id": "JOB-34-33737",
+      "job_title": "Junior HR & Admin Executive",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5677,
+      "promoted": 0,
+      "company": {
+        "id": 5677,
+        "company": "IBIL Solutions (P) Ltd",
+        "logo": "/storage/company/16669285751028049741_IBIL Solutions.png"
+      }
+    },
+    {
+      "id": 33735,
+      "job_listing_id": "JOB-38-33735",
+      "job_title": "PCB Designer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6310,
+      "promoted": 0,
+      "company": {
+        "id": 6310,
+        "company": "Zybo Tech Lab (P) Ltd",
+        "logo": "/storage/images/3671.png"
+      }
+    },
+    {
+      "id": 33734,
+      "job_listing_id": "JOB-39-33734",
+      "job_title": "Female Customer Enablement Associate",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5886,
+      "promoted": 0,
+      "company": {
+        "id": 5886,
+        "company": "Integrated Order Automated Solutions (P) Ltd",
+        "logo": "/storage/company/16013789562942870243_Integrated_.JPG"
+      }
+    },
+    {
+      "id": 33733,
+      "job_listing_id": "JOB-22-33733",
+      "job_title": "Junior Financial Analyst",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33732,
+      "job_listing_id": "JOB-42-33732",
+      "job_title": "Videographer cum Editor ( immediate joiners)",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6522,
+      "promoted": 0,
+      "company": {
+        "id": 6522,
+        "company": "TRAINONEX SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/2729.jpg"
+      }
+    },
+    {
+      "id": 33730,
+      "job_listing_id": "JOB-47-33730",
+      "job_title": "Business Analyst",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33729,
+      "job_listing_id": "JOB-52-33729",
+      "job_title": "Automation Engineer / Senior Automation Engineer (3–7 Years)",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5894,
+      "promoted": 0,
+      "company": {
+        "id": 5894,
+        "company": "Simplogics Solutions (P) Ltd",
+        "logo": "/storage/company/14606935661498411077_Simplogics.jpg"
+      }
+    },
+    {
+      "id": 33728,
+      "job_listing_id": "JOB-18-33728",
+      "job_title": "Salesforce Associate Solution Architect",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33727,
+      "job_listing_id": "JOB-74-33727",
+      "job_title": "Salesforce Functional Consultant",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33726,
+      "job_listing_id": "JOB-77-33726",
+      "job_title": "Technical Program Manager (TPM)",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33725,
+      "job_listing_id": "JOB-70-33725",
+      "job_title": "ColdFusion Developer",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33724,
+      "job_listing_id": "JOB-89-33724",
+      "job_title": "Technical Lead - .NET",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33723,
+      "job_listing_id": "JOB-34-33723",
+      "job_title": "Senior Software Engineer - .NET",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33722,
+      "job_listing_id": "JOB-93-33722",
+      "job_title": "ServiceNow Architect / Associate Architect",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33721,
+      "job_listing_id": "JOB-90-33721",
+      "job_title": "Senior ServiceNow Developer / Technical Consultant",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33720,
+      "job_listing_id": "JOB-98-33720",
+      "job_title": "ServiceNow Functional Consultant",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33719,
+      "job_listing_id": "JOB-31-33719",
+      "job_title": "Operations Trainee",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33718,
+      "job_listing_id": "JOB-38-33718",
+      "job_title": "Senior Python Developer",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33717,
+      "job_listing_id": "JOB-41-33717",
+      "job_title": "Team Lead - AI/ML",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33716,
+      "job_listing_id": "JOB-25-33716",
+      "job_title": "Marketing Trainee (RevOps)",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33715,
+      "job_listing_id": "JOB-48-33715",
+      "job_title": "Senior Associate - Talent Acquisition",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33714,
+      "job_listing_id": "JOB-72-33714",
+      "job_title": "Senior AI/ML Engineer",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33713,
+      "job_listing_id": "JOB-22-33713",
+      "job_title": "Graphic Designer and Video Editor",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33712,
+      "job_listing_id": "JOB-93-33712",
+      "job_title": "UX Associate Lead",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33711,
+      "job_listing_id": "JOB-48-33711",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33710,
+      "job_listing_id": "JOB-73-33710",
+      "job_title": "Senior Technical Lead / Architect",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33709,
+      "job_listing_id": "JOB-33-33709",
+      "job_title": "Technical Recruitment Lead",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33708,
+      "job_listing_id": "JOB-82-33708",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33707,
+      "job_listing_id": "JOB-21-33707",
+      "job_title": "Business Development Manager",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33706,
+      "job_listing_id": "JOB-55-33706",
+      "job_title": "Associate Architect - Python",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33705,
+      "job_listing_id": "JOB-67-33705",
+      "job_title": "Technical Lead - Python",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33704,
+      "job_listing_id": "JOB-46-33704",
+      "job_title": "Senior Salesforce Developer / Technical Consultant",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33703,
+      "job_listing_id": "JOB-87-33703",
+      "job_title": "Senior Java Developer",
+      "posted_date": "2026-10-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-03",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5730,
+      "promoted": 0,
+      "company": {
+        "id": 5730,
+        "company": "Techversant Infotech (P) Ltd",
+        "logo": "/storage/images/2777.png"
+      }
+    },
+    {
+      "id": 33702,
+      "job_listing_id": "JOB-36-33702",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-20",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5649,
+      "promoted": 0,
+      "company": {
+        "id": 5649,
+        "company": "TIGRID TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/561.jpg"
+      }
+    },
+    {
+      "id": 33701,
+      "job_listing_id": "JOB-61-33701",
+      "job_title": "Office Admin cum Tele caller",
+      "posted_date": "2026-10-20",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5934,
+      "promoted": 0,
+      "company": {
+        "id": 5934,
+        "company": "Upcommune Business Network (P) Ltd",
+        "logo": "/storage/company/16846864382796138950_upcbn logo 2023.jpg"
+      }
+    },
+    {
+      "id": 33700,
+      "job_listing_id": "JOB-44-33700",
+      "job_title": "Business Development Officer (Hindi Speaking)",
+      "posted_date": "2026-10-20",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5934,
+      "promoted": 0,
+      "company": {
+        "id": 5934,
+        "company": "Upcommune Business Network (P) Ltd",
+        "logo": "/storage/company/16846864382796138950_upcbn logo 2023.jpg"
+      }
+    },
+    {
+      "id": 33699,
+      "job_listing_id": "JOB-56-33699",
+      "job_title": "Performance Marketer",
+      "posted_date": "2026-10-20",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5649,
+      "promoted": 0,
+      "company": {
+        "id": 5649,
+        "company": "TIGRID TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/561.jpg"
+      }
+    },
+    {
+      "id": 33698,
+      "job_listing_id": "JOB-52-33698",
+      "job_title": "Walk In Drive @ TCS Trivandrum On 31st October 2026, Saturday, 9:00 AM.",
+      "posted_date": "2026-10-20",
+      "is_walk_in": 1,
+      "walk_in_start_date": "2026-10-31",
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": "09:00:00",
+      "walk_in_end_time": "13:00:00",
+      "company_id": 6067,
+      "promoted": 0,
+      "company": {
+        "id": 6067,
+        "company": "Tata Consultancy Services Ltd",
+        "logo": "/storage/company/1445409914929_TCS.jpg"
+      }
+    },
+    {
+      "id": 33695,
+      "job_listing_id": "JOB-85-33695",
+      "job_title": "Business Development Associate (BDA)",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6112,
+      "promoted": 0,
+      "company": {
+        "id": 6112,
+        "company": "Yarab Technologies (P) Ltd",
+        "logo": "/storage/images/592.png"
+      }
+    },
+    {
+      "id": 33694,
+      "job_listing_id": "JOB-98-33694",
+      "job_title": "Sales Manager – Retail Insurance",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6112,
+      "promoted": 0,
+      "company": {
+        "id": 6112,
+        "company": "Yarab Technologies (P) Ltd",
+        "logo": "/storage/images/592.png"
+      }
+    },
+    {
+      "id": 33693,
+      "job_listing_id": "JOB-14-33693",
+      "job_title": "Deputy Manager - Audit",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6112,
+      "promoted": 0,
+      "company": {
+        "id": 6112,
+        "company": "Yarab Technologies (P) Ltd",
+        "logo": "/storage/images/592.png"
+      }
+    },
+    {
+      "id": 33692,
+      "job_listing_id": "JOB-51-33692",
+      "job_title": "Accounting Assistant - US shift - Property Management",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5955,
+      "promoted": 0,
+      "company": {
+        "id": 5955,
+        "company": "Adisys Research and Development India (P) Ltd",
+        "logo": "/storage/company/16166698567822899097_Adisys-logo-new.jpg"
+      }
+    },
+    {
+      "id": 33690,
+      "job_listing_id": "JOB-33-33690",
+      "job_title": "Accounting Assistant – US Shift – Property Management",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5955,
+      "promoted": 0,
+      "company": {
+        "id": 5955,
+        "company": "Adisys Research and Development India (P) Ltd",
+        "logo": "/storage/company/16166698567822899097_Adisys-logo-new.jpg"
+      }
+    },
+    {
+      "id": 33689,
+      "job_listing_id": "JOB-32-33689",
+      "job_title": "Accountant – US Shift – Property Management",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5955,
+      "promoted": 0,
+      "company": {
+        "id": 5955,
+        "company": "Adisys Research and Development India (P) Ltd",
+        "logo": "/storage/company/16166698567822899097_Adisys-logo-new.jpg"
+      }
+    },
+    {
+      "id": 33688,
+      "job_listing_id": "JOB-46-33688",
+      "job_title": "Senior DevOps & Infrastructure Engineer (Networking Focus)",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6300,
+      "promoted": 0,
+      "company": {
+        "id": 6300,
+        "company": "Prophaze Technologies (P) Ltd",
+        "logo": "/storage/images/1528.jpg"
+      }
+    },
+    {
+      "id": 33687,
+      "job_listing_id": "JOB-52-33687",
+      "job_title": "Dot Net Developer",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5799,
+      "promoted": 0,
+      "company": {
+        "id": 5799,
+        "company": "KENLAND IT SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/490.jpg"
+      }
+    },
+    {
+      "id": 33686,
+      "job_listing_id": "JOB-21-33686",
+      "job_title": "Lead Generation Executive (Marketing)",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5799,
+      "promoted": 0,
+      "company": {
+        "id": 5799,
+        "company": "KENLAND IT SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/490.jpg"
+      }
+    },
+    {
+      "id": 33685,
+      "job_listing_id": "JOB-70-33685",
+      "job_title": "Customer Care Executive",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5799,
+      "promoted": 0,
+      "company": {
+        "id": 5799,
+        "company": "KENLAND IT SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/490.jpg"
+      }
+    },
+    {
+      "id": 33684,
+      "job_listing_id": "JOB-68-33684",
+      "job_title": "Senior Magento developer",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5799,
+      "promoted": 0,
+      "company": {
+        "id": 5799,
+        "company": "KENLAND IT SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/490.jpg"
+      }
+    },
+    {
+      "id": 33683,
+      "job_listing_id": "JOB-39-33683",
+      "job_title": "HR Generalist",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5799,
+      "promoted": 0,
+      "company": {
+        "id": 5799,
+        "company": "KENLAND IT SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/490.jpg"
+      }
+    },
+    {
+      "id": 33682,
+      "job_listing_id": "JOB-33-33682",
+      "job_title": "RPA Developer (UiPath) 2+Yrs Exp.",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6333,
+      "promoted": 0,
+      "company": {
+        "id": 6333,
+        "company": "GNX Digital Solutions (P) Ltd",
+        "logo": "/storage/images/1980.jpg"
+      }
+    },
+    {
+      "id": 33681,
+      "job_listing_id": "JOB-35-33681",
+      "job_title": "Digital Marketing & Content Writer Intern",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6310,
+      "promoted": 0,
+      "company": {
+        "id": 6310,
+        "company": "Zybo Tech Lab (P) Ltd",
+        "logo": "/storage/images/3671.png"
+      }
+    },
+    {
+      "id": 33680,
+      "job_listing_id": "JOB-22-33680",
+      "job_title": "3D Product Designer",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6310,
+      "promoted": 0,
+      "company": {
+        "id": 6310,
+        "company": "Zybo Tech Lab (P) Ltd",
+        "logo": "/storage/images/3671.png"
+      }
+    },
+    {
+      "id": 33679,
+      "job_listing_id": "JOB-65-33679",
+      "job_title": "Microsoft Azure - Cloud Solution Specialist",
+      "posted_date": "2026-10-19",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-17",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6239,
+      "promoted": 0,
+      "company": {
+        "id": 6239,
+        "company": "Gruppozenit India (P) Ltd",
+        "logo": "/storage/company/1524209867449_gruppo_zenit.png"
+      }
+    },
+    {
+      "id": 33672,
+      "job_listing_id": "JOB-58-33672",
+      "job_title": "Insurance Verification Specialist",
+      "posted_date": "2026-10-18",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5812,
+      "promoted": 0,
+      "company": {
+        "id": 5812,
+        "company": "SRS Global Technologies (P) Ltd",
+        "logo": "/storage/company/16475912564161770994_SRS Global (1).jpeg"
+      }
+    },
+    {
+      "id": 33670,
+      "job_listing_id": "JOB-58-33670",
+      "job_title": "Client Relationship Executive",
+      "posted_date": "2026-10-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5988,
+      "promoted": 0,
+      "company": {
+        "id": 5988,
+        "company": "Spericorn Technology (P) Ltd",
+        "logo": "/storage/company/15984134156508078351_spericon_logo_big.png"
+      }
+    },
+    {
+      "id": 33669,
+      "job_listing_id": "JOB-11-33669",
+      "job_title": "Business Analyst",
+      "posted_date": "2026-10-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6310,
+      "promoted": 0,
+      "company": {
+        "id": 6310,
+        "company": "Zybo Tech Lab (P) Ltd",
+        "logo": "/storage/images/3671.png"
+      }
+    },
+    {
+      "id": 33668,
+      "job_listing_id": "JOB-25-33668",
+      "job_title": "Technical Project Manager",
+      "posted_date": "2026-10-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6159,
+      "promoted": 0,
+      "company": {
+        "id": 6159,
+        "company": "iTraitz IT Solutions (P) Ltd",
+        "logo": "/storage/company/1436798267166_logo.jpg"
+      }
+    },
+    {
+      "id": 33650,
+      "job_listing_id": "JOB-34-33650",
+      "job_title": "Solution Architect",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33649,
+      "job_listing_id": "JOB-35-33649",
+      "job_title": "Technical Project Lead",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33645,
+      "job_listing_id": "JOB-84-33645",
+      "job_title": "Business Development Associate",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6803,
+      "promoted": 0,
+      "company": {
+        "id": 6803,
+        "company": "Axnol Digital Solutions Pvt Ltd",
+        "logo": "/storage/images/3748.jpg"
+      }
+    },
+    {
+      "id": 33644,
+      "job_listing_id": "JOB-67-33644",
+      "job_title": "Customer Support Executive - Voice Process (Australia Region)",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5824,
+      "promoted": 0,
+      "company": {
+        "id": 5824,
+        "company": "Phykon Solutions (P) Ltd",
+        "logo": "/storage/company/1436941075618_logo.png"
+      }
+    },
+    {
+      "id": 33643,
+      "job_listing_id": "JOB-31-33643",
+      "job_title": "Sr. Java Developer / Implementation Engineer",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33642,
+      "job_listing_id": "JOB-15-33642",
+      "job_title": "Executive- Sales and Marketing",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6178,
+      "promoted": 0,
+      "company": {
+        "id": 6178,
+        "company": "M Squared Software & Services (P) Ltd",
+        "logo": "/storage/company/1436852424185_M-Squared-Logo-2015.png"
+      }
+    },
+    {
+      "id": 33637,
+      "job_listing_id": "JOB-25-33637",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-16",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6402,
+      "promoted": 0,
+      "company": {
+        "id": 6402,
+        "company": "Medowa Global (P) Ltd",
+        "logo": "/storage/images/2257.jpg"
+      }
+    },
+    {
+      "id": 33634,
+      "job_listing_id": "JOB-37-33634",
+      "job_title": "Client Support Coordinator",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33633,
+      "job_listing_id": "JOB-68-33633",
+      "job_title": "Java Technical Lead",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33632,
+      "job_listing_id": "JOB-68-33632",
+      "job_title": "Java Architect",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33631,
+      "job_listing_id": "JOB-42-33631",
+      "job_title": "Java Developer/ Senior Java Developer",
+      "posted_date": "2026-10-16",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33629,
+      "job_listing_id": "JOB-68-33629",
+      "job_title": "Tele Sales / Inside Sales Executive - (Mega Walk - In Drive)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5820,
+      "promoted": 0,
+      "company": {
+        "id": 5820,
+        "company": "Xpetize Technology Solutions (P) Ltd",
+        "logo": "/storage/company/1581679187644283741_xpetize-xpetics-iot.png"
+      }
+    },
+    {
+      "id": 33628,
+      "job_listing_id": "JOB-50-33628",
+      "job_title": "Full Stack Developer – Fresher/Trainee (AI & Full Stack)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-04",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5835,
+      "promoted": 0,
+      "company": {
+        "id": 5835,
+        "company": "Richinnovations Technologies (P) Ltd",
+        "logo": "/storage/images/806.png"
+      }
+    },
+    {
+      "id": 33625,
+      "job_listing_id": "JOB-73-33625",
+      "job_title": "ORACLE DBA",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33624,
+      "job_listing_id": "JOB-36-33624",
+      "job_title": "Sr.Business Analyst",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33623,
+      "job_listing_id": "JOB-86-33623",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6611,
+      "promoted": 0,
+      "company": {
+        "id": 6611,
+        "company": "ZenturioTech Pvt Ltd",
+        "logo": "/storage/images/3153.jpg"
+      }
+    },
+    {
+      "id": 33622,
+      "job_listing_id": "JOB-37-33622",
+      "job_title": "Junior Executive - Sales & Marketing",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6178,
+      "promoted": 0,
+      "company": {
+        "id": 6178,
+        "company": "M Squared Software & Services (P) Ltd",
+        "logo": "/storage/company/1436852424185_M-Squared-Logo-2015.png"
+      }
+    },
+    {
+      "id": 33621,
+      "job_listing_id": "JOB-42-33621",
+      "job_title": "Installation Executives: Senior, Junior Positions & Freshers",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6178,
+      "promoted": 0,
+      "company": {
+        "id": 6178,
+        "company": "M Squared Software & Services (P) Ltd",
+        "logo": "/storage/company/1436852424185_M-Squared-Logo-2015.png"
+      }
+    },
+    {
+      "id": 33620,
+      "job_listing_id": "JOB-65-33620",
+      "job_title": "Java Spring Boot Developer",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5746,
+      "promoted": 0,
+      "company": {
+        "id": 5746,
+        "company": "Experion Technologies (I) (P) Ltd",
+        "logo": "/storage/company/16516385797579520183_Experion_new.png"
+      }
+    },
+    {
+      "id": 33619,
+      "job_listing_id": "JOB-90-33619",
+      "job_title": "Senior Digital Marketing Analyst – SEO/SMO",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5676,
+      "promoted": 0,
+      "company": {
+        "id": 5676,
+        "company": "Prayan Animation Studio (P) Ltd",
+        "logo": "/storage/company/15070981257841464899_Prayan-Animation.jpeg.png"
+      }
+    },
+    {
+      "id": 33618,
+      "job_listing_id": "JOB-85-33618",
+      "job_title": "Customer Relationship Executive - Medical insurance",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33614,
+      "job_listing_id": "JOB-29-33614",
+      "job_title": "UK Accounting Specialist",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33613,
+      "job_listing_id": "JOB-83-33613",
+      "job_title": "Medical Underwriter",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33612,
+      "job_listing_id": "JOB-94-33612",
+      "job_title": "Hiring Freshers for the Process Associate/Financial Associate role (Voice/Non Voice Process)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-17",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5884,
+      "promoted": 0,
+      "company": {
+        "id": 5884,
+        "company": "RR Donnelley India Outsource (P) Ltd",
+        "logo": "/storage/company/1644227466998924318_RRD_Logo_Black_RGB.jpg"
+      }
+    },
+    {
+      "id": 33611,
+      "job_listing_id": "JOB-51-33611",
+      "job_title": "Senior AWS DevOps Engineer",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6249,
+      "promoted": 0,
+      "company": {
+        "id": 6249,
+        "company": "NeedStreet Web Technologies (P) Ltd",
+        "logo": "/storage/company/1436967750430_NeedStreet.jpg"
+      }
+    },
+    {
+      "id": 33610,
+      "job_listing_id": "JOB-32-33610",
+      "job_title": "Dot Net Team Lead",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5715,
+      "promoted": 0,
+      "company": {
+        "id": 5715,
+        "company": "Klystron Technologies",
+        "logo": "/storage/company/16393737540334182103_Klystron_brand identity.jpg"
+      }
+    },
+    {
+      "id": 33609,
+      "job_listing_id": "JOB-53-33609",
+      "job_title": "Project Delivery Executive",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5715,
+      "promoted": 0,
+      "company": {
+        "id": 5715,
+        "company": "Klystron Technologies",
+        "logo": "/storage/company/16393737540334182103_Klystron_brand identity.jpg"
+      }
+    },
+    {
+      "id": 33607,
+      "job_listing_id": "JOB-96-33607",
+      "job_title": "POS & Retail Solutions Executive",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33606,
+      "job_listing_id": "JOB-42-33606",
+      "job_title": "Paid Internship Opportunity – Customer Relationship Executive (InsurTech)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33605,
+      "job_listing_id": "JOB-20-33605",
+      "job_title": "AR Caller (Voice Process)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33603,
+      "job_listing_id": "JOB-73-33603",
+      "job_title": "Sales Representative Trainee",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5649,
+      "promoted": 0,
+      "company": {
+        "id": 5649,
+        "company": "TIGRID TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/561.jpg"
+      }
+    },
+    {
+      "id": 33600,
+      "job_listing_id": "JOB-70-33600",
+      "job_title": "Software Test Engineer",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5813,
+      "promoted": 0,
+      "company": {
+        "id": 5813,
+        "company": "Kameda Infologics (P) Ltd",
+        "logo": "/storage/company/1439028350017_LOGO.JPG"
+      }
+    },
+    {
+      "id": 33598,
+      "job_listing_id": "JOB-69-33598",
+      "job_title": "Senior Analyst - Financial Reporting (R2R)",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5893,
+      "promoted": 0,
+      "company": {
+        "id": 5893,
+        "company": "Alamy Images India (P) Ltd",
+        "logo": "/storage/images/3208.png"
+      }
+    },
+    {
+      "id": 33593,
+      "job_listing_id": "JOB-58-33593",
+      "job_title": "Digital Marketing Intern",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5697,
+      "promoted": 0,
+      "company": {
+        "id": 5697,
+        "company": "Valoriz Digital (P) Ltd",
+        "logo": "/storage/images/564.jpg"
+      }
+    },
+    {
+      "id": 33592,
+      "job_listing_id": "JOB-96-33592",
+      "job_title": "Market Research & Lead Generation Intern",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5697,
+      "promoted": 0,
+      "company": {
+        "id": 5697,
+        "company": "Valoriz Digital (P) Ltd",
+        "logo": "/storage/images/564.jpg"
+      }
+    },
+    {
+      "id": 33591,
+      "job_listing_id": "JOB-83-33591",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6754,
+      "promoted": 0,
+      "company": {
+        "id": 6754,
+        "company": "ONBYZ",
+        "logo": "/storage/images/3758.png"
+      }
+    },
+    {
+      "id": 33590,
+      "job_listing_id": "JOB-39-33590",
+      "job_title": "Accounts Executive",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6489,
+      "promoted": 0,
+      "company": {
+        "id": 6489,
+        "company": "ATEAM INFOSOFT SOLUTIONS PRIVATE LIMITED",
+        "logo": "/storage/images/2497.png"
+      }
+    },
+    {
+      "id": 33589,
+      "job_listing_id": "JOB-54-33589",
+      "job_title": "Corporate AI Trainer / Microsoft Copilot Specialist ( On-Site)",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6244,
+      "promoted": 0,
+      "company": {
+        "id": 6244,
+        "company": "Zoondia Software (P) Ltd",
+        "logo": "/storage/company/1436866236462_zoondia-icon.png"
+      }
+    },
+    {
+      "id": 33588,
+      "job_listing_id": "JOB-81-33588",
+      "job_title": "Software Testing Intern",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6415,
+      "promoted": 0,
+      "company": {
+        "id": 6415,
+        "company": "Breeze Brain Technologies (P) Ltd",
+        "logo": "/storage/images/2266.jpg"
+      }
+    },
+    {
+      "id": 33586,
+      "job_listing_id": "JOB-22-33586",
+      "job_title": "Technical Support Executive (Male Candidates Only)",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6415,
+      "promoted": 0,
+      "company": {
+        "id": 6415,
+        "company": "Breeze Brain Technologies (P) Ltd",
+        "logo": "/storage/images/2266.jpg"
+      }
+    },
+    {
+      "id": 33585,
+      "job_listing_id": "JOB-69-33585",
+      "job_title": "Senior Finance Executive - UK Payroll & Taxation",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5893,
+      "promoted": 0,
+      "company": {
+        "id": 5893,
+        "company": "Alamy Images India (P) Ltd",
+        "logo": "/storage/images/3208.png"
+      }
+    },
+    {
+      "id": 33584,
+      "job_listing_id": "JOB-11-33584",
+      "job_title": "Inside Sales Executive – International Markets",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6091,
+      "promoted": 0,
+      "company": {
+        "id": 6091,
+        "company": "REFINED IT SOLUTIONS AND MARKETING (P) Ltd",
+        "logo": "/storage/company/15931487188477713554_REFINED.JPG"
+      }
+    },
+    {
+      "id": 33581,
+      "job_listing_id": "JOB-36-33581",
+      "job_title": "Conceptual Designer – (Freshers welcome)",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33579,
+      "job_listing_id": "JOB-92-33579",
+      "job_title": "Behavioural & Cognitive Science Research Associate – AI Adoption",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33578,
+      "job_listing_id": "JOB-32-33578",
+      "job_title": "Senior Full Stack Developer (Java + React/Next.js)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6158,
+      "promoted": 0,
+      "company": {
+        "id": 6158,
+        "company": "Speridian Technologies (P) Ltd",
+        "logo": "/storage/images/1061.png"
+      }
+    },
+    {
+      "id": 33575,
+      "job_listing_id": "JOB-74-33575",
+      "job_title": "Flutter Program",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6109,
+      "promoted": 0,
+      "company": {
+        "id": 6109,
+        "company": "iCloud9 Digital (P) Ltd",
+        "logo": "/storage/company/1469162223134859182_iCloud9.png"
+      }
+    },
+    {
+      "id": 33570,
+      "job_listing_id": "JOB-24-33570",
+      "job_title": "Marketing Intern",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6502,
+      "promoted": 0,
+      "company": {
+        "id": 6502,
+        "company": "MAV-S Innovations",
+        "logo": "/storage/images/2643.jpg"
+      }
+    },
+    {
+      "id": 33568,
+      "job_listing_id": "JOB-94-33568",
+      "job_title": "Kannada – Female Speaking Support Executive",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5886,
+      "promoted": 0,
+      "company": {
+        "id": 5886,
+        "company": "Integrated Order Automated Solutions (P) Ltd",
+        "logo": "/storage/company/16013789562942870243_Integrated_.JPG"
+      }
+    },
+    {
+      "id": 33567,
+      "job_listing_id": "JOB-39-33567",
+      "job_title": "Female Customer Care Manager (Kannada)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5886,
+      "promoted": 0,
+      "company": {
+        "id": 5886,
+        "company": "Integrated Order Automated Solutions (P) Ltd",
+        "logo": "/storage/company/16013789562942870243_Integrated_.JPG"
+      }
+    },
+    {
+      "id": 33566,
+      "job_listing_id": "JOB-35-33566",
+      "job_title": "Exp Full Stack Developer – AI-Assisted Development & Deployment",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33565,
+      "job_listing_id": "JOB-36-33565",
+      "job_title": "Software Engineer",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6307,
+      "promoted": 0,
+      "company": {
+        "id": 6307,
+        "company": "HASpaces IT & Hospitality (P) Ltd",
+        "logo": "/storage/images/1529.png"
+      }
+    },
+    {
+      "id": 33563,
+      "job_listing_id": "JOB-17-33563",
+      "job_title": "Administrator (Male Preferred)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5643,
+      "promoted": 0,
+      "company": {
+        "id": 5643,
+        "company": "Acharya Panchakarma & Traditional Kerala Ayurveda (P) Ltd",
+        "logo": "/storage/images/476.jpg"
+      }
+    },
+    {
+      "id": 33562,
+      "job_listing_id": "JOB-41-33562",
+      "job_title": "Office Admin",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6501,
+      "promoted": 0,
+      "company": {
+        "id": 6501,
+        "company": "Life and Opportunity Solutions LLP",
+        "logo": "/storage/images/2635.jpg"
+      }
+    },
+    {
+      "id": 33559,
+      "job_listing_id": "JOB-59-33559",
+      "job_title": "Accounts Executive ( Commerce Graduates with Articleship Experience Can Apply )",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33558,
+      "job_listing_id": "JOB-38-33558",
+      "job_title": "JR DevOps Engineer | 0-2 Yrs",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33556,
+      "job_listing_id": "JOB-30-33556",
+      "job_title": "AI- Sales Specialist (0-3 Yrs Exp)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33555,
+      "job_listing_id": "JOB-66-33555",
+      "job_title": "Technical Sales Engineer (0-3 Yrs Exp)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33554,
+      "job_listing_id": "JOB-58-33554",
+      "job_title": "Senior Full Stack: AI-Assisted Development & Deployment (3 to 6 Yrs)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33553,
+      "job_listing_id": "JOB-17-33553",
+      "job_title": "Senior Full Stack Developer: AI –Exp : 3-6 Years",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33551,
+      "job_listing_id": "JOB-92-33551",
+      "job_title": "Finance Executive",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6179,
+      "promoted": 0,
+      "company": {
+        "id": 6179,
+        "company": "ShellSquare Softwares (P) Ltd",
+        "logo": "/storage/company/15445250573265324120_Shell.JPG"
+      }
+    },
+    {
+      "id": 33550,
+      "job_listing_id": "JOB-77-33550",
+      "job_title": "Conversational Solutions Architect",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6240,
+      "promoted": 0,
+      "company": {
+        "id": 6240,
+        "company": "Xminds Infotech (P) Ltd",
+        "logo": "/storage/company/1440407750184_xminds.png"
+      }
+    },
+    {
+      "id": 33548,
+      "job_listing_id": "JOB-16-33548",
+      "job_title": "Digital Marketing Specialist",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6287,
+      "promoted": 0,
+      "company": {
+        "id": 6287,
+        "company": "Stackmod Innovations (P) Ltd",
+        "logo": "/storage/images/1151.png"
+      }
+    },
+    {
+      "id": 33547,
+      "job_listing_id": "JOB-49-33547",
+      "job_title": "Senior Software Developer - C#",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6179,
+      "promoted": 0,
+      "company": {
+        "id": 6179,
+        "company": "ShellSquare Softwares (P) Ltd",
+        "logo": "/storage/company/15445250573265324120_Shell.JPG"
+      }
+    },
+    {
+      "id": 33546,
+      "job_listing_id": "JOB-34-33546",
+      "job_title": "QA Engineer – 3+ Years | Immediate Joiners | 1-Year Contract",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5787,
+      "promoted": 0,
+      "company": {
+        "id": 5787,
+        "company": "Cloud Nautical Solutions India (P) Ltd",
+        "logo": "/storage/images/482.jpg"
+      }
+    },
+    {
+      "id": 33545,
+      "job_listing_id": "JOB-86-33545",
+      "job_title": "Marketing Lead",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6539,
+      "promoted": 0,
+      "company": {
+        "id": 6539,
+        "company": "Eartheye Space Private Limited",
+        "logo": "/storage/images/2792.jpg"
+      }
+    },
+    {
+      "id": 33537,
+      "job_listing_id": "JOB-90-33537",
+      "job_title": "OFS Data Integration & Reporting Specialist",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6244,
+      "promoted": 0,
+      "company": {
+        "id": 6244,
+        "company": "Zoondia Software (P) Ltd",
+        "logo": "/storage/company/1436866236462_zoondia-icon.png"
+      }
+    },
+    {
+      "id": 33536,
+      "job_listing_id": "JOB-10-33536",
+      "job_title": "Mid‑Level Power Platform Consultant",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-17",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6239,
+      "promoted": 0,
+      "company": {
+        "id": 6239,
+        "company": "Gruppozenit India (P) Ltd",
+        "logo": "/storage/company/1524209867449_gruppo_zenit.png"
+      }
+    },
+    {
+      "id": 33535,
+      "job_listing_id": "JOB-99-33535",
+      "job_title": "Managed Kubernetes Administrator / Kubernetes Platform Engineer",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-17",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6239,
+      "promoted": 0,
+      "company": {
+        "id": 6239,
+        "company": "Gruppozenit India (P) Ltd",
+        "logo": "/storage/company/1524209867449_gruppo_zenit.png"
+      }
+    },
+    {
+      "id": 33515,
+      "job_listing_id": "JOB-10-33515",
+      "job_title": "Senior Software Engineer – AI-Augmented Software Development-REMOTE:6+ Yrs",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33514,
+      "job_listing_id": "JOB-98-33514",
+      "job_title": "Senior Software Engineer – AI-Augmented Software Development(6+ Yrs)",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33513,
+      "job_listing_id": "JOB-86-33513",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6598,
+      "promoted": 0,
+      "company": {
+        "id": 6598,
+        "company": "Atticube Technology Solutions Pvt Ltd",
+        "logo": "/storage/images/3145.png"
+      }
+    },
+    {
+      "id": 33512,
+      "job_listing_id": "JOB-40-33512",
+      "job_title": "Oracle Filed Service Specialist (Location: Dubai)",
+      "posted_date": "2026-10-11",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6244,
+      "promoted": 0,
+      "company": {
+        "id": 6244,
+        "company": "Zoondia Software (P) Ltd",
+        "logo": "/storage/company/1436866236462_zoondia-icon.png"
+      }
+    },
+    {
+      "id": 33507,
+      "job_listing_id": "JOB-69-33507",
+      "job_title": "HR Executive",
+      "posted_date": "2026-10-10",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5988,
+      "promoted": 0,
+      "company": {
+        "id": 5988,
+        "company": "Spericorn Technology (P) Ltd",
+        "logo": "/storage/company/15984134156508078351_spericon_logo_big.png"
+      }
+    },
+    {
+      "id": 33504,
+      "job_listing_id": "JOB-37-33504",
+      "job_title": "Hardware Engineer – IoT & Embedded Systems",
+      "posted_date": "2026-10-10",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5988,
+      "promoted": 0,
+      "company": {
+        "id": 5988,
+        "company": "Spericorn Technology (P) Ltd",
+        "logo": "/storage/company/15984134156508078351_spericon_logo_big.png"
+      }
+    },
+    {
+      "id": 33500,
+      "job_listing_id": "JOB-40-33500",
+      "job_title": "Support & Implementation Engineer – HIS (Fresher)",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5813,
+      "promoted": 0,
+      "company": {
+        "id": 5813,
+        "company": "Kameda Infologics (P) Ltd",
+        "logo": "/storage/company/1439028350017_LOGO.JPG"
+      }
+    },
+    {
+      "id": 33490,
+      "job_listing_id": "JOB-51-33490",
+      "job_title": "Principal Engineer",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5843,
+      "promoted": 0,
+      "company": {
+        "id": 5843,
+        "company": "AOT TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/1212.png"
+      }
+    },
+    {
+      "id": 33486,
+      "job_listing_id": "JOB-55-33486",
+      "job_title": "HR/Operations Intern",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6501,
+      "promoted": 0,
+      "company": {
+        "id": 6501,
+        "company": "Life and Opportunity Solutions LLP",
+        "logo": "/storage/images/2635.jpg"
+      }
+    },
+    {
+      "id": 33480,
+      "job_listing_id": "JOB-46-33480",
+      "job_title": "Graphic Designer",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5672,
+      "promoted": 0,
+      "company": {
+        "id": 5672,
+        "company": "Crayo Tech Business Solutions (P) Ltd",
+        "logo": "/storage/company/16315961671431582664_Crayotech.JPG"
+      }
+    },
+    {
+      "id": 33479,
+      "job_listing_id": "JOB-16-33479",
+      "job_title": "Digital Marketing Specialist",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5672,
+      "promoted": 0,
+      "company": {
+        "id": 5672,
+        "company": "Crayo Tech Business Solutions (P) Ltd",
+        "logo": "/storage/company/16315961671431582664_Crayotech.JPG"
+      }
+    },
+    {
+      "id": 33471,
+      "job_listing_id": "JOB-24-33471",
+      "job_title": "Graphic Designer",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5643,
+      "promoted": 0,
+      "company": {
+        "id": 5643,
+        "company": "Acharya Panchakarma & Traditional Kerala Ayurveda (P) Ltd",
+        "logo": "/storage/images/476.jpg"
+      }
+    },
+    {
+      "id": 33470,
+      "job_listing_id": "JOB-31-33470",
+      "job_title": "Business Development Executive Intern – Part-Time (Remote)",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6744,
+      "promoted": 0,
+      "company": {
+        "id": 6744,
+        "company": "AppSaas AI Technologies Pvt.Ltd.",
+        "logo": "/storage/images/3747.png"
+      }
+    },
+    {
+      "id": 33469,
+      "job_listing_id": "JOB-86-33469",
+      "job_title": "Recruiting Online Teachers/SMEs for Maths, Physics, Chemistry, Biology, English, Hindi, Malayalam, Sanskrit, Arabic, French, German, Social Science, History, Geography, and Accountancy",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33465,
+      "job_listing_id": "JOB-84-33465",
+      "job_title": "Technical Sales Specialist (0-3 Yrs Exp)",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33463,
+      "job_listing_id": "JOB-79-33463",
+      "job_title": "Test Engineer",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6341,
+      "promoted": 0,
+      "company": {
+        "id": 6341,
+        "company": "Innovation Incubator Advisory (P) Ltd",
+        "logo": "/storage/images/2048.jpg"
+      }
+    },
+    {
+      "id": 33460,
+      "job_listing_id": "JOB-22-33460",
+      "job_title": "Network Security ( CCNP / CCIE )",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5882,
+      "promoted": 0,
+      "company": {
+        "id": 5882,
+        "company": "Kvaliteta Systems and Solutions (P) Ltd",
+        "logo": "/storage/company/1436786105032_Kvaliteta Logo.jpg"
+      }
+    },
+    {
+      "id": 33454,
+      "job_listing_id": "JOB-90-33454",
+      "job_title": "Tele Sales / Inside Sales Executive",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5820,
+      "promoted": 0,
+      "company": {
+        "id": 5820,
+        "company": "Xpetize Technology Solutions (P) Ltd",
+        "logo": "/storage/company/1581679187644283741_xpetize-xpetics-iot.png"
+      }
+    },
+    {
+      "id": 33452,
+      "job_listing_id": "JOB-75-33452",
+      "job_title": "Techno Commercial Coordinator",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6584,
+      "promoted": 0,
+      "company": {
+        "id": 6584,
+        "company": "Timenet Solutions (P) Ltd.",
+        "logo": "/storage/images/2984.jpg"
+      }
+    },
+    {
+      "id": 33448,
+      "job_listing_id": "JOB-76-33448",
+      "job_title": "Sr. Software QA Engineer ( Location: Cochin)",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6244,
+      "promoted": 0,
+      "company": {
+        "id": 6244,
+        "company": "Zoondia Software (P) Ltd",
+        "logo": "/storage/company/1436866236462_zoondia-icon.png"
+      }
+    },
+    {
+      "id": 33446,
+      "job_listing_id": "JOB-51-33446",
+      "job_title": "Sales Enhancement Executive",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6302,
+      "promoted": 0,
+      "company": {
+        "id": 6302,
+        "company": "Srishti Innovative Educational Services (P) Ltd",
+        "logo": "/storage/images/1476.png"
+      }
+    },
+    {
+      "id": 33445,
+      "job_listing_id": "JOB-46-33445",
+      "job_title": "Service Analyst - Application Support Role",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33442,
+      "job_listing_id": "JOB-71-33442",
+      "job_title": "Sales Trainee",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5699,
+      "promoted": 0,
+      "company": {
+        "id": 5699,
+        "company": "Vismaya InfoTech Solutions (P) Ltd",
+        "logo": "/storage/company/167696858838567153_Vismaya_new.png"
+      }
+    },
+    {
+      "id": 33441,
+      "job_listing_id": "JOB-16-33441",
+      "job_title": "Lead Developer & Architect – IP Camera",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5754,
+      "promoted": 0,
+      "company": {
+        "id": 5754,
+        "company": "THINKPALM TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/14713274433574644350_21186_THINK-PALM-LOGO_RGB.JPG"
+      }
+    },
+    {
+      "id": 33439,
+      "job_listing_id": "JOB-30-33439",
+      "job_title": "Electronics Testing Technician",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-21",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6167,
+      "promoted": 0,
+      "company": {
+        "id": 6167,
+        "company": "VINVISH TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1439200411370_logo v.jpeg"
+      }
+    },
+    {
+      "id": 33431,
+      "job_listing_id": "JOB-28-33431",
+      "job_title": "Accountant",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5707,
+      "promoted": 0,
+      "company": {
+        "id": 5707,
+        "company": "Estrrado Technology Solutions (P) Ltd",
+        "logo": "/storage/images/2185.png"
+      }
+    },
+    {
+      "id": 33423,
+      "job_listing_id": "JOB-95-33423",
+      "job_title": "Opening for Senior AR Caller-Process Coach(RCM) @Technopark",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6571,
+      "promoted": 0,
+      "company": {
+        "id": 6571,
+        "company": "Prochant India (P) Ltd",
+        "logo": "/storage/images/2904.webp"
+      }
+    },
+    {
+      "id": 33399,
+      "job_listing_id": "JOB-19-33399",
+      "job_title": "AI Engineer",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6287,
+      "promoted": 0,
+      "company": {
+        "id": 6287,
+        "company": "Stackmod Innovations (P) Ltd",
+        "logo": "/storage/images/1151.png"
+      }
+    },
+    {
+      "id": 33394,
+      "job_listing_id": "JOB-46-33394",
+      "job_title": "ETL/SQL Developer",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5777,
+      "promoted": 0,
+      "company": {
+        "id": 5777,
+        "company": "SE-Mentor Solutions (P) Ltd",
+        "logo": "/storage/images/3610.jpg"
+      }
+    },
+    {
+      "id": 33390,
+      "job_listing_id": "JOB-96-33390",
+      "job_title": "Network Support Engineer(L2) – NOC",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-20",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5824,
+      "promoted": 0,
+      "company": {
+        "id": 5824,
+        "company": "Phykon Solutions (P) Ltd",
+        "logo": "/storage/company/1436941075618_logo.png"
+      }
+    },
+    {
+      "id": 33389,
+      "job_listing_id": "JOB-81-33389",
+      "job_title": "NOC / SRE Lead – NOC Operations",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-20",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5824,
+      "promoted": 0,
+      "company": {
+        "id": 5824,
+        "company": "Phykon Solutions (P) Ltd",
+        "logo": "/storage/company/1436941075618_logo.png"
+      }
+    },
+    {
+      "id": 33387,
+      "job_listing_id": "JOB-45-33387",
+      "job_title": "English and Soft Skill Trainer",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33386,
+      "job_listing_id": "JOB-55-33386",
+      "job_title": "Sales Executive",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33385,
+      "job_listing_id": "JOB-22-33385",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33382,
+      "job_listing_id": "JOB-25-33382",
+      "job_title": "Laravel Developer – 1.5+ Years Experience",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6091,
+      "promoted": 0,
+      "company": {
+        "id": 6091,
+        "company": "REFINED IT SOLUTIONS AND MARKETING (P) Ltd",
+        "logo": "/storage/company/15931487188477713554_REFINED.JPG"
+      }
+    },
+    {
+      "id": 33379,
+      "job_listing_id": "JOB-68-33379",
+      "job_title": "Team Lead - Telesales & BPO Operations",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5616,
+      "promoted": 0,
+      "company": {
+        "id": 5616,
+        "company": "JOOPIUM TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/16812939125488370449_joopium logo 1.jpg"
+      }
+    },
+    {
+      "id": 33370,
+      "job_listing_id": "JOB-78-33370",
+      "job_title": "Marketing Associate",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33368,
+      "job_listing_id": "JOB-66-33368",
+      "job_title": "Marketing Specialist",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33353,
+      "job_listing_id": "JOB-85-33353",
+      "job_title": "Junior Report Developer",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6341,
+      "promoted": 0,
+      "company": {
+        "id": 6341,
+        "company": "Innovation Incubator Advisory (P) Ltd",
+        "logo": "/storage/images/2048.jpg"
+      }
+    },
+    {
+      "id": 33352,
+      "job_listing_id": "JOB-59-33352",
+      "job_title": "Embedded / BSP Engineer",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33351,
+      "job_listing_id": "JOB-20-33351",
+      "job_title": "2.\tAI & Application Engineer",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33346,
+      "job_listing_id": "JOB-70-33346",
+      "job_title": "DevOps Engineer - AWS",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6539,
+      "promoted": 0,
+      "company": {
+        "id": 6539,
+        "company": "Eartheye Space Private Limited",
+        "logo": "/storage/images/2792.jpg"
+      }
+    },
+    {
+      "id": 33344,
+      "job_listing_id": "JOB-73-33344",
+      "job_title": "AI:Software Engineer;Development,Quality&Delivery:Exp-6+ Yrs |Remote",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-19",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33343,
+      "job_listing_id": "JOB-91-33343",
+      "job_title": "Senior Software Engineer – AI-Augmented Software Engineering",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-19",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33342,
+      "job_listing_id": "JOB-86-33342",
+      "job_title": "Creative Video Editor",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5997,
+      "promoted": 0,
+      "company": {
+        "id": 5997,
+        "company": "Techstas Global Innovations (P) Ltd",
+        "logo": "/storage/images/2907.jpg"
+      }
+    },
+    {
+      "id": 33333,
+      "job_listing_id": "JOB-53-33333",
+      "job_title": "Travel & Administration Coordinator",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5822,
+      "promoted": 0,
+      "company": {
+        "id": 5822,
+        "company": "APPLEXUS TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/15791688645523306549_Applexus Logo_New V1.png"
+      }
+    },
+    {
+      "id": 33322,
+      "job_listing_id": "JOB-19-33322",
+      "job_title": "MuleSoft Integration Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5746,
+      "promoted": 0,
+      "company": {
+        "id": 5746,
+        "company": "Experion Technologies (I) (P) Ltd",
+        "logo": "/storage/company/16516385797579520183_Experion_new.png"
+      }
+    },
+    {
+      "id": 33319,
+      "job_listing_id": "JOB-72-33319",
+      "job_title": "QA & DATA Audit Associate",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6005,
+      "promoted": 0,
+      "company": {
+        "id": 6005,
+        "company": "NXTLIVE TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1444372504676_LogoTP.png"
+      }
+    },
+    {
+      "id": 33318,
+      "job_listing_id": "JOB-40-33318",
+      "job_title": "Industry Research and Content Associate",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6005,
+      "promoted": 0,
+      "company": {
+        "id": 6005,
+        "company": "NXTLIVE TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1444372504676_LogoTP.png"
+      }
+    },
+    {
+      "id": 33317,
+      "job_listing_id": "JOB-70-33317",
+      "job_title": "ACCOUNT BASED MARKETING ASSOCIATE",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6005,
+      "promoted": 0,
+      "company": {
+        "id": 6005,
+        "company": "NXTLIVE TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1444372504676_LogoTP.png"
+      }
+    },
+    {
+      "id": 33313,
+      "job_listing_id": "JOB-69-33313",
+      "job_title": "AI / Data Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33312,
+      "job_listing_id": "JOB-24-33312",
+      "job_title": "Business Analyst",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33311,
+      "job_listing_id": "JOB-40-33311",
+      "job_title": "UI-UX Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33310,
+      "job_listing_id": "JOB-71-33310",
+      "job_title": "Senior Dev Ops Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33309,
+      "job_listing_id": "JOB-77-33309",
+      "job_title": "System Administrator",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5717,
+      "promoted": 0,
+      "company": {
+        "id": 5717,
+        "company": "SEQATO Software Solutions (P) Ltd",
+        "logo": "/storage/company/16388510300633916049_SEQATO2_Font_Logo.png"
+      }
+    },
+    {
+      "id": 33297,
+      "job_listing_id": "JOB-55-33297",
+      "job_title": "Creative Director (E-Commerce / D2C Beauty & Wellness)",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5643,
+      "promoted": 0,
+      "company": {
+        "id": 5643,
+        "company": "Acharya Panchakarma & Traditional Kerala Ayurveda (P) Ltd",
+        "logo": "/storage/images/476.jpg"
+      }
+    },
+    {
+      "id": 33295,
+      "job_listing_id": "JOB-62-33295",
+      "job_title": "TELE MARKETING/ACADEMIC COUNSELLOR'S (Female Fresher/ Female Experienced Candidates)",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33294,
+      "job_listing_id": "JOB-43-33294",
+      "job_title": "Academic Counsellor / Student Mentor (Females Only)",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33289,
+      "job_listing_id": "JOB-63-33289",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33288,
+      "job_listing_id": "JOB-70-33288",
+      "job_title": "Digital Marketing Associate",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33287,
+      "job_listing_id": "JOB-51-33287",
+      "job_title": "US IT Recruiter",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5613,
+      "promoted": 0,
+      "company": {
+        "id": 5613,
+        "company": "Acrocede Technologies (P) Ltd",
+        "logo": "/storage/company/15452005035531116146_Acrocede.png"
+      }
+    },
+    {
+      "id": 33283,
+      "job_listing_id": "JOB-56-33283",
+      "job_title": "Digital Marketing Executive",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33279,
+      "job_listing_id": "JOB-98-33279",
+      "job_title": "Business Executive – Sales & Marketing",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6402,
+      "promoted": 0,
+      "company": {
+        "id": 6402,
+        "company": "Medowa Global (P) Ltd",
+        "logo": "/storage/images/2257.jpg"
+      }
+    },
+    {
+      "id": 33269,
+      "job_listing_id": "JOB-32-33269",
+      "job_title": "Recruitment Executive",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5822,
+      "promoted": 0,
+      "company": {
+        "id": 5822,
+        "company": "APPLEXUS TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/15791688645523306549_Applexus Logo_New V1.png"
+      }
+    },
+    {
+      "id": 33267,
+      "job_listing_id": "JOB-33-33267",
+      "job_title": "Technical Sales Specialist – (Kannada Fluency required)",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33266,
+      "job_listing_id": "JOB-59-33266",
+      "job_title": "Fresher Developer - PHP | 2025/2026 Freshers",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33251,
+      "job_listing_id": "JOB-73-33251",
+      "job_title": "Senior PMO",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33249,
+      "job_listing_id": "JOB-13-33249",
+      "job_title": "Assistant Manager - Technology Risk Advisory & Cybersecurity (TRACS)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33248,
+      "job_listing_id": "JOB-23-33248",
+      "job_title": "Assistant Manager - AI Advisory & Engineering (AAE)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33247,
+      "job_listing_id": "JOB-49-33247",
+      "job_title": "Consultant - Technology Risk Advisory & Cybersecurity (TRACS)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33245,
+      "job_listing_id": "JOB-79-33245",
+      "job_title": "Consultant - AI Advisory & Engineering (AAE)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33244,
+      "job_listing_id": "JOB-70-33244",
+      "job_title": "Consultant – IT Risk Advisory",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33243,
+      "job_listing_id": "JOB-63-33243",
+      "job_title": "Assistant Manager – IT Risk Advisory",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33241,
+      "job_listing_id": "JOB-37-33241",
+      "job_title": "Social Media, SEO, AEO & Video Creator",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6073,
+      "promoted": 0,
+      "company": {
+        "id": 6073,
+        "company": "Akira Software Solutions (P) Ltd",
+        "logo": "/storage/company/1436786138291_akiralogo.png"
+      }
+    },
+    {
+      "id": 33232,
+      "job_listing_id": "JOB-54-33232",
+      "job_title": "JR DevOps Engineer | 2025/2026 Freshers",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33230,
+      "job_listing_id": "JOB-99-33230",
+      "job_title": "Technical Architect -Dotnet",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33229,
+      "job_listing_id": "JOB-11-33229",
+      "job_title": "Technical Architect -Java",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33228,
+      "job_listing_id": "JOB-94-33228",
+      "job_title": "Sr. Business Analyst - Insurance Domain",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33227,
+      "job_listing_id": "JOB-26-33227",
+      "job_title": "Project Manager -IT",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33226,
+      "job_listing_id": "JOB-41-33226",
+      "job_title": "Learning and Development Specialist -IT",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33225,
+      "job_listing_id": "JOB-37-33225",
+      "job_title": "Database Administrator (Multi-Platform)",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33224,
+      "job_listing_id": "JOB-87-33224",
+      "job_title": "Sr. Software Engineer -Dotnet",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33216,
+      "job_listing_id": "JOB-47-33216",
+      "job_title": "Senior Full Stack Developer – AI-Assisted Development & Deployment",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33201,
+      "job_listing_id": "JOB-41-33201",
+      "job_title": "Finance Executive",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5757,
+      "promoted": 0,
+      "company": {
+        "id": 5757,
+        "company": "DeviceDriven (India) Pvt. Ltd",
+        "logo": "/storage/company/1436965935023_DeviceDriven.jpg"
+      }
+    },
+    {
+      "id": 33192,
+      "job_listing_id": "JOB-79-33192",
+      "job_title": "MDM -Syndigo Developer",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5613,
+      "promoted": 0,
+      "company": {
+        "id": 5613,
+        "company": "Acrocede Technologies (P) Ltd",
+        "logo": "/storage/company/15452005035531116146_Acrocede.png"
+      }
+    },
+    {
+      "id": 33187,
+      "job_listing_id": "JOB-35-33187",
+      "job_title": "Business Development Manager",
+      "posted_date": "2026-09-26",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6611,
+      "promoted": 0,
+      "company": {
+        "id": 6611,
+        "company": "ZenturioTech Pvt Ltd",
+        "logo": "/storage/images/3153.jpg"
+      }
+    },
+    {
+      "id": 33182,
+      "job_listing_id": "JOB-97-33182",
+      "job_title": "Managed Identity Services Engineer I",
+      "posted_date": "2026-09-25",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-02",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5618,
+      "promoted": 0,
+      "company": {
+        "id": 5618,
+        "company": "FISCHER SYSTEMS India (P) Ltd",
+        "logo": "/storage/company/1437027441014_fischerlogo.jpg"
+      }
+    },
+    {
+      "id": 33180,
+      "job_listing_id": "JOB-84-33180",
+      "job_title": "Associate",
+      "posted_date": "2026-09-25",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5828,
+      "promoted": 0,
+      "company": {
+        "id": 5828,
+        "company": "ESC UTILITY SERVICES (P) Ltd",
+        "logo": "/storage/images/3246.jpg"
+      }
+    },
+    {
+      "id": 33150,
+      "job_listing_id": "JOB-85-33150",
+      "job_title": "Frontend Developer (Vue 3 & TypeScript)",
+      "posted_date": "2026-09-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6240,
+      "promoted": 0,
+      "company": {
+        "id": 6240,
+        "company": "Xminds Infotech (P) Ltd",
+        "logo": "/storage/company/1440407750184_xminds.png"
+      }
+    },
+    {
+      "id": 33149,
+      "job_listing_id": "JOB-63-33149",
+      "job_title": "“Freelance Technology Consultants” - Online / Offline on Weekdays & Week Ends",
+      "posted_date": "2026-09-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5632,
+      "promoted": 0,
+      "company": {
+        "id": 5632,
+        "company": "Faith InfoTech India (P) Ltd",
+        "logo": "/storage/company/1437632530744_Faith Infotech.jpg"
+      }
+    },
+    {
+      "id": 33119,
+      "job_listing_id": "JOB-71-33119",
+      "job_title": "Assistant Manager –Procurement & Supply Chain",
+      "posted_date": "2026-09-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33113,
+      "job_listing_id": "JOB-28-33113",
+      "job_title": "Senior Systems Engineer - Broadband",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6525,
+      "promoted": 0,
+      "company": {
+        "id": 6525,
+        "company": "RM Education Solutions India (P) Ltd",
+        "logo": "/storage/images/2732.jpg"
+      }
+    },
+    {
+      "id": 33112,
+      "job_listing_id": "JOB-71-33112",
+      "job_title": "Junior Dotnet Developer",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6525,
+      "promoted": 0,
+      "company": {
+        "id": 6525,
+        "company": "RM Education Solutions India (P) Ltd",
+        "logo": "/storage/images/2732.jpg"
+      }
+    },
+    {
+      "id": 33097,
+      "job_listing_id": "JOB-16-33097",
+      "job_title": "Technical Sales Specialist | 0-3 YEARS EXP",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33086,
+      "job_listing_id": "JOB-97-33086",
+      "job_title": "Technical Recruiter – International Hiring",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    },
+    {
+      "id": 33063,
+      "job_listing_id": "JOB-77-33063",
+      "job_title": "Graphic Designer Trainees",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5779,
+      "promoted": 0,
+      "company": {
+        "id": 5779,
+        "company": "Edwiza Solutions (P) Ltd",
+        "logo": "/storage/company/16131083164095716612_Edwiza_.jpg"
+      }
+    },
+    {
+      "id": 33048,
+      "job_listing_id": "JOB-47-33048",
+      "job_title": "Implementation Manager / Technical Project Manager",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33047,
+      "job_listing_id": "JOB-79-33047",
+      "job_title": "AI Sales Specialist (0-3 Yrs Exp)",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33046,
+      "job_listing_id": "JOB-27-33046",
+      "job_title": "TECHNICAL SALES SPECIALIST- AI",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33043,
+      "job_listing_id": "JOB-11-33043",
+      "job_title": "Senior Software Engineer – AI Development, Quality & Delivery|| REMOTE  (Exp-6+ Yrs)",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33042,
+      "job_listing_id": "JOB-32-33042",
+      "job_title": "Strategic Implementation Associate || FRESHERS",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33041,
+      "job_listing_id": "JOB-55-33041",
+      "job_title": "Strategic Implementation Associate || Recent Passouts",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33040,
+      "job_listing_id": "JOB-49-33040",
+      "job_title": "GM Reporting to CEO || Recent Passouts",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33039,
+      "job_listing_id": "JOB-64-33039",
+      "job_title": "General Manager reporting to CEO || FRESHERS",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33036,
+      "job_listing_id": "JOB-28-33036",
+      "job_title": "Business Development Representative (BDR) – AI Products",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    },
+    {
+      "id": 33029,
+      "job_listing_id": "JOB-16-33029",
+      "job_title": "AI Engineer (Generative AI / RAG)",
+      "posted_date": "2026-09-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6240,
+      "promoted": 0,
+      "company": {
+        "id": 6240,
+        "company": "Xminds Infotech (P) Ltd",
+        "logo": "/storage/company/1440407750184_xminds.png"
+      }
+    },
+    {
+      "id": 33028,
+      "job_listing_id": "JOB-99-33028",
+      "job_title": "Capital & Structuring Manager (Qualified)",
+      "posted_date": "2026-09-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6112,
+      "promoted": 0,
+      "company": {
+        "id": 6112,
+        "company": "Yarab Technologies (P) Ltd",
+        "logo": "/storage/images/592.png"
+      }
+    },
+    {
+      "id": 33023,
+      "job_listing_id": "JOB-28-33023",
+      "job_title": "Hardware Asset Management Analyst",
+      "posted_date": "2026-09-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6060,
+      "promoted": 0,
+      "company": {
+        "id": 6060,
+        "company": "Guidehouse India (P) Ltd",
+        "logo": "/storage/company/16052419155425726992_gdh_logo_INTERIM_rgb.jpg"
+      }
+    },
+    {
+      "id": 33004,
+      "job_listing_id": "JOB-34-33004",
+      "job_title": "DevOps Engineer",
+      "posted_date": "2026-09-18",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6009,
+      "promoted": 0,
+      "company": {
+        "id": 6009,
+        "company": "Ospyn Technologies Ltd",
+        "logo": "/storage/images/496.png"
+      }
+    },
+    {
+      "id": 32970,
+      "job_listing_id": "JOB-45-32970",
+      "job_title": "TELECALLER",
+      "posted_date": "2026-09-18",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-02",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 32968,
+      "job_listing_id": "JOB-61-32968",
+      "job_title": "MBA Intern – Business Development, Social Media & Corporate Communications",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6311,
+      "promoted": 0,
+      "company": {
+        "id": 6311,
+        "company": "Tricta Technologies (P) Ltd",
+        "logo": "/storage/images/1692.jpg"
+      }
+    },
+    {
+      "id": 32963,
+      "job_listing_id": "JOB-90-32963",
+      "job_title": "Sr. Software Engineer-Java",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32962,
+      "job_listing_id": "JOB-12-32962",
+      "job_title": "Software Engineer -Java",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32961,
+      "job_listing_id": "JOB-35-32961",
+      "job_title": "Data Scientist -Fintech",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32960,
+      "job_listing_id": "JOB-33-32960",
+      "job_title": "Manager – Analytics, AI & Data Engineering",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32959,
+      "job_listing_id": "JOB-95-32959",
+      "job_title": "Data Analyst – FinTech",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32949,
+      "job_listing_id": "JOB-39-32949",
+      "job_title": "Lead AI Engineer",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5746,
+      "promoted": 0,
+      "company": {
+        "id": 5746,
+        "company": "Experion Technologies (I) (P) Ltd",
+        "logo": "/storage/company/16516385797579520183_Experion_new.png"
+      }
+    },
+    {
+      "id": 32886,
+      "job_listing_id": "JOB-93-32886",
+      "job_title": "Solution Analyst/ Senior Solution Analyst",
+      "posted_date": "2026-09-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 32883,
+      "job_listing_id": "JOB-21-32883",
+      "job_title": "Business Development Executive – Field Sales",
+      "posted_date": "2026-09-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5825,
+      "promoted": 0,
+      "company": {
+        "id": 5825,
+        "company": "SCALGO TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/504.png"
+      }
+    },
+    {
+      "id": 32874,
+      "job_listing_id": "JOB-67-32874",
+      "job_title": "Presales Analyst",
+      "posted_date": "2026-09-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 32868,
+      "job_listing_id": "JOB-69-32868",
+      "job_title": "Junior DevOps Engineer | Freshers & Upto 2 yrs exp",
+      "posted_date": "2026-09-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 32857,
+      "job_listing_id": "JOB-62-32857",
+      "job_title": "Software Engineer – AI- Development, Quality & Delivery : Exp-6+ Yrs || REMOTE",
+      "posted_date": "2026-09-11",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    }
+  ]
+}

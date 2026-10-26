@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-10-26T05:23:27.670104+05:30",
+  "technopark_source_records": 317,
+  "infopark_source_records": 414,
+  "combined_source_records": 731,
+  "reported_731_vs_736_resolution": "Current source JSON files contain 317 Technopark plus 414 Infopark records, totalling 731. No five-record discrepancy is present in the current source files.",
+  "potential_cross_source_duplicates": [],
+  "portal_reports": [
+    {
+      "portal": "Technopark",
+      "generated_at": "2026-10-26T05:20:56.129515+05:30",
+      "source_records": 317,
+      "unique_source_records": 317,
+      "intra_portal_duplicates": 0,
+      "category_counts": {
+        "Strong Match": 8,
+        "Potential Match": 124,
+        "Related Developer Role": 4,
+        "Manual Review": 2,
+        "Expired Relevant Role": 0,
+        "Not Relevant": 179
+      },
+      "candidate_records_written": 138,
+      "description_status_counts": {
+        "FULL_DESCRIPTION_RETRIEVED": 315,
+        "PARTIAL_DESCRIPTION_RETRIEVED": 2
+      },
+      "eligibility_manual_verification": 130,
+      "output_directory": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\matched_jobs\\technopark"
+    },
+    {
+      "portal": "Infopark",
+      "generated_at": "2026-10-26T05:23:27.628090+05:30",
+      "source_records": 414,
+      "unique_source_records": 414,
+      "intra_portal_duplicates": 0,
+      "category_counts": {
+        "Strong Match": 11,
+        "Potential Match": 161,
+        "Related Developer Role": 4,
+        "Manual Review": 1,
+        "Expired Relevant Role": 2,
+        "Not Relevant": 235
+      },
+      "candidate_records_written": 179,
+      "description_status_counts": {
+        "FULL_DESCRIPTION_RETRIEVED": 407,
+        "PAGE_NOT_FOUND": 2,
+        "PARTIAL_DESCRIPTION_RETRIEVED": 5
+      },
+      "eligibility_manual_verification": 168,
+      "output_directory": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\matched_jobs\\infopark"
+    }
+  ]
+}

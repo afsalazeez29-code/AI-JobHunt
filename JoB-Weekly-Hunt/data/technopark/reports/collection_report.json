@@ -1,0 +1,386 @@
+{
+  "collection_started_at": "2026-10-25T23:05:25.201819+00:00",
+  "collection_completed_at": "2026-10-25T23:05:40.096509+00:00",
+  "official_api_endpoint": "https://technopark.in/api/paginated-jobs",
+  "collection_status": "COMPLETE",
+  "status_reasons_and_warnings": [],
+  "pages_discovered": 16,
+  "pages_successfully_fetched": 16,
+  "pages_failed": 0,
+  "page_requests": [
+    {
+      "page_number": 1,
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:26.260297+00:00"
+    },
+    {
+      "page_number": 2,
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:27.062735+00:00"
+    },
+    {
+      "page_number": 3,
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:27.690576+00:00"
+    },
+    {
+      "page_number": 4,
+      "url": "https://technopark.in/api/paginated-jobs?page=4",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:28.341358+00:00"
+    },
+    {
+      "page_number": 5,
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:29.142806+00:00"
+    },
+    {
+      "page_number": 6,
+      "url": "https://technopark.in/api/paginated-jobs?page=6",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:29.941932+00:00"
+    },
+    {
+      "page_number": 7,
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:30.651246+00:00"
+    },
+    {
+      "page_number": 8,
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:31.285501+00:00"
+    },
+    {
+      "page_number": 9,
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:31.938781+00:00"
+    },
+    {
+      "page_number": 10,
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:32.632422+00:00"
+    },
+    {
+      "page_number": 11,
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:33.302536+00:00"
+    },
+    {
+      "page_number": 12,
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:33.961102+00:00"
+    },
+    {
+      "page_number": 13,
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:34.596348+00:00"
+    },
+    {
+      "page_number": 14,
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:35.247057+00:00"
+    },
+    {
+      "page_number": 15,
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-10-25T23:05:35.911330+00:00"
+    },
+    {
+      "page_number": 16,
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 17,
+      "received_at": "2026-10-25T23:05:36.662720+00:00"
+    }
+  ],
+  "failed_pages": [],
+  "raw_records_received": 317,
+  "unique_records_exported": 317,
+  "duplicate_record_count": 0,
+  "duplicate_conflicting_identifiers": [],
+  "records_missing_stable_identifiers": [],
+  "deduplication_rule": "First source occurrence wins by numeric id; job_listing_id is used only when id is missing. ID-less records are retained.",
+  "reported_api_total": 317,
+  "reported_page_size": 20,
+  "reported_last_page": 16,
+  "pagination_metadata_observed": [
+    {
+      "requested_page": 1,
+      "current_page": 1,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=2",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 2,
+      "current_page": 2,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=3",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 3,
+      "current_page": 3,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=4",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 4,
+      "current_page": 4,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=5",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 5,
+      "current_page": 5,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=6",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 6,
+      "current_page": 6,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=7",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 7,
+      "current_page": 7,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=8",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 8,
+      "current_page": 8,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=9",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 9,
+      "current_page": 9,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=10",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 10,
+      "current_page": 10,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=11",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 11,
+      "current_page": 11,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=12",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 12,
+      "current_page": 12,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=13",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 13,
+      "current_page": 13,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=14",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 14,
+      "current_page": 14,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=15",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 15,
+      "current_page": 15,
+      "last_page": 16,
+      "next_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+      "total": 317,
+      "per_page": 20
+    },
+    {
+      "requested_page": 16,
+      "current_page": 16,
+      "last_page": 16,
+      "next_page_url": null,
+      "total": 317,
+      "per_page": 20
+    }
+  ],
+  "raw_archive_policy": {
+    "policy": "Before an archived run, only raw/page_*.json files from earlier collector runs are moved to raw/previous_runs/<run timestamp>; unrelated raw files are not deleted or altered.",
+    "enabled": true,
+    "stale_files_moved": [
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_01.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_02.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_03.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_04.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_05.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_06.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_07.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_08.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_09.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_10.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_11.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_12.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_13.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_14.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_15.json",
+      "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw\\previous_runs\\20261025T230525Z\\page_16.json"
+    ]
+  },
+  "job_details_url_validation": {
+    "pattern": "https://technopark.in/job-details/<numeric job id>",
+    "validated": true,
+    "samples": [
+      {
+        "job_id": 33810,
+        "url": "https://technopark.in/job-details/33810",
+        "status_code": 200,
+        "matches_source_record": true
+      },
+      {
+        "job_id": 33809,
+        "url": "https://technopark.in/job-details/33809",
+        "status_code": 200,
+        "matches_source_record": true
+      }
+    ],
+    "reason": "Two representative official detail pages returned the matching source job ID and title."
+  },
+  "output_files": {
+    "json": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\technopark_all_jobs.json",
+    "csv": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\technopark_all_jobs.csv",
+    "excel": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\technopark_jobs_review.xlsx",
+    "raw_archive_directory": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\raw",
+    "report": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\reports\\collection_report.json"
+  },
+  "csv_headers": [
+    "job_id",
+    "job_listing_id",
+    "job_title",
+    "posted_date",
+    "closing_date",
+    "walk_in",
+    "is_walk_in",
+    "walk_in_start_date",
+    "walk_in_start_time",
+    "walk_in_end_time",
+    "company_id",
+    "company_name",
+    "company_logo_path",
+    "promoted",
+    "job_details_url"
+  ],
+  "validation": {
+    "passed": true,
+    "checks": [
+      "JSON reopened and job count matches export.",
+      "CSV reopened with expected headers and row count.",
+      "Excel workbook reopened with rows, filters, frozen header, validation, and unique nonblank IDs."
+    ],
+    "errors": []
+  }
+}

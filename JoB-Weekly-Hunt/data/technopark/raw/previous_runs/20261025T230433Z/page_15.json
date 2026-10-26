@@ -1,0 +1,452 @@
+{
+  "current_page": 15,
+  "data": [
+    {
+      "id": 33187,
+      "job_listing_id": "JOB-35-33187",
+      "job_title": "Business Development Manager",
+      "posted_date": "2026-09-26",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6611,
+      "promoted": 0,
+      "company": {
+        "id": 6611,
+        "company": "ZenturioTech Pvt Ltd",
+        "logo": "/storage/images/3153.jpg"
+      }
+    },
+    {
+      "id": 33182,
+      "job_listing_id": "JOB-97-33182",
+      "job_title": "Managed Identity Services Engineer I",
+      "posted_date": "2026-09-25",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-02",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5618,
+      "promoted": 0,
+      "company": {
+        "id": 5618,
+        "company": "FISCHER SYSTEMS India (P) Ltd",
+        "logo": "/storage/company/1437027441014_fischerlogo.jpg"
+      }
+    },
+    {
+      "id": 33180,
+      "job_listing_id": "JOB-84-33180",
+      "job_title": "Associate",
+      "posted_date": "2026-09-25",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5828,
+      "promoted": 0,
+      "company": {
+        "id": 5828,
+        "company": "ESC UTILITY SERVICES (P) Ltd",
+        "logo": "/storage/images/3246.jpg"
+      }
+    },
+    {
+      "id": 33150,
+      "job_listing_id": "JOB-85-33150",
+      "job_title": "Frontend Developer (Vue 3 & TypeScript)",
+      "posted_date": "2026-09-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6240,
+      "promoted": 0,
+      "company": {
+        "id": 6240,
+        "company": "Xminds Infotech (P) Ltd",
+        "logo": "/storage/company/1440407750184_xminds.png"
+      }
+    },
+    {
+      "id": 33149,
+      "job_listing_id": "JOB-63-33149",
+      "job_title": "“Freelance Technology Consultants” - Online / Offline on Weekdays & Week Ends",
+      "posted_date": "2026-09-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5632,
+      "promoted": 0,
+      "company": {
+        "id": 5632,
+        "company": "Faith InfoTech India (P) Ltd",
+        "logo": "/storage/company/1437632530744_Faith Infotech.jpg"
+      }
+    },
+    {
+      "id": 33119,
+      "job_listing_id": "JOB-71-33119",
+      "job_title": "Assistant Manager –Procurement & Supply Chain",
+      "posted_date": "2026-09-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33113,
+      "job_listing_id": "JOB-28-33113",
+      "job_title": "Senior Systems Engineer - Broadband",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6525,
+      "promoted": 0,
+      "company": {
+        "id": 6525,
+        "company": "RM Education Solutions India (P) Ltd",
+        "logo": "/storage/images/2732.jpg"
+      }
+    },
+    {
+      "id": 33112,
+      "job_listing_id": "JOB-71-33112",
+      "job_title": "Junior Dotnet Developer",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6525,
+      "promoted": 0,
+      "company": {
+        "id": 6525,
+        "company": "RM Education Solutions India (P) Ltd",
+        "logo": "/storage/images/2732.jpg"
+      }
+    },
+    {
+      "id": 33097,
+      "job_listing_id": "JOB-16-33097",
+      "job_title": "Technical Sales Specialist | 0-3 YEARS EXP",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33086,
+      "job_listing_id": "JOB-97-33086",
+      "job_title": "Technical Recruiter – International Hiring",
+      "posted_date": "2026-09-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    },
+    {
+      "id": 33063,
+      "job_listing_id": "JOB-77-33063",
+      "job_title": "Graphic Designer Trainees",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5779,
+      "promoted": 0,
+      "company": {
+        "id": 5779,
+        "company": "Edwiza Solutions (P) Ltd",
+        "logo": "/storage/company/16131083164095716612_Edwiza_.jpg"
+      }
+    },
+    {
+      "id": 33048,
+      "job_listing_id": "JOB-47-33048",
+      "job_title": "Implementation Manager / Technical Project Manager",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 33047,
+      "job_listing_id": "JOB-79-33047",
+      "job_title": "AI Sales Specialist (0-3 Yrs Exp)",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33046,
+      "job_listing_id": "JOB-27-33046",
+      "job_title": "TECHNICAL SALES SPECIALIST- AI",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33043,
+      "job_listing_id": "JOB-11-33043",
+      "job_title": "Senior Software Engineer – AI Development, Quality & Delivery|| REMOTE  (Exp-6+ Yrs)",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33042,
+      "job_listing_id": "JOB-32-33042",
+      "job_title": "Strategic Implementation Associate || FRESHERS",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33041,
+      "job_listing_id": "JOB-55-33041",
+      "job_title": "Strategic Implementation Associate || Recent Passouts",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33040,
+      "job_listing_id": "JOB-49-33040",
+      "job_title": "GM Reporting to CEO || Recent Passouts",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33039,
+      "job_listing_id": "JOB-64-33039",
+      "job_title": "General Manager reporting to CEO || FRESHERS",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33036,
+      "job_listing_id": "JOB-28-33036",
+      "job_title": "Business Development Representative (BDR) – AI Products",
+      "posted_date": "2026-09-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 281,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "12",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "13",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=14",
+  "to": 300,
+  "total": 317
+}

@@ -1,0 +1,1761 @@
+{
+  "updated_at": "2026-10-26T05:23:26.210743+05:30",
+  "reviews": {
+    "Technopark:33777": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33741": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33739": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33738": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33628": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33566": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33565": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33344": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33224": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33150": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:32963": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:32962": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:32857": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Infopark:26350": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26308": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26124": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26102": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26081": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26031": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26003": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25864": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25582": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25435": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25315": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25250": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25037": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24845": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24381": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24377": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23667": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22765": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22473": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21736": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21131": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:19772": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18902": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Technopark:33774": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33723": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33718": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33578": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33554": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33553": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33547": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33515": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33514": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33343": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33216": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Technopark:33043": {
+      "review_status": "Not Reviewed",
+      "notes": ""
+    },
+    "Infopark:25953": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25952": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25863": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25727": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25486": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20929": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20832": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:19377": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26372": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26371": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26370": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26369": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26368": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26367": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26366": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26365": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26364": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26363": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26362": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26361": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26360": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26359": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26358": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26349": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26348": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26346": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26343": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26342": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26341": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26340": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26339": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26338": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26337": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26336": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26335": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26334": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26333": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26332": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26331": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26330": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26329": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26328": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26327": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26326": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26325": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26324": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26323": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26322": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26321": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26320": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26312": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26311": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26307": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26306": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26305": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26304": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26303": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26302": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26301": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26300": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26299": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26298": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26297": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26296": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26280": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26279": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26270": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26269": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26268": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26267": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26266": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26265": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26264": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26256": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26245": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26244": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26243": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26242": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26241": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26240": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26239": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26238": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26237": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26236": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26234": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26233": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26232": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26231": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26208": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26198": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26197": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26194": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26193": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26190": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26189": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26188": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26171": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26170": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26169": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26168": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26167": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26166": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26165": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26163": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26162": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26161": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26160": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26159": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26158": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26157": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26141": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26139": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26138": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26137": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26136": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26135": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26134": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26133": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26132": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26131": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26130": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26129": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26128": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26123": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26107": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26104": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26103": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26098": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26097": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26079": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26076": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26074": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26071": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26062": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26045": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26044": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26029": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26028": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26002": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26001": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:26000": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25983": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25982": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25981": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25979": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25975": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25954": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25930": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25928": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25927": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25925": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25924": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25923": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25894": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25874": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25870": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25869": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25867": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25860": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25857": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25856": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25854": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25853": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25852": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25850": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25849": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25833": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25829": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25828": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25823": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25822": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25821": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25801": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25800": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25799": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25796": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25794": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25792": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25791": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25746": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25737": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25726": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25723": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25721": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25702": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25701": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25700": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25699": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25672": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25670": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25639": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25637": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25614": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25613": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25585": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25523": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25513": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25510": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25507": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25498": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25497": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25487": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25470": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25465": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25454": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25436": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25431": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25424": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25421": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25414": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25395": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25379": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25375": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25360": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25359": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25358": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25285": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25276": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25275": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25274": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25273": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25211": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25205": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25187": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25186": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25182": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25181": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25141": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25125": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25124": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25017": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:25006": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24962": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24926": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24925": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24921": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24917": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24916": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24899": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24886": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24868": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24855": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24853": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24834": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24812": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24785": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24758": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24660": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24630": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24629": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24625": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24514": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24507": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24373": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24330": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24249": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24195": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24117": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24038": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24037": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24030": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24027": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:24016": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23900": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23893": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23862": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23817": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23699": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23690": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23684": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23666": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23665": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23660": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23618": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23504": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23435": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23434": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23432": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23411": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23357": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23289": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23266": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23264": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23263": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23258": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23210": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23176": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23175": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:23021": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22663": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22501": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22499": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22416": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22277": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22244": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22178": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22164": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22151": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22111": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22110": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22109": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22102": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:22036": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21993": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21992": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21991": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21990": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21989": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21897": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21865": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21637": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21635": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21621": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21620": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21619": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21539": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21522": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21505": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21497": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21492": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21450": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21404": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21258": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21257": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21255": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:21066": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20982": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20980": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20978": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20970": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20916": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20872": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20870": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20844": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20818": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20718": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20706": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20705": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20398": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20346": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20299": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:20262": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:19949": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:19488": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:19465": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:19084": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18923": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18922": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18916": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18914": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18829": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18622": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18534": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18078": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18009": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:18004": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17997": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17880": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17723": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17679": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17678": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17366": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17248": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17183": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17149": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:17124": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:16884": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:16677": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:16673": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:16576": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:16433": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:16124": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:15924": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:15907": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:15882": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:15876": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:15731": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:15178": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:15133": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:12779": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:12771": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:10728": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:10422": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:10233": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:9425": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:9370": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:9357": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:8752": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:6983": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:6300": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    },
+    "Infopark:5976": {
+      "review_status": "Not Reviewed",
+      "review_notes": ""
+    }
+  }
+}

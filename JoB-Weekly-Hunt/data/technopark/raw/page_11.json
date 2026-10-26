@@ -1,0 +1,452 @@
+{
+  "current_page": 11,
+  "data": [
+    {
+      "id": 33504,
+      "job_listing_id": "JOB-37-33504",
+      "job_title": "Hardware Engineer – IoT & Embedded Systems",
+      "posted_date": "2026-10-10",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5988,
+      "promoted": 0,
+      "company": {
+        "id": 5988,
+        "company": "Spericorn Technology (P) Ltd",
+        "logo": "/storage/company/15984134156508078351_spericon_logo_big.png"
+      }
+    },
+    {
+      "id": 33500,
+      "job_listing_id": "JOB-40-33500",
+      "job_title": "Support & Implementation Engineer – HIS (Fresher)",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5813,
+      "promoted": 0,
+      "company": {
+        "id": 5813,
+        "company": "Kameda Infologics (P) Ltd",
+        "logo": "/storage/company/1439028350017_LOGO.JPG"
+      }
+    },
+    {
+      "id": 33490,
+      "job_listing_id": "JOB-51-33490",
+      "job_title": "Principal Engineer",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5843,
+      "promoted": 0,
+      "company": {
+        "id": 5843,
+        "company": "AOT TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/1212.png"
+      }
+    },
+    {
+      "id": 33486,
+      "job_listing_id": "JOB-55-33486",
+      "job_title": "HR/Operations Intern",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6501,
+      "promoted": 0,
+      "company": {
+        "id": 6501,
+        "company": "Life and Opportunity Solutions LLP",
+        "logo": "/storage/images/2635.jpg"
+      }
+    },
+    {
+      "id": 33480,
+      "job_listing_id": "JOB-46-33480",
+      "job_title": "Graphic Designer",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5672,
+      "promoted": 0,
+      "company": {
+        "id": 5672,
+        "company": "Crayo Tech Business Solutions (P) Ltd",
+        "logo": "/storage/company/16315961671431582664_Crayotech.JPG"
+      }
+    },
+    {
+      "id": 33479,
+      "job_listing_id": "JOB-16-33479",
+      "job_title": "Digital Marketing Specialist",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5672,
+      "promoted": 0,
+      "company": {
+        "id": 5672,
+        "company": "Crayo Tech Business Solutions (P) Ltd",
+        "logo": "/storage/company/16315961671431582664_Crayotech.JPG"
+      }
+    },
+    {
+      "id": 33471,
+      "job_listing_id": "JOB-24-33471",
+      "job_title": "Graphic Designer",
+      "posted_date": "2026-10-09",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5643,
+      "promoted": 0,
+      "company": {
+        "id": 5643,
+        "company": "Acharya Panchakarma & Traditional Kerala Ayurveda (P) Ltd",
+        "logo": "/storage/images/476.jpg"
+      }
+    },
+    {
+      "id": 33470,
+      "job_listing_id": "JOB-31-33470",
+      "job_title": "Business Development Executive Intern – Part-Time (Remote)",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6744,
+      "promoted": 0,
+      "company": {
+        "id": 6744,
+        "company": "AppSaas AI Technologies Pvt.Ltd.",
+        "logo": "/storage/images/3747.png"
+      }
+    },
+    {
+      "id": 33469,
+      "job_listing_id": "JOB-86-33469",
+      "job_title": "Recruiting Online Teachers/SMEs for Maths, Physics, Chemistry, Biology, English, Hindi, Malayalam, Sanskrit, Arabic, French, German, Social Science, History, Geography, and Accountancy",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33465,
+      "job_listing_id": "JOB-84-33465",
+      "job_title": "Technical Sales Specialist (0-3 Yrs Exp)",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33463,
+      "job_listing_id": "JOB-79-33463",
+      "job_title": "Test Engineer",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6341,
+      "promoted": 0,
+      "company": {
+        "id": 6341,
+        "company": "Innovation Incubator Advisory (P) Ltd",
+        "logo": "/storage/images/2048.jpg"
+      }
+    },
+    {
+      "id": 33460,
+      "job_listing_id": "JOB-22-33460",
+      "job_title": "Network Security ( CCNP / CCIE )",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5882,
+      "promoted": 0,
+      "company": {
+        "id": 5882,
+        "company": "Kvaliteta Systems and Solutions (P) Ltd",
+        "logo": "/storage/company/1436786105032_Kvaliteta Logo.jpg"
+      }
+    },
+    {
+      "id": 33454,
+      "job_listing_id": "JOB-90-33454",
+      "job_title": "Tele Sales / Inside Sales Executive",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5820,
+      "promoted": 0,
+      "company": {
+        "id": 5820,
+        "company": "Xpetize Technology Solutions (P) Ltd",
+        "logo": "/storage/company/1581679187644283741_xpetize-xpetics-iot.png"
+      }
+    },
+    {
+      "id": 33452,
+      "job_listing_id": "JOB-75-33452",
+      "job_title": "Techno Commercial Coordinator",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6584,
+      "promoted": 0,
+      "company": {
+        "id": 6584,
+        "company": "Timenet Solutions (P) Ltd.",
+        "logo": "/storage/images/2984.jpg"
+      }
+    },
+    {
+      "id": 33448,
+      "job_listing_id": "JOB-76-33448",
+      "job_title": "Sr. Software QA Engineer ( Location: Cochin)",
+      "posted_date": "2026-10-08",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6244,
+      "promoted": 0,
+      "company": {
+        "id": 6244,
+        "company": "Zoondia Software (P) Ltd",
+        "logo": "/storage/company/1436866236462_zoondia-icon.png"
+      }
+    },
+    {
+      "id": 33446,
+      "job_listing_id": "JOB-51-33446",
+      "job_title": "Sales Enhancement Executive",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6302,
+      "promoted": 0,
+      "company": {
+        "id": 6302,
+        "company": "Srishti Innovative Educational Services (P) Ltd",
+        "logo": "/storage/images/1476.png"
+      }
+    },
+    {
+      "id": 33445,
+      "job_listing_id": "JOB-46-33445",
+      "job_title": "Service Analyst - Application Support Role",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33442,
+      "job_listing_id": "JOB-71-33442",
+      "job_title": "Sales Trainee",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5699,
+      "promoted": 0,
+      "company": {
+        "id": 5699,
+        "company": "Vismaya InfoTech Solutions (P) Ltd",
+        "logo": "/storage/company/167696858838567153_Vismaya_new.png"
+      }
+    },
+    {
+      "id": 33441,
+      "job_listing_id": "JOB-16-33441",
+      "job_title": "Lead Developer & Architect – IP Camera",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5754,
+      "promoted": 0,
+      "company": {
+        "id": 5754,
+        "company": "THINKPALM TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/14713274433574644350_21186_THINK-PALM-LOGO_RGB.JPG"
+      }
+    },
+    {
+      "id": 33439,
+      "job_listing_id": "JOB-30-33439",
+      "job_title": "Electronics Testing Technician",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-21",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6167,
+      "promoted": 0,
+      "company": {
+        "id": 6167,
+        "company": "VINVISH TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1439200411370_logo v.jpeg"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 201,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "12",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "13",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=12",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=10",
+  "to": 220,
+  "total": 317
+}

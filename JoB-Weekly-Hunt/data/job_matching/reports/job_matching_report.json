@@ -1,0 +1,118 @@
+{
+  "started_at": "2026-10-26T04:54:26.712970+05:30",
+  "completed_at": "2026-10-26T04:54:27.274170+05:30",
+  "execution_status": "COMPLETE",
+  "candidate_profile_version": "Afsal A Azeez project evidence v1",
+  "matching_configuration": {
+    "weights": {
+      "role": 25,
+      "technical": 30,
+      "experience": 15,
+      "project": 15,
+      "education": 10,
+      "practical": 5
+    },
+    "strong_threshold": 75,
+    "related_threshold": 55,
+    "closing_soon_days": 3,
+    "reference_date": "2026-10-26"
+  },
+  "source_files": {
+    "Technopark": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\technopark\\technopark_all_jobs.json",
+    "Infopark": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\infopark\\infopark_all_jobs.json"
+  },
+  "records_loaded": {
+    "Technopark": 317,
+    "Infopark": 414
+  },
+  "total_source_records_processed": 731,
+  "unique_source_records_processed": 731,
+  "records_missing_stable_identifiers": 0,
+  "potential_cross_source_duplicates": [],
+  "strong_match_count": 0,
+  "related_match_count": 0,
+  "manual_review_count": 56,
+  "expired_matched_job_count": 1,
+  "low_match_excluded_count": 675,
+  "eligibility_uncertainty_count": 56,
+  "records_without_descriptions": 731,
+  "title_based_assessments": 56,
+  "counts": {
+    "by_source": {
+      "Technopark": 25,
+      "Infopark": 31
+    },
+    "by_classification": {
+      "Manual Review": 56
+    },
+    "by_role_family": {
+      "Primary — Frontend / Full-Stack": 34,
+      "Related — Software Development": 19,
+      "Conditional — Transferable Development": 3
+    },
+    "by_eligibility": {
+      "Not Specified": 56
+    },
+    "by_deadline": {
+      "Open": 48,
+      "Closing Soon": 7,
+      "Expired": 1
+    },
+    "by_coverage": {
+      "20%": 56
+    },
+    "by_method": {
+      "Title-Based": 56
+    }
+  },
+  "all_processed_counts": {
+    "by_source": {
+      "Technopark": 317,
+      "Infopark": 414
+    },
+    "by_classification": {
+      "Low Match / Excluded": 675,
+      "Manual Review": 56
+    },
+    "by_role_family": {
+      "Excluded — Outside target role taxonomy": 477,
+      "Excluded — Unrelated": 198,
+      "Primary — Frontend / Full-Stack": 34,
+      "Related — Software Development": 19,
+      "Conditional — Transferable Development": 3
+    },
+    "by_eligibility": {
+      "Not Specified": 731
+    },
+    "by_deadline": {
+      "Closing Soon": 79,
+      "Open": 642,
+      "Expired": 10
+    },
+    "by_coverage": {
+      "0%": 675,
+      "20%": 56
+    },
+    "by_method": {
+      "Title-Based": 731
+    }
+  },
+  "warnings": [],
+  "errors": [],
+  "output_files": {
+    "excel": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\job_matching\\kerala_jobs_resume_matched.xlsx",
+    "csv": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\job_matching\\kerala_jobs_resume_matched.csv",
+    "json": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\job_matching\\kerala_jobs_resume_matched.json",
+    "review_state": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\job_matching\\review_state.json",
+    "report": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\job_matching\\reports\\job_matching_report.json"
+  },
+  "validation": {
+    "passed": true,
+    "checks": [
+      "JSON reopened with expected shortlist count.",
+      "CSV reopened with expected shortlist count.",
+      "Workbook reopened with required sheets, rows, filters, freeze pane, and review validation."
+    ],
+    "errors": []
+  }
+}

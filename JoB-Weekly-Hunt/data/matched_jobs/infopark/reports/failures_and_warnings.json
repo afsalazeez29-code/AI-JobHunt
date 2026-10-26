@@ -1,0 +1,16 @@
+{
+  "failed_or_unavailable_descriptions": [
+    {
+      "source_record_id": "26329",
+      "url": "https://infopark.in/company-jobs/details/410/26329",
+      "status": "PAGE_NOT_FOUND",
+      "reason": "HTTP 404"
+    },
+    {
+      "source_record_id": "25211",
+      "url": "https://infopark.in/company-jobs/details/435/25211",
+      "status": "PAGE_NOT_FOUND",
+      "reason": "HTTP 404"
+    }
+  ]
+}

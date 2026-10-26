@@ -1,0 +1,398 @@
+{
+  "current_page": 16,
+  "data": [
+    {
+      "id": 33029,
+      "job_listing_id": "JOB-16-33029",
+      "job_title": "AI Engineer (Generative AI / RAG)",
+      "posted_date": "2026-09-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6240,
+      "promoted": 0,
+      "company": {
+        "id": 6240,
+        "company": "Xminds Infotech (P) Ltd",
+        "logo": "/storage/company/1440407750184_xminds.png"
+      }
+    },
+    {
+      "id": 33028,
+      "job_listing_id": "JOB-99-33028",
+      "job_title": "Capital & Structuring Manager (Qualified)",
+      "posted_date": "2026-09-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6112,
+      "promoted": 0,
+      "company": {
+        "id": 6112,
+        "company": "Yarab Technologies (P) Ltd",
+        "logo": "/storage/images/592.png"
+      }
+    },
+    {
+      "id": 33023,
+      "job_listing_id": "JOB-28-33023",
+      "job_title": "Hardware Asset Management Analyst",
+      "posted_date": "2026-09-21",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6060,
+      "promoted": 0,
+      "company": {
+        "id": 6060,
+        "company": "Guidehouse India (P) Ltd",
+        "logo": "/storage/company/16052419155425726992_gdh_logo_INTERIM_rgb.jpg"
+      }
+    },
+    {
+      "id": 33004,
+      "job_listing_id": "JOB-34-33004",
+      "job_title": "DevOps Engineer",
+      "posted_date": "2026-09-18",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6009,
+      "promoted": 0,
+      "company": {
+        "id": 6009,
+        "company": "Ospyn Technologies Ltd",
+        "logo": "/storage/images/496.png"
+      }
+    },
+    {
+      "id": 32970,
+      "job_listing_id": "JOB-45-32970",
+      "job_title": "TELECALLER",
+      "posted_date": "2026-09-18",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-02",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 32968,
+      "job_listing_id": "JOB-61-32968",
+      "job_title": "MBA Intern – Business Development, Social Media & Corporate Communications",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6311,
+      "promoted": 0,
+      "company": {
+        "id": 6311,
+        "company": "Tricta Technologies (P) Ltd",
+        "logo": "/storage/images/1692.jpg"
+      }
+    },
+    {
+      "id": 32963,
+      "job_listing_id": "JOB-90-32963",
+      "job_title": "Sr. Software Engineer-Java",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32962,
+      "job_listing_id": "JOB-12-32962",
+      "job_title": "Software Engineer -Java",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32961,
+      "job_listing_id": "JOB-35-32961",
+      "job_title": "Data Scientist -Fintech",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32960,
+      "job_listing_id": "JOB-33-32960",
+      "job_title": "Manager – Analytics, AI & Data Engineering",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32959,
+      "job_listing_id": "JOB-95-32959",
+      "job_title": "Data Analyst – FinTech",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 32949,
+      "job_listing_id": "JOB-39-32949",
+      "job_title": "Lead AI Engineer",
+      "posted_date": "2026-09-17",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5746,
+      "promoted": 0,
+      "company": {
+        "id": 5746,
+        "company": "Experion Technologies (I) (P) Ltd",
+        "logo": "/storage/company/16516385797579520183_Experion_new.png"
+      }
+    },
+    {
+      "id": 32886,
+      "job_listing_id": "JOB-93-32886",
+      "job_title": "Solution Analyst/ Senior Solution Analyst",
+      "posted_date": "2026-09-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 32883,
+      "job_listing_id": "JOB-21-32883",
+      "job_title": "Business Development Executive – Field Sales",
+      "posted_date": "2026-09-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5825,
+      "promoted": 0,
+      "company": {
+        "id": 5825,
+        "company": "SCALGO TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/504.png"
+      }
+    },
+    {
+      "id": 32874,
+      "job_listing_id": "JOB-67-32874",
+      "job_title": "Presales Analyst",
+      "posted_date": "2026-09-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6277,
+      "promoted": 0,
+      "company": {
+        "id": 6277,
+        "company": "ECS BUSINESS SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/993.jpg"
+      }
+    },
+    {
+      "id": 32868,
+      "job_listing_id": "JOB-69-32868",
+      "job_title": "Junior DevOps Engineer | Freshers & Upto 2 yrs exp",
+      "posted_date": "2026-09-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 32857,
+      "job_listing_id": "JOB-62-32857",
+      "job_title": "Software Engineer – AI- Development, Quality & Delivery : Exp-6+ Yrs || REMOTE",
+      "posted_date": "2026-09-11",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 301,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "12",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "13",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=15",
+  "to": 317,
+  "total": 317
+}

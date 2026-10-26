@@ -1,0 +1,452 @@
+{
+  "current_page": 10,
+  "data": [
+    {
+      "id": 33559,
+      "job_listing_id": "JOB-59-33559",
+      "job_title": "Accounts Executive ( Commerce Graduates with Articleship Experience Can Apply )",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33558,
+      "job_listing_id": "JOB-38-33558",
+      "job_title": "JR DevOps Engineer | 0-2 Yrs",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33556,
+      "job_listing_id": "JOB-30-33556",
+      "job_title": "AI- Sales Specialist (0-3 Yrs Exp)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33555,
+      "job_listing_id": "JOB-66-33555",
+      "job_title": "Technical Sales Engineer (0-3 Yrs Exp)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33554,
+      "job_listing_id": "JOB-58-33554",
+      "job_title": "Senior Full Stack: AI-Assisted Development & Deployment (3 to 6 Yrs)",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33553,
+      "job_listing_id": "JOB-17-33553",
+      "job_title": "Senior Full Stack Developer: AI –Exp : 3-6 Years",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33551,
+      "job_listing_id": "JOB-92-33551",
+      "job_title": "Finance Executive",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6179,
+      "promoted": 0,
+      "company": {
+        "id": 6179,
+        "company": "ShellSquare Softwares (P) Ltd",
+        "logo": "/storage/company/15445250573265324120_Shell.JPG"
+      }
+    },
+    {
+      "id": 33550,
+      "job_listing_id": "JOB-77-33550",
+      "job_title": "Conversational Solutions Architect",
+      "posted_date": "2026-10-13",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6240,
+      "promoted": 0,
+      "company": {
+        "id": 6240,
+        "company": "Xminds Infotech (P) Ltd",
+        "logo": "/storage/company/1440407750184_xminds.png"
+      }
+    },
+    {
+      "id": 33548,
+      "job_listing_id": "JOB-16-33548",
+      "job_title": "Digital Marketing Specialist",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6287,
+      "promoted": 0,
+      "company": {
+        "id": 6287,
+        "company": "Stackmod Innovations (P) Ltd",
+        "logo": "/storage/images/1151.png"
+      }
+    },
+    {
+      "id": 33547,
+      "job_listing_id": "JOB-49-33547",
+      "job_title": "Senior Software Developer - C#",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6179,
+      "promoted": 0,
+      "company": {
+        "id": 6179,
+        "company": "ShellSquare Softwares (P) Ltd",
+        "logo": "/storage/company/15445250573265324120_Shell.JPG"
+      }
+    },
+    {
+      "id": 33546,
+      "job_listing_id": "JOB-34-33546",
+      "job_title": "QA Engineer – 3+ Years | Immediate Joiners | 1-Year Contract",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5787,
+      "promoted": 0,
+      "company": {
+        "id": 5787,
+        "company": "Cloud Nautical Solutions India (P) Ltd",
+        "logo": "/storage/images/482.jpg"
+      }
+    },
+    {
+      "id": 33545,
+      "job_listing_id": "JOB-86-33545",
+      "job_title": "Marketing Lead",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6539,
+      "promoted": 0,
+      "company": {
+        "id": 6539,
+        "company": "Eartheye Space Private Limited",
+        "logo": "/storage/images/2792.jpg"
+      }
+    },
+    {
+      "id": 33537,
+      "job_listing_id": "JOB-90-33537",
+      "job_title": "OFS Data Integration & Reporting Specialist",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6244,
+      "promoted": 0,
+      "company": {
+        "id": 6244,
+        "company": "Zoondia Software (P) Ltd",
+        "logo": "/storage/company/1436866236462_zoondia-icon.png"
+      }
+    },
+    {
+      "id": 33536,
+      "job_listing_id": "JOB-10-33536",
+      "job_title": "Mid‑Level Power Platform Consultant",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-17",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6239,
+      "promoted": 0,
+      "company": {
+        "id": 6239,
+        "company": "Gruppozenit India (P) Ltd",
+        "logo": "/storage/company/1524209867449_gruppo_zenit.png"
+      }
+    },
+    {
+      "id": 33535,
+      "job_listing_id": "JOB-99-33535",
+      "job_title": "Managed Kubernetes Administrator / Kubernetes Platform Engineer",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-17",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6239,
+      "promoted": 0,
+      "company": {
+        "id": 6239,
+        "company": "Gruppozenit India (P) Ltd",
+        "logo": "/storage/company/1524209867449_gruppo_zenit.png"
+      }
+    },
+    {
+      "id": 33515,
+      "job_listing_id": "JOB-10-33515",
+      "job_title": "Senior Software Engineer – AI-Augmented Software Development-REMOTE:6+ Yrs",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33514,
+      "job_listing_id": "JOB-98-33514",
+      "job_title": "Senior Software Engineer – AI-Augmented Software Development(6+ Yrs)",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33513,
+      "job_listing_id": "JOB-86-33513",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-12",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6598,
+      "promoted": 0,
+      "company": {
+        "id": 6598,
+        "company": "Atticube Technology Solutions Pvt Ltd",
+        "logo": "/storage/images/3145.png"
+      }
+    },
+    {
+      "id": 33512,
+      "job_listing_id": "JOB-40-33512",
+      "job_title": "Oracle Filed Service Specialist (Location: Dubai)",
+      "posted_date": "2026-10-11",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6244,
+      "promoted": 0,
+      "company": {
+        "id": 6244,
+        "company": "Zoondia Software (P) Ltd",
+        "logo": "/storage/company/1436866236462_zoondia-icon.png"
+      }
+    },
+    {
+      "id": 33507,
+      "job_listing_id": "JOB-69-33507",
+      "job_title": "HR Executive",
+      "posted_date": "2026-10-10",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5988,
+      "promoted": 0,
+      "company": {
+        "id": 5988,
+        "company": "Spericorn Technology (P) Ltd",
+        "logo": "/storage/company/15984134156508078351_spericon_logo_big.png"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 181,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "12",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "13",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=11",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=9",
+  "to": 200,
+  "total": 317
+}

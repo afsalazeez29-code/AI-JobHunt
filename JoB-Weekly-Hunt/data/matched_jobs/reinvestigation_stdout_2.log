@@ -1,0 +1,16 @@
+[INFO] Source audit: Technopark=317, Infopark=414, combined=731
+[INFO] Technopark: enriched 50/317
+[INFO] Technopark: enriched 100/317
+[INFO] Technopark: enriched 150/317
+[INFO] Technopark: enriched 200/317
+[INFO] Technopark: enriched 250/317
+[INFO] Technopark: enriched 300/317
+[INFO] Infopark: enriched 50/414
+[INFO] Infopark: enriched 100/414
+[INFO] Infopark: enriched 150/414
+[INFO] Infopark: enriched 200/414
+[INFO] Infopark: enriched 250/414
+[INFO] Infopark: enriched 300/414
+[INFO] Infopark: enriched 350/414
+[INFO] Infopark: enriched 400/414
+[INFO] Separate portal outputs written to data/matched_jobs/.

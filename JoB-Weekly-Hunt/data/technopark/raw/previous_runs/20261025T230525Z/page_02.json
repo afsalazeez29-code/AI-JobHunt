@@ -1,0 +1,452 @@
+{
+  "current_page": 2,
+  "data": [
+    {
+      "id": 33787,
+      "job_listing_id": "JOB-38-33787",
+      "job_title": "Associate, Business Development",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-10",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5864,
+      "promoted": 0,
+      "company": {
+        "id": 5864,
+        "company": "Zyxware Technologies (P) Ltd",
+        "logo": "/storage/company/1437488625205_Zyxware_logo(web).png"
+      }
+    },
+    {
+      "id": 33786,
+      "job_listing_id": "JOB-72-33786",
+      "job_title": "Finance Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6598,
+      "promoted": 0,
+      "company": {
+        "id": 6598,
+        "company": "Atticube Technology Solutions Pvt Ltd",
+        "logo": "/storage/images/3145.png"
+      }
+    },
+    {
+      "id": 33785,
+      "job_listing_id": "JOB-94-33785",
+      "job_title": "Academic Counsellor / Student Mentor (Females Only)",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 1,
+      "walk_in_start_date": "2026-10-27",
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": "11:30:00",
+      "walk_in_end_time": "15:30:00",
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33784,
+      "job_listing_id": "JOB-75-33784",
+      "job_title": "Junior Customer Success Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5873,
+      "promoted": 0,
+      "company": {
+        "id": 5873,
+        "company": "SequoiaAT India (P) Ltd",
+        "logo": "/storage/company/14640015841228194063_Sequoia_logo.jpg"
+      }
+    },
+    {
+      "id": 33783,
+      "job_listing_id": "JOB-57-33783",
+      "job_title": "Lead/Senior Performance Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33782,
+      "job_listing_id": "JOB-64-33782",
+      "job_title": "Solution Architect",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33781,
+      "job_listing_id": "JOB-32-33781",
+      "job_title": "Enterprise Architect",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33780,
+      "job_listing_id": "JOB-74-33780",
+      "job_title": "Odoo Trainee",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-02",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5715,
+      "promoted": 0,
+      "company": {
+        "id": 5715,
+        "company": "Klystron Technologies",
+        "logo": "/storage/company/16393737540334182103_Klystron_brand identity.jpg"
+      }
+    },
+    {
+      "id": 33779,
+      "job_listing_id": "JOB-56-33779",
+      "job_title": "Technical Sales Specialist | Freshers : Btech: non-IT/MBA",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-12-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33778,
+      "job_listing_id": "JOB-44-33778",
+      "job_title": "Inside Sales ( Revenue Operations )",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6000,
+      "promoted": 0,
+      "company": {
+        "id": 6000,
+        "company": "Softnotions Technologies (P) Ltd",
+        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+      }
+    },
+    {
+      "id": 33777,
+      "job_listing_id": "JOB-41-33777",
+      "job_title": "React JS Training Freshers Welcome",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6267,
+      "promoted": 0,
+      "company": {
+        "id": 6267,
+        "company": "RELAXPLZZ TECHNOLOGIES",
+        "logo": "/storage/images/770.png"
+      }
+    },
+    {
+      "id": 33776,
+      "job_listing_id": "JOB-87-33776",
+      "job_title": "Senior Marketing Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5676,
+      "promoted": 0,
+      "company": {
+        "id": 5676,
+        "company": "Prayan Animation Studio (P) Ltd",
+        "logo": "/storage/company/15070981257841464899_Prayan-Animation.jpeg.png"
+      }
+    },
+    {
+      "id": 33775,
+      "job_listing_id": "JOB-16-33775",
+      "job_title": "BackGround Colouring Artist",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5676,
+      "promoted": 0,
+      "company": {
+        "id": 5676,
+        "company": "Prayan Animation Studio (P) Ltd",
+        "logo": "/storage/company/15070981257841464899_Prayan-Animation.jpeg.png"
+      }
+    },
+    {
+      "id": 33774,
+      "job_listing_id": "JOB-87-33774",
+      "job_title": "Senior Full Stack - Dot Net with AWS & AI",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33773,
+      "job_listing_id": "JOB-82-33773",
+      "job_title": "Marketing Lead Generation_ Internship",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33772,
+      "job_listing_id": "JOB-73-33772",
+      "job_title": "Marketing & Lead Generation Intern",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33771,
+      "job_listing_id": "JOB-10-33771",
+      "job_title": "IT Recruiter - 2 to 5 years",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33770,
+      "job_listing_id": "JOB-92-33770",
+      "job_title": "Digital Marketing Executive - 3 to 6 years",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6246,
+      "promoted": 0,
+      "company": {
+        "id": 6246,
+        "company": "Enfin Technologies India (P) Ltd",
+        "logo": "/storage/images/569.png"
+      }
+    },
+    {
+      "id": 33769,
+      "job_listing_id": "JOB-35-33769",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5946,
+      "promoted": 0,
+      "company": {
+        "id": 5946,
+        "company": "4Labs Technologies (P) Ltd",
+        "logo": "/storage/company/16461925124258480296_4Labs.jpg"
+      }
+    },
+    {
+      "id": 33768,
+      "job_listing_id": "JOB-96-33768",
+      "job_title": "NetScaler Engineer L3",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5946,
+      "promoted": 0,
+      "company": {
+        "id": 5946,
+        "company": "4Labs Technologies (P) Ltd",
+        "logo": "/storage/company/16461925124258480296_4Labs.jpg"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 21,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "label": "3",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=4",
+      "label": "4",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "label": "5",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=6",
+      "label": "6",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=3",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "to": 40,
+  "total": 317
+}

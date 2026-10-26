@@ -1,0 +1,452 @@
+{
+  "current_page": 8,
+  "data": [
+    {
+      "id": 33625,
+      "job_listing_id": "JOB-73-33625",
+      "job_title": "ORACLE DBA",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33624,
+      "job_listing_id": "JOB-36-33624",
+      "job_title": "Sr.Business Analyst",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-07",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33623,
+      "job_listing_id": "JOB-86-33623",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6611,
+      "promoted": 0,
+      "company": {
+        "id": 6611,
+        "company": "ZenturioTech Pvt Ltd",
+        "logo": "/storage/images/3153.jpg"
+      }
+    },
+    {
+      "id": 33622,
+      "job_listing_id": "JOB-37-33622",
+      "job_title": "Junior Executive - Sales & Marketing",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6178,
+      "promoted": 0,
+      "company": {
+        "id": 6178,
+        "company": "M Squared Software & Services (P) Ltd",
+        "logo": "/storage/company/1436852424185_M-Squared-Logo-2015.png"
+      }
+    },
+    {
+      "id": 33621,
+      "job_listing_id": "JOB-42-33621",
+      "job_title": "Installation Executives: Senior, Junior Positions & Freshers",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6178,
+      "promoted": 0,
+      "company": {
+        "id": 6178,
+        "company": "M Squared Software & Services (P) Ltd",
+        "logo": "/storage/company/1436852424185_M-Squared-Logo-2015.png"
+      }
+    },
+    {
+      "id": 33620,
+      "job_listing_id": "JOB-65-33620",
+      "job_title": "Java Spring Boot Developer",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-27",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5746,
+      "promoted": 0,
+      "company": {
+        "id": 5746,
+        "company": "Experion Technologies (I) (P) Ltd",
+        "logo": "/storage/company/16516385797579520183_Experion_new.png"
+      }
+    },
+    {
+      "id": 33619,
+      "job_listing_id": "JOB-90-33619",
+      "job_title": "Senior Digital Marketing Analyst – SEO/SMO",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5676,
+      "promoted": 0,
+      "company": {
+        "id": 5676,
+        "company": "Prayan Animation Studio (P) Ltd",
+        "logo": "/storage/company/15070981257841464899_Prayan-Animation.jpeg.png"
+      }
+    },
+    {
+      "id": 33618,
+      "job_listing_id": "JOB-85-33618",
+      "job_title": "Customer Relationship Executive - Medical insurance",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33614,
+      "job_listing_id": "JOB-29-33614",
+      "job_title": "UK Accounting Specialist",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33613,
+      "job_listing_id": "JOB-83-33613",
+      "job_title": "Medical Underwriter",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33612,
+      "job_listing_id": "JOB-94-33612",
+      "job_title": "Hiring Freshers for the Process Associate/Financial Associate role (Voice/Non Voice Process)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-17",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5884,
+      "promoted": 0,
+      "company": {
+        "id": 5884,
+        "company": "RR Donnelley India Outsource (P) Ltd",
+        "logo": "/storage/company/1644227466998924318_RRD_Logo_Black_RGB.jpg"
+      }
+    },
+    {
+      "id": 33611,
+      "job_listing_id": "JOB-51-33611",
+      "job_title": "Senior AWS DevOps Engineer",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6249,
+      "promoted": 0,
+      "company": {
+        "id": 6249,
+        "company": "NeedStreet Web Technologies (P) Ltd",
+        "logo": "/storage/company/1436967750430_NeedStreet.jpg"
+      }
+    },
+    {
+      "id": 33610,
+      "job_listing_id": "JOB-32-33610",
+      "job_title": "Dot Net Team Lead",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5715,
+      "promoted": 0,
+      "company": {
+        "id": 5715,
+        "company": "Klystron Technologies",
+        "logo": "/storage/company/16393737540334182103_Klystron_brand identity.jpg"
+      }
+    },
+    {
+      "id": 33609,
+      "job_listing_id": "JOB-53-33609",
+      "job_title": "Project Delivery Executive",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-26",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5715,
+      "promoted": 0,
+      "company": {
+        "id": 5715,
+        "company": "Klystron Technologies",
+        "logo": "/storage/company/16393737540334182103_Klystron_brand identity.jpg"
+      }
+    },
+    {
+      "id": 33607,
+      "job_listing_id": "JOB-96-33607",
+      "job_title": "POS & Retail Solutions Executive",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33606,
+      "job_listing_id": "JOB-42-33606",
+      "job_title": "Paid Internship Opportunity – Customer Relationship Executive (InsurTech)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5775,
+      "promoted": 0,
+      "company": {
+        "id": 5775,
+        "company": "PromptTech Global (P) Ltd",
+        "logo": "/storage/images/3672.jpg"
+      }
+    },
+    {
+      "id": 33605,
+      "job_listing_id": "JOB-20-33605",
+      "job_title": "AR Caller (Voice Process)",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33603,
+      "job_listing_id": "JOB-73-33603",
+      "job_title": "Sales Representative Trainee",
+      "posted_date": "2026-10-15",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5649,
+      "promoted": 0,
+      "company": {
+        "id": 5649,
+        "company": "TIGRID TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/images/561.jpg"
+      }
+    },
+    {
+      "id": 33600,
+      "job_listing_id": "JOB-70-33600",
+      "job_title": "Software Test Engineer",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5813,
+      "promoted": 0,
+      "company": {
+        "id": 5813,
+        "company": "Kameda Infologics (P) Ltd",
+        "logo": "/storage/company/1439028350017_LOGO.JPG"
+      }
+    },
+    {
+      "id": 33598,
+      "job_listing_id": "JOB-69-33598",
+      "job_title": "Senior Analyst - Financial Reporting (R2R)",
+      "posted_date": "2026-10-14",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5893,
+      "promoted": 0,
+      "company": {
+        "id": 5893,
+        "company": "Alamy Images India (P) Ltd",
+        "logo": "/storage/images/3208.png"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 141,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "label": "5",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=6",
+      "label": "6",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=9",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=7",
+  "to": 160,
+  "total": 317
+}

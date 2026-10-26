@@ -1,0 +1,8 @@
+{
+  "portal": "Technopark",
+  "source_records": 317,
+  "description_status_counts": {
+    "FULL_DESCRIPTION_RETRIEVED": 315,
+    "PARTIAL_DESCRIPTION_RETRIEVED": 2
+  }
+}

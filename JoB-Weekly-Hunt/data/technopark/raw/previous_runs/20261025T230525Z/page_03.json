@@ -1,0 +1,452 @@
+{
+  "current_page": 3,
+  "data": [
+    {
+      "id": 33767,
+      "job_listing_id": "JOB-49-33767",
+      "job_title": "Junior SEO, AEO & GEO Specialist",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    },
+    {
+      "id": 33766,
+      "job_listing_id": "JOB-28-33766",
+      "job_title": "Junior GTM Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5645,
+      "promoted": 0,
+      "company": {
+        "id": 5645,
+        "company": "Naga Info Solutions (P) Ltd",
+        "logo": "/storage/company/14794423567511260598_Naga logo RGB_300 Resolution.png"
+      }
+    },
+    {
+      "id": 33765,
+      "job_listing_id": "JOB-44-33765",
+      "job_title": "Digital Marketing Specialist (DMS)",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5672,
+      "promoted": 0,
+      "company": {
+        "id": 5672,
+        "company": "Crayo Tech Business Solutions (P) Ltd",
+        "logo": "/storage/company/16315961671431582664_Crayotech.JPG"
+      }
+    },
+    {
+      "id": 33764,
+      "job_listing_id": "JOB-43-33764",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-08",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6310,
+      "promoted": 0,
+      "company": {
+        "id": 6310,
+        "company": "Zybo Tech Lab (P) Ltd",
+        "logo": "/storage/images/3671.png"
+      }
+    },
+    {
+      "id": 33762,
+      "job_listing_id": "JOB-15-33762",
+      "job_title": "PeopleSoft Functional Lead – Financials (FSCM)",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5946,
+      "promoted": 0,
+      "company": {
+        "id": 5946,
+        "company": "4Labs Technologies (P) Ltd",
+        "logo": "/storage/company/16461925124258480296_4Labs.jpg"
+      }
+    },
+    {
+      "id": 33761,
+      "job_listing_id": "JOB-92-33761",
+      "job_title": "Senior QA Automation Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5756,
+      "promoted": 0,
+      "company": {
+        "id": 5756,
+        "company": "Appfabs Innovation (P) Ltd",
+        "logo": "/storage/images/479.jpg"
+      }
+    },
+    {
+      "id": 33760,
+      "job_listing_id": "JOB-69-33760",
+      "job_title": "Manager - Social Media Marketing",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33759,
+      "job_listing_id": "JOB-22-33759",
+      "job_title": "Job Posting Sales Operations & Lead Research Analyst",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33758,
+      "job_listing_id": "JOB-23-33758",
+      "job_title": "AI/ML Associate Architect",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33757,
+      "job_listing_id": "JOB-21-33757",
+      "job_title": "Senior Marketing Operations Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33756,
+      "job_listing_id": "JOB-59-33756",
+      "job_title": "Microsoft 365-Security Solution Specialist",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-18",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6239,
+      "promoted": 0,
+      "company": {
+        "id": 6239,
+        "company": "Gruppozenit India (P) Ltd",
+        "logo": "/storage/company/1524209867449_gruppo_zenit.png"
+      }
+    },
+    {
+      "id": 33755,
+      "job_listing_id": "JOB-38-33755",
+      "job_title": "HR & Sales Administrator",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-22",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6073,
+      "promoted": 0,
+      "company": {
+        "id": 6073,
+        "company": "Akira Software Solutions (P) Ltd",
+        "logo": "/storage/company/1436786138291_akiralogo.png"
+      }
+    },
+    {
+      "id": 33754,
+      "job_listing_id": "JOB-90-33754",
+      "job_title": "Team Lead - Email Marketing",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33753,
+      "job_listing_id": "JOB-16-33753",
+      "job_title": "Senior Database Administrator (MySQL & MongoDB)",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33752,
+      "job_listing_id": "JOB-60-33752",
+      "job_title": "Senior Operations Executive - Airport Parking",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33751,
+      "job_listing_id": "JOB-94-33751",
+      "job_title": "JAVA Solution Architect",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33750,
+      "job_listing_id": "JOB-68-33750",
+      "job_title": "Content Writer - B2B",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33749,
+      "job_listing_id": "JOB-63-33749",
+      "job_title": "QA Automation Engineer",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33748,
+      "job_listing_id": "JOB-95-33748",
+      "job_title": "Accounts Payable Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    },
+    {
+      "id": 33747,
+      "job_listing_id": "JOB-50-33747",
+      "job_title": "Product Manager",
+      "posted_date": "2026-10-22",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6237,
+      "promoted": 0,
+      "company": {
+        "id": 6237,
+        "company": "Way Dot Com (P) Ltd",
+        "logo": "/storage/company/15615433944139296731_Way.jpg"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 41,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "label": "3",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=4",
+      "label": "4",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "label": "5",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=6",
+      "label": "6",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=4",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=4",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=2",
+  "to": 60,
+  "total": 317
+}

@@ -1,0 +1,9 @@
+{
+  "portal": "Infopark",
+  "source_records": 414,
+  "description_status_counts": {
+    "FULL_DESCRIPTION_RETRIEVED": 407,
+    "PAGE_NOT_FOUND": 2,
+    "PARTIAL_DESCRIPTION_RETRIEVED": 5
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "current_page": 12,
+  "data": [
+    {
+      "id": 33431,
+      "job_listing_id": "JOB-28-33431",
+      "job_title": "Accountant",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5707,
+      "promoted": 0,
+      "company": {
+        "id": 5707,
+        "company": "Estrrado Technology Solutions (P) Ltd",
+        "logo": "/storage/images/2185.png"
+      }
+    },
+    {
+      "id": 33423,
+      "job_listing_id": "JOB-95-33423",
+      "job_title": "Opening for Senior AR Caller-Process Coach(RCM) @Technopark",
+      "posted_date": "2026-10-07",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6571,
+      "promoted": 0,
+      "company": {
+        "id": 6571,
+        "company": "Prochant India (P) Ltd",
+        "logo": "/storage/images/2904.webp"
+      }
+    },
+    {
+      "id": 33399,
+      "job_listing_id": "JOB-19-33399",
+      "job_title": "AI Engineer",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-06",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6287,
+      "promoted": 0,
+      "company": {
+        "id": 6287,
+        "company": "Stackmod Innovations (P) Ltd",
+        "logo": "/storage/images/1151.png"
+      }
+    },
+    {
+      "id": 33394,
+      "job_listing_id": "JOB-46-33394",
+      "job_title": "ETL/SQL Developer",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5777,
+      "promoted": 0,
+      "company": {
+        "id": 5777,
+        "company": "SE-Mentor Solutions (P) Ltd",
+        "logo": "/storage/images/3610.jpg"
+      }
+    },
+    {
+      "id": 33390,
+      "job_listing_id": "JOB-96-33390",
+      "job_title": "Network Support Engineer(L2) – NOC",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-20",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5824,
+      "promoted": 0,
+      "company": {
+        "id": 5824,
+        "company": "Phykon Solutions (P) Ltd",
+        "logo": "/storage/company/1436941075618_logo.png"
+      }
+    },
+    {
+      "id": 33389,
+      "job_listing_id": "JOB-81-33389",
+      "job_title": "NOC / SRE Lead – NOC Operations",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-20",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5824,
+      "promoted": 0,
+      "company": {
+        "id": 5824,
+        "company": "Phykon Solutions (P) Ltd",
+        "logo": "/storage/company/1436941075618_logo.png"
+      }
+    },
+    {
+      "id": 33387,
+      "job_listing_id": "JOB-45-33387",
+      "job_title": "English and Soft Skill Trainer",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33386,
+      "job_listing_id": "JOB-55-33386",
+      "job_title": "Sales Executive",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33385,
+      "job_listing_id": "JOB-22-33385",
+      "job_title": "Business Development Executive",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33382,
+      "job_listing_id": "JOB-25-33382",
+      "job_title": "Laravel Developer – 1.5+ Years Experience",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6091,
+      "promoted": 0,
+      "company": {
+        "id": 6091,
+        "company": "REFINED IT SOLUTIONS AND MARKETING (P) Ltd",
+        "logo": "/storage/company/15931487188477713554_REFINED.JPG"
+      }
+    },
+    {
+      "id": 33379,
+      "job_listing_id": "JOB-68-33379",
+      "job_title": "Team Lead - Telesales & BPO Operations",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5616,
+      "promoted": 0,
+      "company": {
+        "id": 5616,
+        "company": "JOOPIUM TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/16812939125488370449_joopium logo 1.jpg"
+      }
+    },
+    {
+      "id": 33370,
+      "job_listing_id": "JOB-78-33370",
+      "job_title": "Marketing Associate",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33368,
+      "job_listing_id": "JOB-66-33368",
+      "job_title": "Marketing Specialist",
+      "posted_date": "2026-10-06",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6330,
+      "promoted": 0,
+      "company": {
+        "id": 6330,
+        "company": "Numenor Enterprises (P) Ltd",
+        "logo": "/storage/images/3768.png"
+      }
+    },
+    {
+      "id": 33353,
+      "job_listing_id": "JOB-85-33353",
+      "job_title": "Junior Report Developer",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6341,
+      "promoted": 0,
+      "company": {
+        "id": 6341,
+        "company": "Innovation Incubator Advisory (P) Ltd",
+        "logo": "/storage/images/2048.jpg"
+      }
+    },
+    {
+      "id": 33352,
+      "job_listing_id": "JOB-59-33352",
+      "job_title": "Embedded / BSP Engineer",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33351,
+      "job_listing_id": "JOB-20-33351",
+      "job_title": "2.\tAI & Application Engineer",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33346,
+      "job_listing_id": "JOB-70-33346",
+      "job_title": "DevOps Engineer - AWS",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6539,
+      "promoted": 0,
+      "company": {
+        "id": 6539,
+        "company": "Eartheye Space Private Limited",
+        "logo": "/storage/images/2792.jpg"
+      }
+    },
+    {
+      "id": 33344,
+      "job_listing_id": "JOB-73-33344",
+      "job_title": "AI:Software Engineer;Development,Quality&Delivery:Exp-6+ Yrs |Remote",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-19",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33343,
+      "job_listing_id": "JOB-91-33343",
+      "job_title": "Senior Software Engineer – AI-Augmented Software Engineering",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-19",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33342,
+      "job_listing_id": "JOB-86-33342",
+      "job_title": "Creative Video Editor",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5997,
+      "promoted": 0,
+      "company": {
+        "id": 5997,
+        "company": "Techstas Global Innovations (P) Ltd",
+        "logo": "/storage/images/2907.jpg"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 221,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "12",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "13",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=13",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=11",
+  "to": 240,
+  "total": 317
+}

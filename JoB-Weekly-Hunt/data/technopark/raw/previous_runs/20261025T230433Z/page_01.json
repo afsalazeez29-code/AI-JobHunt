@@ -1,0 +1,452 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 33810,
+      "job_listing_id": "JOB-67-33810",
+      "job_title": "DIGITAL MARKETER",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6522,
+      "promoted": 0,
+      "company": {
+        "id": 6522,
+        "company": "TRAINONEX SOLUTIONS (P) Ltd",
+        "logo": "/storage/images/2729.jpg"
+      }
+    },
+    {
+      "id": 33809,
+      "job_listing_id": "JOB-45-33809",
+      "job_title": "Faculty – Animation & Design",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33808,
+      "job_listing_id": "JOB-77-33808",
+      "job_title": "Junior Copywriter – Design & Marketing Team",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33807,
+      "job_listing_id": "JOB-69-33807",
+      "job_title": "Marketing Coordinator - Feature Film Division",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33806,
+      "job_listing_id": "JOB-60-33806",
+      "job_title": "Head of Finance",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33805,
+      "job_listing_id": "JOB-39-33805",
+      "job_title": "Senior Graphic Designer",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6255,
+      "promoted": 0,
+      "company": {
+        "id": 6255,
+        "company": "Toonz Animation India (P) Ltd",
+        "logo": "/storage/company/1437053336533_Toonz Media Group_LOGO.png"
+      }
+    },
+    {
+      "id": 33804,
+      "job_listing_id": "JOB-61-33804",
+      "job_title": "Market Research Analyst Intern (Remote)",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-11",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6744,
+      "promoted": 0,
+      "company": {
+        "id": 6744,
+        "company": "AppSaas AI Technologies Pvt.Ltd.",
+        "logo": "/storage/images/3747.png"
+      }
+    },
+    {
+      "id": 33803,
+      "job_listing_id": "JOB-47-33803",
+      "job_title": "Digital Marketing Executive Intern (Remote)",
+      "posted_date": "2026-10-24",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6744,
+      "promoted": 0,
+      "company": {
+        "id": 6744,
+        "company": "AppSaas AI Technologies Pvt.Ltd.",
+        "logo": "/storage/images/3747.png"
+      }
+    },
+    {
+      "id": 33802,
+      "job_listing_id": "JOB-35-33802",
+      "job_title": "DevOps Lead Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5757,
+      "promoted": 0,
+      "company": {
+        "id": 5757,
+        "company": "DeviceDriven (India) Pvt. Ltd",
+        "logo": "/storage/company/1436965935023_DeviceDriven.jpg"
+      }
+    },
+    {
+      "id": 33801,
+      "job_listing_id": "JOB-87-33801",
+      "job_title": "Senior Security Analyst",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5757,
+      "promoted": 0,
+      "company": {
+        "id": 5757,
+        "company": "DeviceDriven (India) Pvt. Ltd",
+        "logo": "/storage/company/1436965935023_DeviceDriven.jpg"
+      }
+    },
+    {
+      "id": 33800,
+      "job_listing_id": "JOB-67-33800",
+      "job_title": "Customer Success Associate",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6036,
+      "promoted": 0,
+      "company": {
+        "id": 6036,
+        "company": "Waybeo Technology Solutions (P) Ltd",
+        "logo": "/storage/company/15284555186519863695_waybeo logo.jpg"
+      }
+    },
+    {
+      "id": 33799,
+      "job_listing_id": "JOB-98-33799",
+      "job_title": "Junior Data Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6341,
+      "promoted": 0,
+      "company": {
+        "id": 6341,
+        "company": "Innovation Incubator Advisory (P) Ltd",
+        "logo": "/storage/images/2048.jpg"
+      }
+    },
+    {
+      "id": 33798,
+      "job_listing_id": "JOB-23-33798",
+      "job_title": "Senior .NET Developer - AI",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33797,
+      "job_listing_id": "JOB-98-33797",
+      "job_title": "Senior QA Automation Engineer",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 1,
+      "walk_in_start_date": "2026-10-29",
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": "09:30:00",
+      "walk_in_end_time": "16:00:00",
+      "company_id": 5756,
+      "promoted": 0,
+      "company": {
+        "id": 5756,
+        "company": "Appfabs Innovation (P) Ltd",
+        "logo": "/storage/images/479.jpg"
+      }
+    },
+    {
+      "id": 33794,
+      "job_listing_id": "JOB-62-33794",
+      "job_title": "Solution Architect - .Net",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33793,
+      "job_listing_id": "JOB-93-33793",
+      "job_title": "Engagement Manager / Senior Delivery Manager - Shift 6 PM to 4 AM IST",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33792,
+      "job_listing_id": "JOB-33-33792",
+      "job_title": "Delivery Head",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-23",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33791,
+      "job_listing_id": "JOB-81-33791",
+      "job_title": "Senior Project Manager",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33789,
+      "job_listing_id": "JOB-26-33789",
+      "job_title": "Technical Project Manager",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    },
+    {
+      "id": 33788,
+      "job_listing_id": "JOB-75-33788",
+      "job_title": "Delivery Manager",
+      "posted_date": "2026-10-23",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5819,
+      "promoted": 0,
+      "company": {
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 1,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "label": "3",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=4",
+      "label": "4",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "label": "5",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=6",
+      "label": "6",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=2",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": null,
+  "to": 20,
+  "total": 317
+}

@@ -1,0 +1,452 @@
+{
+  "current_page": 14,
+  "data": [
+    {
+      "id": 33266,
+      "job_listing_id": "JOB-59-33266",
+      "job_title": "Fresher Developer - PHP | 2025/2026 Freshers",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    },
+    {
+      "id": 33251,
+      "job_listing_id": "JOB-73-33251",
+      "job_title": "Senior PMO",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5702,
+      "promoted": 0,
+      "company": {
+        "id": 5702,
+        "company": "ARS Traffic & Transport Technology India (P) Ltd",
+        "logo": "/storage/images/2268.jpg"
+      }
+    },
+    {
+      "id": 33249,
+      "job_listing_id": "JOB-13-33249",
+      "job_title": "Assistant Manager - Technology Risk Advisory & Cybersecurity (TRACS)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33248,
+      "job_listing_id": "JOB-23-33248",
+      "job_title": "Assistant Manager - AI Advisory & Engineering (AAE)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33247,
+      "job_listing_id": "JOB-49-33247",
+      "job_title": "Consultant - Technology Risk Advisory & Cybersecurity (TRACS)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33245,
+      "job_listing_id": "JOB-79-33245",
+      "job_title": "Consultant - AI Advisory & Engineering (AAE)",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33244,
+      "job_listing_id": "JOB-70-33244",
+      "job_title": "Consultant – IT Risk Advisory",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33243,
+      "job_listing_id": "JOB-63-33243",
+      "job_title": "Assistant Manager – IT Risk Advisory",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6297,
+      "promoted": 0,
+      "company": {
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
+      }
+    },
+    {
+      "id": 33241,
+      "job_listing_id": "JOB-37-33241",
+      "job_title": "Social Media, SEO, AEO & Video Creator",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-29",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6073,
+      "promoted": 0,
+      "company": {
+        "id": 6073,
+        "company": "Akira Software Solutions (P) Ltd",
+        "logo": "/storage/company/1436786138291_akiralogo.png"
+      }
+    },
+    {
+      "id": 33232,
+      "job_listing_id": "JOB-54-33232",
+      "job_title": "JR DevOps Engineer | 2025/2026 Freshers",
+      "posted_date": "2026-09-29",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-13",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33230,
+      "job_listing_id": "JOB-99-33230",
+      "job_title": "Technical Architect -Dotnet",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33229,
+      "job_listing_id": "JOB-11-33229",
+      "job_title": "Technical Architect -Java",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33228,
+      "job_listing_id": "JOB-94-33228",
+      "job_title": "Sr. Business Analyst - Insurance Domain",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33227,
+      "job_listing_id": "JOB-26-33227",
+      "job_title": "Project Manager -IT",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33226,
+      "job_listing_id": "JOB-41-33226",
+      "job_title": "Learning and Development Specialist -IT",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33225,
+      "job_listing_id": "JOB-37-33225",
+      "job_title": "Database Administrator (Multi-Platform)",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33224,
+      "job_listing_id": "JOB-87-33224",
+      "job_title": "Sr. Software Engineer -Dotnet",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5848,
+      "promoted": 0,
+      "company": {
+        "id": 5848,
+        "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
+        "logo": "/storage/company/1437018923703_Logo.jpg"
+      }
+    },
+    {
+      "id": 33216,
+      "job_listing_id": "JOB-47-33216",
+      "job_title": "Senior Full Stack Developer – AI-Assisted Development & Deployment",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-12",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5907,
+      "promoted": 0,
+      "company": {
+        "id": 5907,
+        "company": "REIZEND (P) Ltd",
+        "logo": "/storage/company/16372258933821491833_Reizend pvt ltd logo.jpg"
+      }
+    },
+    {
+      "id": 33201,
+      "job_listing_id": "JOB-41-33201",
+      "job_title": "Finance Executive",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5757,
+      "promoted": 0,
+      "company": {
+        "id": 5757,
+        "company": "DeviceDriven (India) Pvt. Ltd",
+        "logo": "/storage/company/1436965935023_DeviceDriven.jpg"
+      }
+    },
+    {
+      "id": 33192,
+      "job_listing_id": "JOB-79-33192",
+      "job_title": "MDM -Syndigo Developer",
+      "posted_date": "2026-09-28",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-28",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5613,
+      "promoted": 0,
+      "company": {
+        "id": 5613,
+        "company": "Acrocede Technologies (P) Ltd",
+        "logo": "/storage/company/15452005035531116146_Acrocede.png"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 261,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "12",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "13",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=15",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=13",
+  "to": 280,
+  "total": 317
+}

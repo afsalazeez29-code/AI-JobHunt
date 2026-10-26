@@ -1,0 +1,23 @@
+{
+  "portal": "Infopark",
+  "generated_at": "2026-10-26T05:23:27.628090+05:30",
+  "source_records": 414,
+  "unique_source_records": 414,
+  "intra_portal_duplicates": 0,
+  "category_counts": {
+    "Strong Match": 11,
+    "Potential Match": 161,
+    "Related Developer Role": 4,
+    "Manual Review": 1,
+    "Expired Relevant Role": 2,
+    "Not Relevant": 235
+  },
+  "candidate_records_written": 179,
+  "description_status_counts": {
+    "FULL_DESCRIPTION_RETRIEVED": 407,
+    "PAGE_NOT_FOUND": 2,
+    "PARTIAL_DESCRIPTION_RETRIEVED": 5
+  },
+  "eligibility_manual_verification": 168,
+  "output_directory": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\matched_jobs\\infopark"
+}

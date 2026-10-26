@@ -1,0 +1,22 @@
+{
+  "portal": "Technopark",
+  "generated_at": "2026-10-26T05:20:56.129515+05:30",
+  "source_records": 317,
+  "unique_source_records": 317,
+  "intra_portal_duplicates": 0,
+  "category_counts": {
+    "Strong Match": 8,
+    "Potential Match": 124,
+    "Related Developer Role": 4,
+    "Manual Review": 2,
+    "Expired Relevant Role": 0,
+    "Not Relevant": 179
+  },
+  "candidate_records_written": 138,
+  "description_status_counts": {
+    "FULL_DESCRIPTION_RETRIEVED": 315,
+    "PARTIAL_DESCRIPTION_RETRIEVED": 2
+  },
+  "eligibility_manual_verification": 130,
+  "output_directory": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\matched_jobs\\technopark"
+}

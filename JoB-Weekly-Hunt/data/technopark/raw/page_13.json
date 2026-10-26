@@ -1,0 +1,452 @@
+{
+  "current_page": 13,
+  "data": [
+    {
+      "id": 33333,
+      "job_listing_id": "JOB-53-33333",
+      "job_title": "Travel & Administration Coordinator",
+      "posted_date": "2026-10-05",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-05",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5822,
+      "promoted": 0,
+      "company": {
+        "id": 5822,
+        "company": "APPLEXUS TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/15791688645523306549_Applexus Logo_New V1.png"
+      }
+    },
+    {
+      "id": 33322,
+      "job_listing_id": "JOB-19-33322",
+      "job_title": "MuleSoft Integration Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5746,
+      "promoted": 0,
+      "company": {
+        "id": 5746,
+        "company": "Experion Technologies (I) (P) Ltd",
+        "logo": "/storage/company/16516385797579520183_Experion_new.png"
+      }
+    },
+    {
+      "id": 33319,
+      "job_listing_id": "JOB-72-33319",
+      "job_title": "QA & DATA Audit Associate",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6005,
+      "promoted": 0,
+      "company": {
+        "id": 6005,
+        "company": "NXTLIVE TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1444372504676_LogoTP.png"
+      }
+    },
+    {
+      "id": 33318,
+      "job_listing_id": "JOB-40-33318",
+      "job_title": "Industry Research and Content Associate",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6005,
+      "promoted": 0,
+      "company": {
+        "id": 6005,
+        "company": "NXTLIVE TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1444372504676_LogoTP.png"
+      }
+    },
+    {
+      "id": 33317,
+      "job_listing_id": "JOB-70-33317",
+      "job_title": "ACCOUNT BASED MARKETING ASSOCIATE",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6005,
+      "promoted": 0,
+      "company": {
+        "id": 6005,
+        "company": "NXTLIVE TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/1444372504676_LogoTP.png"
+      }
+    },
+    {
+      "id": 33313,
+      "job_listing_id": "JOB-69-33313",
+      "job_title": "AI / Data Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33312,
+      "job_listing_id": "JOB-24-33312",
+      "job_title": "Business Analyst",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33311,
+      "job_listing_id": "JOB-40-33311",
+      "job_title": "UI-UX Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33310,
+      "job_listing_id": "JOB-71-33310",
+      "job_title": "Senior Dev Ops Engineer",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-31",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5674,
+      "promoted": 0,
+      "company": {
+        "id": 5674,
+        "company": "Trois Infotech (P) Ltd",
+        "logo": "/storage/company/15692309089136388865_Trois.JPG"
+      }
+    },
+    {
+      "id": 33309,
+      "job_listing_id": "JOB-77-33309",
+      "job_title": "System Administrator",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-01",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5717,
+      "promoted": 0,
+      "company": {
+        "id": 5717,
+        "company": "SEQATO Software Solutions (P) Ltd",
+        "logo": "/storage/company/16388510300633916049_SEQATO2_Font_Logo.png"
+      }
+    },
+    {
+      "id": 33297,
+      "job_listing_id": "JOB-55-33297",
+      "job_title": "Creative Director (E-Commerce / D2C Beauty & Wellness)",
+      "posted_date": "2026-10-01",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-15",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5643,
+      "promoted": 0,
+      "company": {
+        "id": 5643,
+        "company": "Acharya Panchakarma & Traditional Kerala Ayurveda (P) Ltd",
+        "logo": "/storage/images/476.jpg"
+      }
+    },
+    {
+      "id": 33295,
+      "job_listing_id": "JOB-62-33295",
+      "job_title": "TELE MARKETING/ACADEMIC COUNSELLOR'S (Female Fresher/ Female Experienced Candidates)",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33294,
+      "job_listing_id": "JOB-43-33294",
+      "job_title": "Academic Counsellor / Student Mentor (Females Only)",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5865,
+      "promoted": 0,
+      "company": {
+        "id": 5865,
+        "company": "Doubtbox Edutainment (P) Ltd",
+        "logo": "/storage/company/15562708757761502971_Doubtbox.JPG"
+      }
+    },
+    {
+      "id": 33289,
+      "job_listing_id": "JOB-63-33289",
+      "job_title": "Digital Marketing Trainee",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33288,
+      "job_listing_id": "JOB-70-33288",
+      "job_title": "Digital Marketing Associate",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33287,
+      "job_listing_id": "JOB-51-33287",
+      "job_title": "US IT Recruiter",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5613,
+      "promoted": 0,
+      "company": {
+        "id": 5613,
+        "company": "Acrocede Technologies (P) Ltd",
+        "logo": "/storage/company/15452005035531116146_Acrocede.png"
+      }
+    },
+    {
+      "id": 33283,
+      "job_listing_id": "JOB-56-33283",
+      "job_title": "Digital Marketing Executive",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6756,
+      "promoted": 0,
+      "company": {
+        "id": 6756,
+        "company": "SCALEVEL TECHNOLOGIES",
+        "logo": "/storage/images/3764.png"
+      }
+    },
+    {
+      "id": 33279,
+      "job_listing_id": "JOB-98-33279",
+      "job_title": "Business Executive – Sales & Marketing",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 6402,
+      "promoted": 0,
+      "company": {
+        "id": 6402,
+        "company": "Medowa Global (P) Ltd",
+        "logo": "/storage/images/2257.jpg"
+      }
+    },
+    {
+      "id": 33269,
+      "job_listing_id": "JOB-32-33269",
+      "job_title": "Recruitment Executive",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-10-30",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5822,
+      "promoted": 0,
+      "company": {
+        "id": 5822,
+        "company": "APPLEXUS TECHNOLOGIES (P) Ltd",
+        "logo": "/storage/company/15791688645523306549_Applexus Logo_New V1.png"
+      }
+    },
+    {
+      "id": 33267,
+      "job_listing_id": "JOB-33-33267",
+      "job_title": "Technical Sales Specialist – (Kannada Fluency required)",
+      "posted_date": "2026-09-30",
+      "is_walk_in": 0,
+      "walk_in_start_date": null,
+      "closing_date": "2026-11-14",
+      "walk_in_start_time": null,
+      "walk_in_end_time": null,
+      "company_id": 5790,
+      "promoted": 0,
+      "company": {
+        "id": 5790,
+        "company": "SMARTHMS & SOLUTIONS (P) Ltd",
+        "logo": "/storage/company/16607295391218464476_SHMS Logo2.jpg"
+      }
+    }
+  ],
+  "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
+  "from": 241,
+  "last_page": 16,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "links": [
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "label": "1",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "label": "7",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "label": "8",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "label": "9",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "label": "10",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "label": "11",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "label": "12",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "label": "13",
+      "active": true
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=16",
+      "label": "16",
+      "active": false
+    },
+    {
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "https://technopark.in/api/paginated-jobs?page=14",
+  "path": "https://technopark.in/api/paginated-jobs",
+  "per_page": 20,
+  "prev_page_url": "https://technopark.in/api/paginated-jobs?page=12",
+  "to": 260,
+  "total": 317
+}
