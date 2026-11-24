@@ -1,0 +1,20 @@
+{
+  "run_id": "jobhunt_2026-11-19_151349194103",
+  "portals": {
+    "technopark": {
+      "source": 283,
+      "matched": 66,
+      "formats_agree": true,
+      "identities_unique": true,
+      "timestamps_fresh": true
+    },
+    "infopark": {
+      "source": 515,
+      "matched": 107,
+      "formats_agree": true,
+      "identities_unique": true,
+      "timestamps_fresh": true
+    }
+  },
+  "potential_cross_source_duplicates": []
+}

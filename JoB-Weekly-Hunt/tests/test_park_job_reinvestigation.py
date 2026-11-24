@@ -1,5 +1,10 @@
 from datetime import date
 from pathlib import Path
+import pytest
+
+@pytest.fixture(autouse=True)
+def fixed_reference_date(monkeypatch):
+    monkeypatch.setattr('park_job_reinvestigation.today_india', lambda: date(2026, 10, 26))
 
 from park_job_reinvestigation import TITLE_KEYWORDS, classify, listed_title_match, normal, phrase_match, skills
 

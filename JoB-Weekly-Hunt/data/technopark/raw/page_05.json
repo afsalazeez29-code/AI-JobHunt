@@ -2,370 +2,370 @@
   "current_page": 5,
   "data": [
     {
-      "id": 33724,
-      "job_listing_id": "JOB-89-33724",
-      "job_title": "Technical Lead - .NET",
-      "posted_date": "2026-10-21",
+      "id": 34214,
+      "job_listing_id": "JOB-43-34214",
+      "job_title": "SAP ECC FI Functional Analyst (Retail Domain Mandatory)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5819,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
       }
     },
     {
-      "id": 33723,
-      "job_listing_id": "JOB-34-33723",
-      "job_title": "Senior Software Engineer - .NET",
-      "posted_date": "2026-10-21",
+      "id": 34213,
+      "job_listing_id": "JOB-31-34213",
+      "job_title": "ITSM Manager",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5819,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
       }
     },
     {
-      "id": 33722,
-      "job_listing_id": "JOB-93-33722",
-      "job_title": "ServiceNow Architect / Associate Architect",
-      "posted_date": "2026-10-21",
+      "id": 34212,
+      "job_listing_id": "JOB-90-34212",
+      "job_title": "Data Engineering Lead",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5819,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
       }
     },
     {
-      "id": 33721,
-      "job_listing_id": "JOB-90-33721",
-      "job_title": "Senior ServiceNow Developer / Technical Consultant",
-      "posted_date": "2026-10-21",
+      "id": 34211,
+      "job_listing_id": "JOB-99-34211",
+      "job_title": "Snowflake Data & AI Engineer",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5819,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
       }
     },
     {
-      "id": 33720,
-      "job_listing_id": "JOB-98-33720",
-      "job_title": "ServiceNow Functional Consultant",
-      "posted_date": "2026-10-21",
+      "id": 34210,
+      "job_listing_id": "JOB-22-34210",
+      "job_title": "Consultant – IT Risk Advisory",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-12-14",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 6297,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
       }
     },
     {
-      "id": 33719,
-      "job_listing_id": "JOB-31-33719",
-      "job_title": "Operations Trainee",
-      "posted_date": "2026-10-21",
+      "id": 34209,
+      "job_listing_id": "JOB-15-34209",
+      "job_title": "Consultant - (AAE)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-10-28",
+      "closing_date": "2026-12-14",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 6000,
+      "company_id": 6297,
       "promoted": 0,
       "company": {
-        "id": 6000,
-        "company": "Softnotions Technologies (P) Ltd",
-        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
       }
     },
     {
-      "id": 33718,
-      "job_listing_id": "JOB-38-33718",
-      "job_title": "Senior Python Developer",
-      "posted_date": "2026-10-21",
+      "id": 34208,
+      "job_listing_id": "JOB-94-34208",
+      "job_title": "Consultant - (TRACS)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-12-14",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 6297,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
       }
     },
     {
-      "id": 33717,
-      "job_listing_id": "JOB-41-33717",
-      "job_title": "Team Lead - AI/ML",
-      "posted_date": "2026-10-21",
+      "id": 34207,
+      "job_listing_id": "JOB-73-34207",
+      "job_title": "Assistant Manager - (AAE)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-12-14",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 6297,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
       }
     },
     {
-      "id": 33716,
-      "job_listing_id": "JOB-25-33716",
-      "job_title": "Marketing Trainee (RevOps)",
-      "posted_date": "2026-10-21",
+      "id": 34206,
+      "job_listing_id": "JOB-79-34206",
+      "job_title": "Assistant Manager - (TRACS)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-10-28",
+      "closing_date": "2026-12-14",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 6000,
+      "company_id": 6297,
       "promoted": 0,
       "company": {
-        "id": 6000,
-        "company": "Softnotions Technologies (P) Ltd",
-        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
       }
     },
     {
-      "id": 33715,
-      "job_listing_id": "JOB-48-33715",
-      "job_title": "Senior Associate - Talent Acquisition",
-      "posted_date": "2026-10-21",
+      "id": 34205,
+      "job_listing_id": "JOB-31-34205",
+      "job_title": "UI/UX Designer (Fintech Domain)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-12-21",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 6297,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 6297,
+        "company": "AInsurtech (P) Ltd",
+        "logo": "/storage/images/1365.png"
       }
     },
     {
-      "id": 33714,
-      "job_listing_id": "JOB-72-33714",
-      "job_title": "Senior AI/ML Engineer",
-      "posted_date": "2026-10-21",
+      "id": 34202,
+      "job_listing_id": "JOB-44-34202",
+      "job_title": "Finance Executive",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 6348,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 6348,
+        "company": "ITWAGON (P) Ltd",
+        "logo": "/storage/images/2159.jpg"
       }
     },
     {
-      "id": 33713,
-      "job_listing_id": "JOB-22-33713",
-      "job_title": "Graphic Designer and Video Editor",
-      "posted_date": "2026-10-21",
+      "id": 34201,
+      "job_listing_id": "JOB-98-34201",
+      "job_title": "Operations Executive (Sales Order Processing, Logistics and eCommerce)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-10-28",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 6000,
+      "company_id": 6348,
       "promoted": 0,
       "company": {
-        "id": 6000,
-        "company": "Softnotions Technologies (P) Ltd",
-        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+        "id": 6348,
+        "company": "ITWAGON (P) Ltd",
+        "logo": "/storage/images/2159.jpg"
       }
     },
     {
-      "id": 33712,
-      "job_listing_id": "JOB-93-33712",
-      "job_title": "UX Associate Lead",
-      "posted_date": "2026-10-21",
+      "id": 34200,
+      "job_listing_id": "JOB-96-34200",
+      "job_title": "Business Development Executive (IT Sales)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-12-13",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5793,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5793,
+        "company": "HYZ VENTURES INTL (P) Ltd",
+        "logo": "/storage/company/16575177395272704100_HYZ.png"
       }
     },
     {
-      "id": 33711,
-      "job_listing_id": "JOB-48-33711",
-      "job_title": "Business Development Executive",
-      "posted_date": "2026-10-21",
+      "id": 34199,
+      "job_listing_id": "JOB-10-34199",
+      "job_title": "SEO Specialist",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-12-13",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5737,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5737,
+        "company": "Srishti Innovative Computer Systems (P) Ltd",
+        "logo": "/storage/company/1437128830690_3.png"
       }
     },
     {
-      "id": 33710,
-      "job_listing_id": "JOB-73-33710",
-      "job_title": "Senior Technical Lead / Architect",
-      "posted_date": "2026-10-21",
+      "id": 34195,
+      "job_listing_id": "JOB-72-34195",
+      "job_title": "Financial Associate (Opportunity for Freshers)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-30",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5884,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5884,
+        "company": "RR Donnelley India Outsource (P) Ltd",
+        "logo": "/storage/company/1644227466998924318_RRD_Logo_Black_RGB.jpg"
       }
     },
     {
-      "id": 33709,
-      "job_listing_id": "JOB-33-33709",
-      "job_title": "Technical Recruitment Lead",
-      "posted_date": "2026-10-21",
+      "id": 34194,
+      "job_listing_id": "JOB-37-34194",
+      "job_title": "Hiring Freshers for the Document Specialist (Contract)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-27",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5884,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5884,
+        "company": "RR Donnelley India Outsource (P) Ltd",
+        "logo": "/storage/company/1644227466998924318_RRD_Logo_Black_RGB.jpg"
       }
     },
     {
-      "id": 33708,
-      "job_listing_id": "JOB-82-33708",
-      "job_title": "Digital Marketing Trainee",
-      "posted_date": "2026-10-21",
+      "id": 34193,
+      "job_listing_id": "JOB-77-34193",
+      "job_title": "Software Engineer - Trainee",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-10-28",
+      "closing_date": "2026-11-30",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 6000,
+      "company_id": 5633,
       "promoted": 0,
       "company": {
-        "id": 6000,
-        "company": "Softnotions Technologies (P) Ltd",
-        "logo": "/storage/company/16594277636233042444_Softnotions Logo.jpg"
+        "id": 5633,
+        "company": "Netwalk Technologies India (P) Ltd",
+        "logo": "/storage/company/16481976871701457044_NETWALK Logo.jpg"
       }
     },
     {
-      "id": 33707,
-      "job_listing_id": "JOB-21-33707",
-      "job_title": "Business Development Manager",
-      "posted_date": "2026-10-21",
+      "id": 34192,
+      "job_listing_id": "JOB-77-34192",
+      "job_title": "SAP ECC SD Functional Analyst (AFS+Retail Domain Mandatory)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5819,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
       }
     },
     {
-      "id": 33706,
-      "job_listing_id": "JOB-55-33706",
-      "job_title": "Associate Architect - Python",
-      "posted_date": "2026-10-21",
+      "id": 34191,
+      "job_listing_id": "JOB-83-34191",
+      "job_title": "SAP BW Analyst (Retail Domain Mandatory)",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5819,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
       }
     },
     {
-      "id": 33705,
-      "job_listing_id": "JOB-67-33705",
-      "job_title": "Technical Lead - Python",
-      "posted_date": "2026-10-21",
+      "id": 34190,
+      "job_listing_id": "JOB-66-34190",
+      "job_title": "Engagement Manager / Senior Delivery Manager - Shift 6 PM to 4 AM IST",
+      "posted_date": "2026-11-13",
       "is_walk_in": 0,
       "walk_in_start_date": null,
-      "closing_date": "2026-11-03",
+      "closing_date": "2026-11-20",
       "walk_in_start_time": null,
       "walk_in_end_time": null,
-      "company_id": 5730,
+      "company_id": 5819,
       "promoted": 0,
       "company": {
-        "id": 5730,
-        "company": "Techversant Infotech (P) Ltd",
-        "logo": "/storage/images/2777.png"
+        "id": 5819,
+        "company": "Reflections Info Systems (P) Ltd",
+        "logo": "/storage/images/1782.png"
       }
     }
   ],
   "first_page_url": "https://technopark.in/api/paginated-jobs?page=1",
   "from": 81,
-  "last_page": 16,
-  "last_page_url": "https://technopark.in/api/paginated-jobs?page=16",
+  "last_page": 15,
+  "last_page_url": "https://technopark.in/api/paginated-jobs?page=15",
   "links": [
     {
       "url": "https://technopark.in/api/paginated-jobs?page=4",
@@ -428,13 +428,13 @@
       "active": false
     },
     {
-      "url": "https://technopark.in/api/paginated-jobs?page=15",
-      "label": "15",
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "label": "14",
       "active": false
     },
     {
-      "url": "https://technopark.in/api/paginated-jobs?page=16",
-      "label": "16",
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "label": "15",
       "active": false
     },
     {
@@ -448,5 +448,5 @@
   "per_page": 20,
   "prev_page_url": "https://technopark.in/api/paginated-jobs?page=4",
   "to": 100,
-  "total": 317
+  "total": 283
 }

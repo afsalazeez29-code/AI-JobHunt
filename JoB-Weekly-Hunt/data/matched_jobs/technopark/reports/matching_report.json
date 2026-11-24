@@ -1,22 +1,182 @@
 {
-  "portal": "Technopark",
-  "generated_at": "2026-10-26T05:20:56.129515+05:30",
-  "source_records": 317,
-  "unique_source_records": 317,
-  "intra_portal_duplicates": 0,
+  "status": "COMPLETE",
+  "pages_discovered": 15,
+  "pages_processed": 15,
+  "unique": 283,
+  "duplicates": 0,
+  "errors": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "url": "https://technopark.in/api/paginated-jobs?page=1",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:50.001815+00:00"
+    },
+    {
+      "page_number": 2,
+      "url": "https://technopark.in/api/paginated-jobs?page=2",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:50.821356+00:00"
+    },
+    {
+      "page_number": 3,
+      "url": "https://technopark.in/api/paginated-jobs?page=3",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:51.639951+00:00"
+    },
+    {
+      "page_number": 4,
+      "url": "https://technopark.in/api/paginated-jobs?page=4",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:52.562193+00:00"
+    },
+    {
+      "page_number": 5,
+      "url": "https://technopark.in/api/paginated-jobs?page=5",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:53.585945+00:00"
+    },
+    {
+      "page_number": 6,
+      "url": "https://technopark.in/api/paginated-jobs?page=6",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:54.506368+00:00"
+    },
+    {
+      "page_number": 7,
+      "url": "https://technopark.in/api/paginated-jobs?page=7",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:55.325805+00:00"
+    },
+    {
+      "page_number": 8,
+      "url": "https://technopark.in/api/paginated-jobs?page=8",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:56.145330+00:00"
+    },
+    {
+      "page_number": 9,
+      "url": "https://technopark.in/api/paginated-jobs?page=9",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:56.954660+00:00"
+    },
+    {
+      "page_number": 10,
+      "url": "https://technopark.in/api/paginated-jobs?page=10",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:57.784659+00:00"
+    },
+    {
+      "page_number": 11,
+      "url": "https://technopark.in/api/paginated-jobs?page=11",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:58.556933+00:00"
+    },
+    {
+      "page_number": 12,
+      "url": "https://technopark.in/api/paginated-jobs?page=12",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:43:59.422841+00:00"
+    },
+    {
+      "page_number": 13,
+      "url": "https://technopark.in/api/paginated-jobs?page=13",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:44:00.343837+00:00"
+    },
+    {
+      "page_number": 14,
+      "url": "https://technopark.in/api/paginated-jobs?page=14",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 20,
+      "received_at": "2026-11-19T09:44:01.151455+00:00"
+    },
+    {
+      "page_number": 15,
+      "url": "https://technopark.in/api/paginated-jobs?page=15",
+      "success": true,
+      "attempts": 1,
+      "status_code": 200,
+      "error": null,
+      "records_received": 3,
+      "received_at": "2026-11-19T09:44:01.982117+00:00"
+    }
+  ],
+  "run_id": "jobhunt_2026-11-19_151349194103",
+  "completed_at": "2026-11-19T15:18:01.236579+05:30",
+  "active": 283,
+  "candidate_count": 66,
+  "vacancy_status_counts": {
+    "OPEN_CONFIRMED": 174,
+    "ACTIVE_OLDER_POSTING": 109
+  },
+  "posting_recency_counts": {
+    "RECENTLY_POSTED": 174,
+    "OLDER_POSTING": 109
+  },
+  "description_counts": {
+    "FULL_DESCRIPTION_RETRIEVED": 283
+  },
   "category_counts": {
-    "Strong Match": 8,
-    "Potential Match": 124,
-    "Related Developer Role": 4,
-    "Manual Review": 2,
-    "Expired Relevant Role": 0,
-    "Not Relevant": 179
+    "NOT RELEVANT": 217,
+    "RELATED DEVELOPER ROLE": 45,
+    "POTENTIAL MATCH": 20,
+    "STRONG MATCH": 1
   },
-  "candidate_records_written": 138,
-  "description_status_counts": {
-    "FULL_DESCRIPTION_RETRIEVED": 315,
-    "PARTIAL_DESCRIPTION_RETRIEVED": 2
-  },
-  "eligibility_manual_verification": 130,
-  "output_directory": "C:\\Users\\afsal\\OneDrive\\Desktop\\AI JobHunt\\JoB-Weekly-Hunt\\data\\matched_jobs\\technopark"
+  "validation_passed": true
 }
